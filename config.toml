@@ -1,5 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Maxence Mauduit - Designer at buzzvil"
+title = "Designer at buzzvil"
 theme = "ananke"
+custom_css = ["css/styles.css"]
+pluralizelisttitles = false
 sectionPagesMenu = "main"
+[params]
+  author = "Maxence Mauduit"
+  description = "Connecting Dots."
+  twitter = "https://twitter.com/mmaxence"
+  linkedin = "https://www.linkedin.com/in/mmaxence/"
