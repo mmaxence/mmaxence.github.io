@@ -6,6 +6,7 @@ custom_css = ["css/styles.css"]
 pluralizelisttitles = false
 sectionPagesMenu = "main"
 [params]
+  custom_css = ["dist/css/style.css"]
   author = "Maxence Mauduit"
   description = "Connecting Dots."
   twitter = "https://twitter.com/mmaxence"

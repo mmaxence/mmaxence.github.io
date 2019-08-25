@@ -1,0 +1,16 @@
+.hover-bg-yellow{
+    transform-origin: center right;
+    transform: scaleX(0);
+    transition: transform 0.25s ease-in-out;
+}
+.hover-bg-yellow:hover,
+.hover-bg-yellow:focus {
+    background-color: #ffff00;
+    transform-origin: center right;
+    transform: scaleX(0);
+    transition: transform 0.25s ease-in-out;
+}
+.hover-bg-yellow:hover::before {
+    transform-origin: center left;
+    transform: scaleX(1);
+}
