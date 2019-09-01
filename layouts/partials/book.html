@@ -1,0 +1,11 @@
+{{ $featured_image := .Params.featured_image }}
+  <a href="{{.URL}}" class="db link">
+    <article class="bg-white center mw8 shadow-4 br4 mv2">
+      <img src="{{ $featured_image }}" class="img br4 br--top" alt="image from {{ .Title }}">
+      <div class="pa3">
+        <h4 class="db black lh-title f2">{{ .Title }}</h4>
+        <h1 class="f6 ttu tracked">{{ .Params.Taxonomies.Category }}</h1>
+        <small class="gray db pv2">AMP - <time>6 hours ago</time></small>
+      </div>
+    </article>
+  </a>

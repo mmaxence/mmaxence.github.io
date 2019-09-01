@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/library/</loc>
+    <lastmod>2019-07-14T15:47:02+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/blog/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
   </url>
@@ -13,12 +18,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/library/book-2/</loc>
+    <loc>http://example.org/library/books/book-2/</loc>
     <lastmod>2019-07-14T11:37:49+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/library/book-1/</loc>
+    <loc>http://example.org/library/books/book-1/</loc>
     <lastmod>2019-07-14T11:37:34+09:00</lastmod>
   </url>
   
@@ -28,23 +33,22 @@
   </url>
   
   <url>
-    <loc>http://example.org/blog/posts/second-blog/</loc>
+    <loc>http://example.org/blog/posts/design-peer-reviews-to-support-our-team-growth/</loc>
     <lastmod>2019-07-14T11:31:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/posts/first-blog/</loc>
+    <loc>http://example.org/blog/posts/design-system-at-buzzvil/</loc>
+    <lastmod>2019-07-14T11:07:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/posts/why-and-how-we-decided-to-drastically-change-our-design-toolbox-in-2019/</loc>
     <lastmod>2019-07-14T11:07:21+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/library/</loc>
-    <lastmod>2019-07-14T11:37:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   

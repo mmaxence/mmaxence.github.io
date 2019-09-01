@@ -11,3 +11,5 @@ sectionPagesMenu = "main"
   description = "Connecting Dots."
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
+  show_reading_time = true
+  favicon = "images/favicon.png"

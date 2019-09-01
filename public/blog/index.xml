@@ -12,21 +12,35 @@
     
     
     <item>
-      <title>second blog</title>
-      <link>http://example.org/blog/posts/second-blog/</link>
+      <title>Design peer reviews to support our team growth</title>
+      <link>http://example.org/blog/posts/design-peer-reviews-to-support-our-team-growth/</link>
       <pubDate>Sun, 14 Jul 2019 11:31:33 +0900</pubDate>
       
-      <guid>http://example.org/blog/posts/second-blog/</guid>
-      <description></description>
+      <guid>http://example.org/blog/posts/design-peer-reviews-to-support-our-team-growth/</guid>
+      <description>Illustration by Jetty Cho
+I always hope to see my teammates collaborate more. Now that we are at a stage of faster growth, more fellow designers are going to join us and it felt like a good timing to push forward this all peer-review strategy.
+It’s never too late. We’ve been a team of 4 designers for the last 2 years, including 2 product / 2 visual designers. Collaboration &amp;amp; Review have been naturally there as soon as the team got 2 product designers, but it’s never been a thing across the entire team, probably due to the fact that some of our designers are working remotely, bringing communication issues.</description>
     </item>
     
     <item>
-      <title>First Blog</title>
-      <link>http://example.org/blog/posts/first-blog/</link>
+      <title>Design system at Buzzvil</title>
+      <link>http://example.org/blog/posts/design-system-at-buzzvil/</link>
       <pubDate>Sun, 14 Jul 2019 11:07:21 +0900</pubDate>
       
-      <guid>http://example.org/blog/posts/first-blog/</guid>
-      <description></description>
+      <guid>http://example.org/blog/posts/design-system-at-buzzvil/</guid>
+      <description>Design system vs startup. Takeaways.
+We built a Design system. It took us time, resources and a lot of energy, involving pretty much everyone in our design team. And it’s just the beginning of a long story. If you are working at a startup and are considering building a design system, you might find clues reading about our experience.
+First off, we can’t ignore how time consuming building a system can be.</description>
+    </item>
+    
+    <item>
+      <title>Why and how we decided to drastically change our design toolbox in 2019</title>
+      <link>http://example.org/blog/posts/why-and-how-we-decided-to-drastically-change-our-design-toolbox-in-2019/</link>
+      <pubDate>Sun, 14 Jul 2019 11:07:21 +0900</pubDate>
+      
+      <guid>http://example.org/blog/posts/why-and-how-we-decided-to-drastically-change-our-design-toolbox-in-2019/</guid>
+      <description>Hi, I’m Max and I lead a team of designers at Buzzvil. When we’ve decided last year to drastically change our design toolbox, I was pleased to find plenty of insights from other teams around the world. This post talks about our decisions and related needs!
+To give a quick background, we are a team of 5 designers located in Seoul and Taipei. The team counts 3 Product designers including myself and 2 visual - Brand designers.</description>
     </item>
     
   </channel>
