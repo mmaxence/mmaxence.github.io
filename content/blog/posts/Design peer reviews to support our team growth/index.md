@@ -74,9 +74,3 @@ We started peer reviews for many good reasons listed above, but there are also a
 **Faster Production** should also be seen in the long run as we are rising issues earlier in the Design process. This potentially can reduce partner’s feedbacks which are much more difficult and time consuming to fix as it usually involves more communication and people in the loop.
 
 **Team bonding**, of course.. is one expected outcome in the long run. After understanding that critics are always positive insights and that taking time to help another teammate is a pretty rewarding process too.
-
-—
-
-You are using peer-reviews? Any feedbacks or a different point of view? Please leave a comment :).
-
-<iframe src="https://medium.com/media/05d5fd32eda31cbd1b83287606744532" frameborder=0></iframe>

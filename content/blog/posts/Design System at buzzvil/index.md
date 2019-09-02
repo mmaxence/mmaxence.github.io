@@ -148,5 +148,3 @@ Sharing our assets is a way to help not just our co-workers but anyone communica
 Sharing our early concepts, principles and design culture is for everyone to understand our process and to understand how sharing ideas is never a useless thing. In the end, a single concept could resonate in a different way to someone else, bringing up new leads.
 
 Like many others, we will soon share our design system to everyone after cleaning up the mess a bit :). Thanks for taking the time to read me until the end, I’ve decided to keep this article away from our actual products and components to keep it more generic, but I would be happy to answer any question you’d have!
-
-![](https://cdn-images-1.medium.com/max/2000/1*RwP7w20YiD5gjxkpQjb9Tw.gif)

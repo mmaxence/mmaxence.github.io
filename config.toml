@@ -11,5 +11,7 @@ sectionPagesMenu = "main"
   description = "Connecting Dots."
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
+  github = "https://github.com/mmaxence"
+  medium = "https://medium.com/@max_1206"
   show_reading_time = true
   favicon = "images/favicon.png"
