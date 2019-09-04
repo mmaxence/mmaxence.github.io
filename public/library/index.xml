@@ -2,30 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shelf on Designer at buzzvil</title>
-    <link>http://example.org/library/</link>
+    <link>https://maxence-d5f05.firebaseapp.com/library/</link>
     <description>Recent content in Shelf on Designer at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2019 15:47:02 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/library/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maxence-d5f05.firebaseapp.com/library/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Book 2</title>
-      <link>http://example.org/library/books/book-2/</link>
-      <pubDate>Sun, 14 Jul 2019 11:37:49 +0900</pubDate>
+      <title>High Output Management</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-5/</link>
+      <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
       
-      <guid>http://example.org/library/books/book-2/</guid>
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High Output Management</title>
-      <link>http://example.org/library/books/book-1/</link>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-7/</link>
       <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
       
-      <guid>http://example.org/library/books/book-1/</guid>
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast &amp; SLow</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-1/</link>
+      <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast &amp; SLow</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-2/</link>
+      <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast &amp; SLow</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-3/</link>
+      <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast &amp; SLow</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-4/</link>
+      <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast &amp; SLow</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-8/</link>
+      <pubDate>Sun, 14 Jul 2019 11:37:34 +0900</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Output Management</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/book-6/</link>
+      <pubDate>Sun, 14 Apr 2019 11:37:34 +0900</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/book-6/</guid>
       <description></description>
     </item>
     

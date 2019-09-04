@@ -3,57 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/blog/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/library/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/</loc>
     <lastmod>2019-07-14T12:01:07+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/library/books/book-2/</loc>
-    <lastmod>2019-07-14T11:37:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/library/books/book-1/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-5/</loc>
     <lastmod>2019-07-14T11:37:34+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-7/</loc>
+    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-1/</loc>
+    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-2/</loc>
+    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-3/</loc>
+    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-4/</loc>
+    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-8/</loc>
+    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/projects/</loc>
     <lastmod>2019-07-14T11:33:29+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/posts/design-peer-reviews-to-support-our-team-growth/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/blog/posts/design-peer-reviews-to-support-our-team-growth/</loc>
     <lastmod>2019-07-14T11:31:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/posts/design-system-at-buzzvil/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/blog/posts/design-system-at-buzzvil/</loc>
     <lastmod>2019-07-14T11:07:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/posts/why-and-how-we-decided-to-drastically-change-our-design-toolbox-in-2019/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/blog/posts/why-and-how-we-decided-to-drastically-change-our-design-toolbox-in-2019/</loc>
     <lastmod>2019-07-14T11:07:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/library/books/book-6/</loc>
+    <lastmod>2019-04-14T11:37:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://maxence-d5f05.firebaseapp.com/tags/</loc>
     <priority>0</priority>
   </url>
   

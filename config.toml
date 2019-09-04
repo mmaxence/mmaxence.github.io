@@ -1,10 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://maxence-d5f05.firebaseapp.com"
 languageCode = "en-us"
 title = "Designer at buzzvil"
 theme = "ananke"
 custom_css = ["css/styles.css"]
 pluralizelisttitles = false
 sectionPagesMenu = "main"
+
 [params]
   custom_css = ["dist/css/style.css"]
   author = "Maxence Mauduit"
