@@ -5,4 +5,4 @@ draft: false
 featured_image: false
 type: library
 ---
-
+Here are a few selected great read that, in a way or another, shaped my vision on Design & leadership. 
