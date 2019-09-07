@@ -4,17 +4,17 @@
     {{ partial "site-navigation-dark.html" . }}
   </div>
 </header>
-    <div class="intro vh-75 bg-white flex items-center">
+    <div class="intro vh-75 flex items-center">
       <div class="tc pa3 w-100">
         <img src="images/mmaxence_logo.svg">
-        <h1 class="tc f-headline-l measure-m f2-ns fw4 athelas black-90 lh-title">
+        <h1 class="tc f-headline-l measure-m f2 fw4 athelas black-90 lh-title">
         {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
         {{ end }}
       </div>
     </div>
-    <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy bg-white">
+    <article class="cf ph3 ph5-l pv3 pv4-l f4 measure-wide lh-copy">
       {{ .Content }}
     </article>
 {{ end }}

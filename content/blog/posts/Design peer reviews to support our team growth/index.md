@@ -3,6 +3,7 @@ title: "Design peer reviews to support our team growth"
 date: 2019-07-14T11:31:33+09:00
 draft: false
 featured_image: "/images/design_peer_review.jpeg"
+tags: ["design", "team", "methodology"]
 ---
 
 Illustration by Jetty Cho

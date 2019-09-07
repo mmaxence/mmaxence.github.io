@@ -9,18 +9,29 @@ copyright = "Everything is mine"
 [languages]
   [languages.en]
     LanguageName = "En"
+    languageFlag = "🇬🇧"
     title = "Designer at buzzvil"
     weight = 1
     [languages.en.params]
       linkedin = "https://linkedin.com/whoever"
   [languages.fr]
     LanguageName = "Fr"
+    languageFlag = "🇫🇷"
     title = "Designer chez buzzvil"
     weight = 2
     [languages.fr.params]
       linkedin = "https://linkedin.com/fr/whoever"
       [languages.fr.params.navigation]
         help = "Aide"
+  [languages.ko]
+  LanguageName = "Kr"
+  languageFlag = "🇰🇷"
+  title = "Designer chez buzzvil"
+  weight = 2
+  [languages.ko.params]
+    linkedin = "https://linkedin.com/fr/whoever"
+    [languages.ko.params.navigation]
+      help = "Aide"
 
 [params]
   custom_css = ["dist/css/style.css"]

@@ -5,3 +5,9 @@
     transform: scaleX(0);
     transition: transform 0.25s ease-in-out;
 }
+body {font-family: 'Lato', sans-serif;}
+a,a:visited,a:hover,a:active{color:black;}
+a:hover {background-color: yellow;}
+mark{
+    background-color:rgba(255,255,0,0.5);
+}

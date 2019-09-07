@@ -7,7 +7,7 @@
       </a>
     </div>  
     <div class="flex-l items-center">
-      {{ partial "i18nlist.html" . }}
+      <!-- {{ partial "i18nlist.html" . }} -->
       {{ if .Site.Menus.main }}
         <ul class="pl0 mr3">
           {{ range .Site.Menus.main }}
@@ -18,11 +18,6 @@
           </li>
           {{ end }}
         </ul>
-        <ul>
-          {{ range $.Site.Home.AllTranslations }}
-          <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-          {{ end }}
-          </ul>
       {{ end }}
     </div>
   </div>
