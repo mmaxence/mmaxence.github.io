@@ -20,6 +20,7 @@
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
     {{ with $stylesheet.css }}
       <link href="{{ relURL (printf "%s%s" "dist/" .) }}" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="dist/css/sprite_60fps.css"/>
     {{ end }}
 
     {{ range .Site.Params.custom_css }}

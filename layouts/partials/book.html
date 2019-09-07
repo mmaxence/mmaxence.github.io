@@ -1,12 +1,13 @@
 {{ $featured_image := .Params.featured_image }}
-  <a href="{{.URL}}" class="db link">
-    <article class="bg-white center mw8 shadow-4 br4 mv2">
-      <img src="{{ $featured_image }}" class="img br4 br--top" alt="image from {{ .Title }}">
+<div class="ph3 ph0-l">
+  <a href="{{.LinkTitle}}" class="db link">
+    <article class="bg-white center mw8 shadow-4 br3 mv2">
+      <img src="{{ $featured_image }}" class="img br3 br--top" alt="image from {{ .Title }}">
       <div class="ph3">
         <h1 class="db black f4 fw6">{{ .Title }}</h1>
         <h2 class="db black f5 fw4">by {{ .Description }}</h1>
-        <h3 class="f5 fw4 gray">{{ .Params.Taxonomies.Category }}</h1>
-        <small class="gray db pv2"><time>{{- .Date.Format "January 2, 2006" -}}</time></small>
+        <h3 class="f5 fw4 gray pb3">{{ .Params.Taxonomies.Category }}</h1>
       </div>
     </article>
   </a>
+</div> 

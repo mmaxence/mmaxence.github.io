@@ -3,41 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maxence-d5f05.firebaseapp.com/fr/library/</loc>
-    <lastmod>2019-07-14T15:47:02+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maxence-d5f05.firebaseapp.com/library/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://maxence-d5f05.firebaseapp.com/fr/library/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://maxence-d5f05.firebaseapp.com/fr/</loc>
-    <lastmod>2019-07-14T12:01:07+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://maxence-d5f05.firebaseapp.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://maxence-d5f05.firebaseapp.com/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://maxence-d5f05.firebaseapp.com/fr/"
-                />
-  </url>
-  
-  <url>
     <loc>https://maxence-d5f05.firebaseapp.com/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -54,6 +19,26 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://maxence-d5f05.firebaseapp.com/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/fr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://maxence-d5f05.firebaseapp.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://maxence-d5f05.firebaseapp.com/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://maxence-d5f05.firebaseapp.com/fr/"
                 />
   </url>
   
