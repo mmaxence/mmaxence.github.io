@@ -1,9 +1,26 @@
 baseURL = "https://maxence-d5f05.firebaseapp.com"
 languageCode = "en-us"
-title = "Designer at buzzvil"
 custom_css = ["css/styles.css"]
 pluralizelisttitles = false
 sectionPagesMenu = "main"
+theme = "gohugo-theme-ananke"
+copyright = "Everything is mine"
+
+[languages]
+  [languages.en]
+    LanguageName = "En"
+    title = "Designer at buzzvil"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+  [languages.fr]
+    LanguageName = "Fr"
+    title = "Designer chez buzzvil"
+    weight = 2
+    [languages.fr.params]
+      linkedin = "https://linkedin.com/fr/whoever"
+      [languages.fr.params.navigation]
+        help = "Aide"
 
 [params]
   custom_css = ["dist/css/style.css"]
@@ -15,3 +32,5 @@ sectionPagesMenu = "main"
   medium = "https://medium.com/@max_1206"
   show_reading_time = true
   favicon = "images/favicon.png"
+  [params.navigation]
+    help = "Help"
