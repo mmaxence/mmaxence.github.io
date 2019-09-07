@@ -1,0 +1,30 @@
+{{ $featured_image := .Params.featured_image }}
+<article class="pv4 bb b--black-10 ph3 ph0-l">
+  <div class="flex flex-column flex-row-ns">
+    <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
+      <h1 class="f3 athelas mt0 lh-title">
+          <a href="{{.URL}}" class="color-inherit link bg-animate hover-bg-yellow">
+            {{ .Title }}
+          </a>
+      </h1>
+      <p class="f5 f4-l lh-copy athelas">
+            {{ .Summary }}
+      </p>
+    </div>
+    <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+      {{ if .Params.featured_image }}
+          {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+          {{ $featured_image := (trim $featured_image "/") | absURL }}
+          <a href="{{.URL}}" class="db">
+            <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+          </a>
+    </div>
+  </div>
+  <time class="f6 db gray">{{- .Date.Format "January 2, 2006" -}}
+      {{ end }}
+      {{ $section := .Site.GetPage "section" .Section }}
+      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+   - {{ .ReadingTime}} minutes read
+    {{ end }}
+  </time>
+</article>
