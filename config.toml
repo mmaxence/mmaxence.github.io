@@ -2,9 +2,27 @@ baseURL = "https://maxence-d5f05.firebaseapp.com"
 languageCode = "en-us"
 custom_css = ["css/styles.css"]
 pluralizelisttitles = false
-sectionPagesMenu = "main"
 theme = "gohugo-theme-ananke"
 copyright = "Everything is mine"
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    title = "blog section"
+    url = "/blog/"
+    weight = -130
+  [[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    title = "Projects section"
+    url = "/Projects/"
+    weight = -120
+  [[menu.main]]
+    identifier = "Shelf"
+    name = "Shelf"
+    title = "Bookshelf"
+    url = "/Library/"
+    weight = -110
 
 [languages]
   [languages.en]

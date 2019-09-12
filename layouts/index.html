@@ -1,20 +1,22 @@
 {{ define "header" }}
-<header class="vh-25">
-  <div class="{{ .Site.Params.background_color_class | default "bg-white" }}">
-    {{ partial "site-navigation-dark.html" . }}
-  </div>
-</header>
-    <div class="intro vh-75 flex items-center">
-      <div class="tc pa3 w-100">
-          <div class="shapeshifter play center tc" style="background-image: url(/images/sprite_60fps.svg)"></div>
-        <h1 class="tc f-headline-l measure-m f2 fw4 athelas black-90 lh-title">
-        {{ .Title | default .Site.Title }}
-        </h1>
-        {{ with .Params.description }}
-        {{ end }}
-      </div>
+
+  <header class="vh-25">
+    <div class="{{ .Site.Params.background_color_class | default "bg-white" }}">
+      {{ partial "site-navigation-dark.html" . }}
     </div>
-    <article class="cf ph3 ph5-l pv3 pv4-l f4 measure-wide lh-copy">
-      {{ .Content }}
-    </article>
+  </header>
+  <div class="intro vh-75 flex items-center">
+    <div class="tc pa3 w-100">
+        <div class="shapeshifter play center tc" style="background-image: url(/images/sprite_60fps.svg)"></div>
+      <h1 class="tc f-headline-l measure-m f2 fw4 athelas black-90 lh-title">
+      {{ .Title | default .Site.Title }}
+      </h1>
+      {{ with .Params.description }}
+      {{ end }}
+    </div>
+  </div>
+  <article class="index cf ph3 ph5-l pv3 pv4-l f4 measure-wide lh-copy">
+    {{ .Content }}
+  </article>
+
 {{ end }}
