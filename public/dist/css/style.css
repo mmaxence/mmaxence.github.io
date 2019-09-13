@@ -11,3 +11,13 @@ a:hover {background-color: yellow;}
 mark{
     background-color:rgba(255,255,0,0.5);
 }
+.index{
+    font-family: athelas;
+}
+.index h1, .index h2{
+    font-family: avenir;
+    font-weight: 500;
+}
+.index h2{
+    font-weight: 600;
+}

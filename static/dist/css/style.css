@@ -14,10 +14,13 @@ mark{
 .index{
     font-family: athelas;
 }
-.index h1, .index h2{
+.index h1, .index h2, .index h5{
     font-family: avenir;
     font-weight: 500;
 }
 .index h2{
     font-weight: 600;
+}
+.index h5{
+    color: grey;
 }

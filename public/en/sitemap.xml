@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/about/</loc>
+    <lastmod>2019-07-14T12:01:07+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maxence-d5f05.firebaseapp.com/</loc>
     <lastmod>2019-07-14T12:01:07+09:00</lastmod>
     <xhtml:link
@@ -35,11 +40,6 @@
                 hreflang="en"
                 href="https://maxence-d5f05.firebaseapp.com/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://maxence-d5f05.firebaseapp.com/projects/project/ikjoongkang/</loc>
-    <lastmod>2019-07-14T11:37:34+09:00</lastmod>
   </url>
   
   <url>
@@ -85,6 +85,11 @@
   <url>
     <loc>https://maxence-d5f05.firebaseapp.com/blog/posts/why-and-how-we-decided-to-drastically-change-our-design-toolbox-in-2019/</loc>
     <lastmod>2019-07-14T11:07:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maxence-d5f05.firebaseapp.com/projects/project/ikjoongkang/</loc>
+    <lastmod>2017-09-10T11:37:34+09:00</lastmod>
   </url>
   
   <url>
