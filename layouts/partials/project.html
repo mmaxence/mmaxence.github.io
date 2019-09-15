@@ -6,10 +6,9 @@
         <img src="{{ $featured_image }}" class="img br2" alt="image from {{ .Title }}">
       </div>
       <div class="pl3-ns order-1 order-1-ns mb4 mb0-ns w-90-ns">
-        <h1 class="ma0 db black f-headline lh-solid fw6 measure">{{ .Title }}</h1>
-        <h2 class="db black f5 fw4">{{ .Description }}</h1>
-        <h3 class="f5 fw4 gray">{{ .Params.Taxonomies.Category }}</h1>
-        <small class="gray db pv2"><time>{{- .Date.Format "January 2006" -}}</time></small>
+        <h1 class="ma0 db black f-headline lh-solid athelas fw4 measure">{{ .Title }}</h1>
+        <h2 class="db black f5 fw4">{{ .Description }}</h2>
+        <small class="gray db pv2"><time>{{ .Params.Taxonomies.Category }} - {{- .Date.Format " January 2006" -}}</time></small>
       </div>
     </article>
   </a>
