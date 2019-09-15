@@ -1,11 +1,11 @@
 {{ define "main" }}
-  <article class="nested-copy-line-height b--black-10  nested-img">
+  <article class="nested-copy-line-height b--black-10 nested-img">
     <section class="cf ph3 ph5-l f4 tc-l center measure-wide lh-copy mid-gray">
       {{- .Content -}}
     </section>
     <section class="flex-ns flex-wrap justify-around">
       {{ range .Paginator.Pages }}
-        <div class="relative w-75-ns mb4 bg-white">
+        <div class="relative w-75-ns mb4">
           {{- partial "project.html" . -}}
         </div>
       {{ end }}

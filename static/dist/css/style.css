@@ -24,3 +24,19 @@ mark{
 .index h5{
     color: grey;
 }
+.shadow-4{
+    box-shadow:1px 0 16px 0 rgba(0,0,0,.08);
+    transition: all 250ms ease;
+}
+a:hover > article.shadow-4{
+    box-shadow:1px 0 32px 0 rgba(0,0,0,.16);
+    transition: all 250ms ease;
+    transform: translate(0,-6px);
+    background:none;
+}
+a.book:hover{
+    background-color: transparent;
+}
+a.credential{
+    color:grey;
+}

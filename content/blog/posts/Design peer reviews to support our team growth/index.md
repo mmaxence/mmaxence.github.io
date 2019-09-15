@@ -1,12 +1,13 @@
 ---
 title: "Design peer reviews to support our team growth"
+author: "Maxence Mauduit"
 date: 2019-07-14T11:31:33+09:00
 draft: false
 featured_image: "/images/design_peer_review.jpeg"
 tags: ["design", "team", "methodology"]
+credential: "Illustration by Jetty Cho"
+credentiallink: "https://www.linkedin.com/in/jettycho/"
 ---
-
-Illustration by Jetty Cho
 
 I always hope to see my teammates collaborate more. Now that we are at a stage of faster growth, more fellow designers are going to join us and it felt like a good timing to push forward this all peer-review strategy.
 

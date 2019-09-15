@@ -1,14 +1,15 @@
 ---
-title: "Connecting Dots"
+title: "Designer at buzzvil"
+description: "Connecting Dots"
 date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
 
 {{% fullv %}}
 
-# Hi, I am Max
+# Hi, I am Max,
 
-## I like to bring ideas to concepts.
+## Design thinker managing creativity.
 
 ### My focus is on <mark>Design Systems</mark> and building the <mark>team</mark> gravitating around it.
 

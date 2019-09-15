@@ -1,13 +1,15 @@
 {{ $featured_image := .Params.featured_image }}
-<div class="ph3 ph0-l"> 
+<div class="pv4 bb b--black-10 ph3 ph0-l"> 
   <a href="{{.URL}}" class="db link">
     <article class="bg-white mv2 flex flex-column flex-row-ns">
-      <img src="{{ $featured_image }}" class="img br3 w-100 w-20-ns " alt="image from {{ .Title }}">
-      <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-80-ns">
-        <h1 class="db black f4 fw6">{{ .Title }}</h1>
-        <h2 class="db black f5 fw4">for {{ .Description }}</h1>
+      <div class="pl3-ns order-1 order-1-ns mb4 mb0-ns w-20-ns">
+        <img src="{{ $featured_image }}" class="img br2" alt="image from {{ .Title }}">
+      </div>
+      <div class="pl3-ns order-1 order-1-ns mb4 mb0-ns w-90-ns">
+        <h1 class="ma0 db black f-headline lh-solid fw6 measure">{{ .Title }}</h1>
+        <h2 class="db black f5 fw4">{{ .Description }}</h1>
         <h3 class="f5 fw4 gray">{{ .Params.Taxonomies.Category }}</h1>
-        <small class="gray db pv2"><time>{{- .Date.Format "January 2, 2006" -}}</time></small>
+        <small class="gray db pv2"><time>{{- .Date.Format "January 2006" -}}</time></small>
       </div>
     </article>
   </a>

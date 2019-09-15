@@ -1,9 +1,9 @@
 <footer class="{{ .Site.Params.background_color_class | default "" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f6 fw4 hover-white no-underline black dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
+  <a class="f6 fw4 no-underline black dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
     &copy; {{ now.Format "2006" }} {{ .Site.Params.Author }}
   </a>
-  <a class="f6 fw4 hover-white no-underline black dib-ns pv2-ns pv3 ph3 lh-3" href="/about/" >
+  <a class="f6 fw4 no-underline black dib-ns pv2-ns pv3 ph3 lh-3" href="/about/" >
   About
   </a>
     <div>{{ partial "social-follow.html" . }}</div>

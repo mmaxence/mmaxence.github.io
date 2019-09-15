@@ -3,6 +3,8 @@ title: "Design system at Buzzvil"
 date: 2019-07-14T11:07:21+09:00
 draft: false
 featured_image: "/images/design_system_at_buzzvil.jpeg"
+credential: "Illustration by Jetty Cho"
+credentiallink: "https://www.linkedin.com/in/jettycho/"
 ---
 
 Design system vs startup. Takeaways.
