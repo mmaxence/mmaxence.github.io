@@ -1,12 +1,12 @@
 baseURL = "https://maxence-d5f05.firebaseapp.com"
 languageCode = "en-us"
-custom_css = ["css/styles.css"]
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
 title = "Maxence Mauduit"
 
 [params]
   custom_css = ["dist/css/style.css"]
+  custom_js = ["dist/js/script.js"]
   author = "Maxence Mauduit"
   description = "Designer at buzzvil"
   twitter = "https://twitter.com/mmaxence"

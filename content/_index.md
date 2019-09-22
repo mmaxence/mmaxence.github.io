@@ -5,7 +5,7 @@ date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
 
-{{% fullv %}}
+{{% mv6 %}}
 
 # Hi, I am Max,
 
@@ -20,10 +20,10 @@ When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark
 
 
 
-{{% /fullv %}}
+{{% /mv6 %}}
 
 # How I got there
-##### For more infos you can check out my [Linkedin](https://www.linkedin.com/in/mmaxence/)
+##### For more infos you can check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
 
 # buzzvil
 ##### Seoul - 2014 to present

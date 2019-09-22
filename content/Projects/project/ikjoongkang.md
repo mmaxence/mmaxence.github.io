@@ -1,6 +1,6 @@
 ---
-title: "IkJoongkang Public exhibition"
-description: "ARKO Museum"
+title: "Ik-Joong kang - Things I know"
+description: "ARKO Art Center"
 taxonomies:
     category: "Art installation"
 date: 2017-09-10T11:37:34+09:00
