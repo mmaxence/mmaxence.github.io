@@ -1,19 +1,19 @@
 ---
 title: "Designer at buzzvil"
-description: "Connecting Dots"
+description: "Pattern Recognition"
 date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
 
 {{% mv6 %}}
 
-# Hi, I am Max,
+# Hi! I am Max,
 
-## Design thinker managing creativity.
+## Design thinker, managing creativity.
 
 ### My focus is on <mark>Design Systems</mark> and building the <mark>team</mark> gravitating around it.
 
-#### I am currently <mark>leading</mark> a talented Design team at [buzzvil](https://www.buzzvil.com/ "Title"). I also co-manage our inventory mission team and Creative Lab.
+#### I am currently <mark>leading</mark> a talented Design team at [buzzvil](https://www.buzzvil.com/ "Title"). I also co-manage our Creative Lab and led a couple of mission teams this year.
 #### I live in <mark>Seoul</mark>, a truly amazing city I have been exploring for more than 5 years now.
 
 When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various [projects](/projects/). I also like to play outside. 😛
@@ -37,19 +37,19 @@ Late 2014 I joined buzzvil as lead designer, a promising startup based in Seoul.
 I don't consider myself as lazy per se, but I do enjoy a lot finding solutions to shorten boring, repetitive work. This marks the beginning of my interest for <mark>Pattern recognition</mark> and the discovery of <mark>DesignOps</mark>.
 
 ## 2017
-### Feeling limited by my own capabilities
+### Feeling limited
 That year is important in my career. This is the time I've decided to invest in becoming a better leader in order to achieve more than I could do just by myself. <mark>I've started investing more time being a greater leader than being a better designer</mark>.
 
 ## 2018
 ### The year I became a better manager.
-<mark>Being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with the team growing up, I've learnt a few things on how to become a better manager. I've learnt through theory ([shelf:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) but also through hard experiences and great guidance from my managers.
+<mark>Being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, I've learnt a few things on how to become a better manager. I've learnt through theory ([read:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) but also through hard experiences and great guidance from my managers.
 ### Opening Design to non-designers
 We've published internally the first version of our Design system. <mark>From now on anyone in the company can access and play Lego with these components and layout</mark>. Since then we've seen various team using these assets to mockup what would look like a potential partner integration over our While Label SDK. Designers are asked to help out if requested but our time can now focus on actual design for our upcoming releases!
 
 ## 2019
 ### Design system expert
 The team is about to publish an online version of our Design System. 🎊   
-Building a Design system is more a story about team organization, workflow and Principles than it is about Components. 
+Building a Design system is more a story about team organization, workflow and Principles than it is about Components.
 
 ### Leading a mission team
 Later last year I started leading an amazing mission team called UXP (User eXPerience) with goal to enhance our usability and test new features. The team consisted of 2 designers, 3 client engineers, 1 server engineer and a PM. For many of us it was the first time closely working with different fields and we learnt a lot from this experience. We've made mistakes that makes us all today much stronger than we were. The mission eventually ended up last July and merged with another team to help us move our inventory through our new vision. I now co-lead this inventory Lab team.

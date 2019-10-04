@@ -12,6 +12,69 @@
     
     
     <item>
+      <title>High Output Management</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/high-output-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/high-output-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measure What Matters</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/measure_what_matters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/measure_what_matters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking Fast &amp; SLow</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/thinking-fast-and-slow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/thinking-fast-and-slow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Man&#39;s search for meaning</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/man-search-for-meaning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/man-search-for-meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bird by bird</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/bird-by-bird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/bird-by-bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern Recognition</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/pattern-recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/pattern-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1Q84</title>
+      <link>https://maxence-d5f05.firebaseapp.com/library/books/1q84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxence-d5f05.firebaseapp.com/library/books/1q84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Billy</title>
       <link>https://maxence-d5f05.firebaseapp.com/projects/project/billy/</link>
       <pubDate>Tue, 10 Sep 2019 11:37:34 +0900</pubDate>
@@ -26,24 +89,6 @@
       <pubDate>Thu, 01 Aug 2019 11:37:34 +0900</pubDate>
       
       <guid>https://maxence-d5f05.firebaseapp.com/projects/project/figma-ci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bird by bird</title>
-      <link>https://maxence-d5f05.firebaseapp.com/library/books/bird-by-bird/</link>
-      <pubDate>Thu, 01 Aug 2019 11:37:34 +0900</pubDate>
-      
-      <guid>https://maxence-d5f05.firebaseapp.com/library/books/bird-by-bird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thinking Fast &amp; SLow</title>
-      <link>https://maxence-d5f05.firebaseapp.com/library/books/thinking-fast-and-slow/</link>
-      <pubDate>Thu, 01 Aug 2019 11:37:34 +0900</pubDate>
-      
-      <guid>https://maxence-d5f05.firebaseapp.com/library/books/thinking-fast-and-slow/</guid>
       <description></description>
     </item>
     
@@ -90,47 +135,11 @@ To give a quick background, we are a team of 5 designers located in Seoul and Ta
     </item>
     
     <item>
-      <title>1Q84</title>
-      <link>https://maxence-d5f05.firebaseapp.com/library/books/1q84/</link>
-      <pubDate>Fri, 01 Feb 2019 11:37:34 +0900</pubDate>
-      
-      <guid>https://maxence-d5f05.firebaseapp.com/library/books/1q84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Man&#39;s search for meaning</title>
-      <link>https://maxence-d5f05.firebaseapp.com/library/books/man-search-for-meaning/</link>
-      <pubDate>Tue, 01 Jan 2019 11:37:34 +0900</pubDate>
-      
-      <guid>https://maxence-d5f05.firebaseapp.com/library/books/man-search-for-meaning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High Output Management</title>
-      <link>https://maxence-d5f05.firebaseapp.com/library/books/high-output-management/</link>
-      <pubDate>Thu, 01 Nov 2018 11:37:34 +0900</pubDate>
-      
-      <guid>https://maxence-d5f05.firebaseapp.com/library/books/high-output-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ik-Joong kang - Things I know</title>
       <link>https://maxence-d5f05.firebaseapp.com/projects/project/ikjoongkang/</link>
       <pubDate>Sun, 10 Sep 2017 11:37:34 +0900</pubDate>
       
       <guid>https://maxence-d5f05.firebaseapp.com/projects/project/ikjoongkang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pattern Recognition</title>
-      <link>https://maxence-d5f05.firebaseapp.com/library/books/pattern-recognition/</link>
-      <pubDate>Sat, 14 Jun 2014 11:37:34 +0900</pubDate>
-      
-      <guid>https://maxence-d5f05.firebaseapp.com/library/books/pattern-recognition/</guid>
       <description></description>
     </item>
     

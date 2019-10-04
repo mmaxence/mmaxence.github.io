@@ -1,16 +1,10 @@
-.hover-bg-yellow:hover,
-.hover-bg-yellow:focus {
-    background-color: #ffff00;
-    transform-origin: center right;
-    transform: scaleX(0);
-    transition: transform 0.25s ease-in-out;
-}
 body {font-family: 'Lato', sans-serif;}
-a,a:visited,a:hover,a:active{color:black;}
-a:hover {background-color: yellow;}
-mark{
-    background-color:rgba(255,255,0,0.5);
+a,a:visited,a:hover,a:active{
+    color:black;
 }
+
+/*    Index Page    */
+
 .index{
     font-family: athelas;
 }
@@ -24,6 +18,54 @@ mark{
 .index h5{
     color: grey;
 }
+@media screen and (min-width: 48em) {
+    .intro .f-headline-l{
+        font-size: 12em;
+    }
+  }
+  @media screen and (max-width: 48em) {
+    .intro .f-headline-l{
+        font-size: 3.5em;
+    }
+  }
+
+
+/*    Hovers and Marks    */
+
+.hover-bg-yellow:hover,
+.hover-bg-yellow:focus {
+    background-color: #ffff00;
+    transform-origin: center right;
+    transform: scaleX(0);
+    transition: transform 0.25s ease-in-out;
+}
+a:hover {background-color: yellow;}
+::selection {
+    background: rgba(255,255,0,0.5);
+  }
+  ::-moz-selection {
+    background: rgba(255,255,0,0.5);
+  }
+mark{
+    background-color: transparent;
+    background-image:linear-gradient( transparent 0%, transparent calc(50% - 8px), rgba(255, 255, 0, 0.5) calc(50% - 8px), rgba(255, 255, 0, 0.5) 100% );
+    background-size: 100% 200%;
+    background-position: 0 0;
+}
+li.active > a{
+    background-image:linear-gradient( transparent 0%, transparent calc(80% - 2px), rgba(255, 255, 0, 0.5) calc(80% - 2px), rgba(255, 255, 0, 0.5) 100% );
+    transition: all .25s ease-in-out;
+  }
+  li.active > a:hover{
+    background-color: yellow;
+    transition: all .25s ease-in-out;
+  }
+  .f-headline-l{
+    background-image:linear-gradient( transparent 0%, transparent calc(80% - 2px), rgba(255, 255, 0, 0.5) calc(80% - 2px), rgba(255, 255, 0, 0.5) 100% );
+  }
+
+/*    Library    */
+
 .shadow-4{
     box-shadow:1px 0 16px 0 rgba(0,0,0,.08);
     transition: all 250ms ease;
@@ -40,16 +82,3 @@ a.book:hover{
 a.credential{
     color:grey;
 }
-@media screen and (min-width: 48em) {
-    .intro .f-headline-l{
-        font-size: 12em;
-    }
-  }
-  @media screen and (max-width: 48em) {
-    .intro .f-headline-l{
-        font-size: 3.5em;
-    }
-  }
-  li.active > a{
-    background-color: yellow;
-  }

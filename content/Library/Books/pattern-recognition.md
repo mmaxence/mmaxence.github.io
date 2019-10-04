@@ -3,7 +3,7 @@ title: "Pattern Recognition"
 description: "William Gibson"
 taxonomies:
     category: "novel"
-date: 2014-06-14T11:37:34+09:00
+weight: 6
 draft: false
 linktitle: "https://www.amazon.com/s?k=pattern+recognition+william+gibson&rh=n%3A283155&dc&qid=1567856481&rnid=2941120011&ref=sr_nr_n_1"
 featured_image: "/images/pattern.jpg"

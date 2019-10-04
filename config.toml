@@ -19,19 +19,21 @@ title = "Maxence Mauduit"
 [menu]
   [[menu.main]]
     identifier = "blog"
-    name = "blog"
+    name = "write"
     title = "blog section"
     url = "/blog/"
     weight = -130
   [[menu.main]]
-    identifier = "Projects"
-    name = "Projects"
-    title = "Projects section"
+    identifier = "do"
+    name = "do"
+    title = "do"
     url = "/Projects/"
+    slug="do"
     weight = -120
   [[menu.main]]
-    identifier = "Shelf"
-    name = "Shelf"
-    title = "Bookshelf"
+    identifier = "read"
+    name = "read"
+    title = "read"
     url = "/Library/"
+    slug = "read"
     weight = -110
