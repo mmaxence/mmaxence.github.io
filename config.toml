@@ -1,8 +1,9 @@
-baseURL = "https://maxence-d5f05.firebaseapp.com"
+baseURL = "https://mmaxence.me"
 languageCode = "en-us"
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
 title = "Maxence Mauduit"
+enableRobotsTXT = true
 
 [params]
   custom_css = ["dist/css/style.css"]

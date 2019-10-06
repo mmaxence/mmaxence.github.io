@@ -63,7 +63,10 @@ li.active > a{
   .f-headline-l{
     background-image:linear-gradient( transparent 0%, transparent calc(80% - 2px), rgba(255, 255, 0, 0.5) calc(80% - 2px), rgba(255, 255, 0, 0.5) 100% );
   }
-
+.nested-links a, .nested-links a:hover{
+    color:black;
+    font-size: inherit;
+}
 /*    Library    */
 
 .shadow-4{
@@ -79,6 +82,5 @@ a:hover > article.shadow-4{
 a.book:hover{
     background-color: transparent;
 }
-a.credential{
-    color:grey;
-}
+
+/*    Other    */

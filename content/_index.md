@@ -7,18 +7,30 @@ draft: false
 
 {{% mv6 %}}
 
-# Hi! I am Max,
+# 👋 Hi! I am Max,
 
 ## Design thinker, managing creativity.
 
-### My focus is on <mark>Design Systems</mark> and building the <mark>team</mark> gravitating around it.
+### My focus is on <mark>[Design Systems](/blog/posts/design-system-at-buzzvil)</mark> and the <mark>team</mark> gravitating around it.
 
 #### I am currently <mark>leading</mark> a talented Design team at [buzzvil](https://www.buzzvil.com/ "Title"). I also co-manage our Creative Lab and led a couple of mission teams this year.
 #### I live in <mark>Seoul</mark>, a truly amazing city I have been exploring for more than 5 years now.
 
-When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various [projects](/projects/). I also like to play outside. 😛
+When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various [projects](/projects/). I also like to play outside. 🎾
 
+{{% /mv6 %}}
+{{% mv6 %}}
+# What I do
 
+## Leading Design
+
+From hiring, training, supporting each steps of our Design process to spreading <mark>Design awareness</mark> and good practices, I do my best building a strong team that fits our <mark>business expectations</mark>.
+
+## Principles, Strategy & tailor made Methods
+
+Connecting the dots with our <mark>company vision</mark> or with our <mark>engineering conventions</mark> and setting our own design goals and protocols is what I do. Understanding what is at stake and translating these insights into tangible design objectives is my mission. This goes through clear principles for the team to follow, a strategy to shape our vision and a set of methods permanently evolving to reach greater results.
+
+## 
 
 {{% /mv6 %}}
 
@@ -43,7 +55,8 @@ That year is important in my career. This is the time I've decided to invest in 
 ## 2018
 ### The year I became a better manager.
 <mark>Being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, I've learnt a few things on how to become a better manager. I've learnt through theory ([read:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) but also through hard experiences and great guidance from my managers.
-### Opening Design to non-designers
+
+### Opening Design to anyone
 We've published internally the first version of our Design system. <mark>From now on anyone in the company can access and play Lego with these components and layout</mark>. Since then we've seen various team using these assets to mockup what would look like a potential partner integration over our While Label SDK. Designers are asked to help out if requested but our time can now focus on actual design for our upcoming releases!
 
 ## 2019

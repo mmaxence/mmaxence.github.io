@@ -7,10 +7,10 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
 
-    <header class="mt4 w-100">
+    <header class="mt2 w-100">
       {{ $featured_image := .Param "featured_image"}}
-        <img src="{{ $featured_image }}" class="img br4-ns br2" alt="">
-        <a  class="credential" href=" {{ .Params.credentiallink}}"> {{ .Params.credential }} </a>
+        <img src="{{ $featured_image }}" class="img br4-ns br2 mb1" alt="">
+        <a class="silver " href=" {{ .Params.credentiallink}}"> {{ .Params.credential }} </a>
       <h1 class="f1 athelas mb1">
         {{- .Title -}}
       </h1>
