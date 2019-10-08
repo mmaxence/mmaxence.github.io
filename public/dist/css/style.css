@@ -67,6 +67,12 @@ li.active > a{
     color:black;
     font-size: inherit;
 }
+footer a.link{
+    fill: black;
+}
+footer a.link:hover{
+    background-color:transparent;
+}
 /*    Library    */
 
 .shadow-4{
@@ -84,3 +90,10 @@ a.book:hover{
 }
 
 /*    Other    */
+
+.sharing a.link{
+    fill:black;
+}
+.sharing a:hover{
+    background-color: transparent;
+}
