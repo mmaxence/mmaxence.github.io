@@ -30,7 +30,7 @@ From hiring, training, supporting each steps of our Design process to spreading 
 
 Connecting the dots with our <mark>company vision</mark> or with our <mark>engineering conventions</mark> and setting our own design goals and protocols is what I do. Understanding what is at stake and translating these insights into tangible design objectives is my mission. This goes through clear principles for the team to follow, a strategy to shape our vision and a set of methods permanently evolving to reach greater results.
 
-## 
+## OKR freak 
 
 {{% /mv6 %}}
 

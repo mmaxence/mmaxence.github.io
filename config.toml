@@ -3,7 +3,7 @@ languageCode = "en-us"
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
 title = "Maxence Mauduit"
-enableRobotsTXT = true
+googleAnalytics= "UA-149702774-1"
 
 [params]
   custom_css = ["dist/css/style.css"]
@@ -16,6 +16,7 @@ enableRobotsTXT = true
   medium = "https://medium.com/@max_1206"
   show_reading_time = true
   favicon = "images/favicon.png"
+  enableRobotsTXT = "true"
 
 [menu]
   [[menu.main]]

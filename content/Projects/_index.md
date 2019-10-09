@@ -5,4 +5,4 @@ draft: false
 featured_image: false
 type: projects
 ---
-A few projects I've been working on.
+A few projects I've been working on (Coming soon)
