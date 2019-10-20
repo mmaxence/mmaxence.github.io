@@ -8,7 +8,7 @@ a,a:visited,a:hover,a:active{
 .index{
     font-family: athelas;
 }
-.index h1, .index h2, .index h5{
+.index h1, .index h2,.index h3, .index h5{
     font-family: avenir;
     font-weight: 500;
 }
@@ -22,13 +22,37 @@ a,a:visited,a:hover,a:active{
     .intro .f-headline-l{
         font-size: 12em;
     }
-  }
-  @media screen and (max-width: 48em) {
+}
+@media screen and (max-width: 48em) {
     .intro .f-headline-l{
         font-size: 3.5em;
     }
-  }
+}
+svg #rect, svg #poly, svg #circle {
+    fill:black;
+    transition: all .1s ease-in-out;
+}
+svg #rect:hover{
+    fill: #FF4136;
+    transition: all .2s ease-in-out;
+    d: path('M72 0L144 72L72 144L-9.07293e-07 72L72 0Z');
+}
+svg #poly:hover{
+    fill:#19A974;
+    transition: all .2s ease-in-out;
+    d: path('M224 0L270.281 16.8448L294.906 59.4973L286.354 108L248.625 139.658L199.375 139.658L161.646 108L153.094 59.4973L177.719 16.8448L224 0Z');
+}
+svg #circle:hover{
+    fill: #357EDD;
+    transition: all .2s ease-in-out;
+    transition: 0.2s;
+    rx: 40;
+    width:128px;
+    height:128px;
+    x:312px;
+    y:8px;
 
+}
 
 /*    Hovers and Marks    */
 

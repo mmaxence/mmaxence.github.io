@@ -26,13 +26,6 @@ googleAnalytics= "UA-149702774-1"
     url = "/blog/"
     weight = -130
   [[menu.main]]
-    identifier = "do"
-    name = "do"
-    title = "do"
-    url = "/Projects/"
-    slug="do"
-    weight = -120
-  [[menu.main]]
     identifier = "read"
     name = "read"
     title = "read"

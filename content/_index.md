@@ -8,34 +8,63 @@ draft: false
 {{% mv6 %}}
 
 # 👋 Hi! I am Max,
+## Designer, Manager, Thinker.
 
-## Design thinker, managing creativity.
+### My focus is on <mark>[Design Systems](/blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")</mark>, managing the <mark>team</mark> that builds and maintains it.
+#### I am currently in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.
+#### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 5 years.
 
-### My focus is on <mark>[Design Systems](/blog/posts/design-system-at-buzzvil)</mark> and the <mark>team</mark> gravitating around it.
-
-#### I am currently <mark>leading</mark> a talented Design team at [buzzvil](https://www.buzzvil.com/ "Title"). I also co-manage our Creative Lab and led a couple of mission teams this year.
-#### I live in <mark>Seoul</mark>, a truly amazing city I have been exploring for more than 5 years now.
-
-When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various [projects](/projects/). I also like to play outside. 🎾
+When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various projects (soon). I also like to play outside. 🎾
 
 {{% /mv6 %}}
+
 {{% mv6 %}}
-# What I do
+# A little more about me
+##### For detailed infos you can check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
+### [Responsibilities](#responsibilities)
+### [Principles] (#principles)
+### [Skillset & Knowledge] (#skillset-knowledge)
+### [Personality](#personality)
+### [Experiences](#experiences)
+
+
+{{% /mv6 %}}
+
+{{% mv6 %}}
+
+# Responsibilities
 
 ## Leading Design
 
-From hiring, training, supporting each steps of our Design process to spreading <mark>Design awareness</mark> and good practices, I do my best building a strong team that fits our <mark>business expectations</mark>.
+From hiring, training, supporting each steps of our Design process to spreading <mark>Design awareness</mark> and good practices, I do my best building a strong team that answers our <mark>business expectations</mark>.
 
 ## Principles, Strategy & tailor made Methods
 
-Connecting the dots with our <mark>company vision</mark> or with our <mark>engineering conventions</mark> and setting our own design goals and protocols is what I do. Understanding what is at stake and translating these insights into tangible design objectives is my mission. This goes through clear principles for the team to follow, a strategy to shape our vision and a set of methods permanently evolving to reach greater results.
+Connecting the dots with our <mark>company vision</mark> or with our <mark>engineering conventions</mark> and setting our own design goals and protocols is what I do.   
+Understanding what is at stake and translating these insights into tangible design objectives is my mission.   
+This goes through clear principles for the team to follow, a strategy to shape our vision and a set of methods permanently evolving to reach greater results.
 
 ## OKR freak 
 
+The few last year proved me that <mark>OKRs</mark> are working great with Design. I take the necessary time to connect Design objectives with our product road-map, identifying dependencies and leverages for us to explore. OKR have been proven a great source of motivation as well as ensuring meaningful work.
+
 {{% /mv6 %}}
 
-# How I got there
-##### For more infos you can check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
+# Principles
+## Think hard, Do fast
+## Listen well, Communicate better
+## Balance Initiation & delegation
+
+# Skillset & Knowledge
+
+# Personality
+### The typical INFT-J
+
+# Experiences
+
+### [buzzvil (current)](#buzzvil)
+### [CMS](#cms-group)
+### [Freelance & School](#freelance-school)
 
 # buzzvil
 ##### Seoul - 2014 to present
