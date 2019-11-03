@@ -2,22 +2,27 @@ baseURL = "https://mmaxence.me"
 languageCode = "en-us"
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
-title = "Maxence Mauduit"
+title = "Designer at buzzvil"
+Author = "Maxence Mauduit"
 googleAnalytics= "UA-149702774-1"
+enableRobotsTXT = "true"
 
 [params]
   custom_css = ["dist/css/style.css"]
   custom_js = ["dist/js/script.js"]
   author = "Maxence Mauduit"
-  description = "Designer at buzzvil"
+  description = "Head of Design at buzzvil"
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
   github = "https://github.com/mmaxence"
   medium = "https://medium.com/@max_1206"
   show_reading_time = true
   favicon = "images/favicon.png"
-  enableRobotsTXT = "true"
-
+  
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 [menu]
   [[menu.main]]
     identifier = "blog"

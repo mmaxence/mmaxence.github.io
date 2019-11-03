@@ -1,7 +1,7 @@
 ---
 title: "Design peer reviews to support our team growth"
 author: "Maxence Mauduit"
-date: 2019-07-14T11:31:33+09:00
+date: 2019-04-12T11:31:33+09:00
 draft: false
 featured_image: "/images/design_peer_review.jpeg"
 tags: ["design", "team", "methodology"]

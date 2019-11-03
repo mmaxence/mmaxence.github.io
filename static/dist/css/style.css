@@ -122,3 +122,8 @@ a.book:hover{
 .sharing a:hover{
     background-color: transparent;
 }
+@media screen and (max-width: 48em) {
+    footer .about{
+        padding-top:24px;
+    }
+}

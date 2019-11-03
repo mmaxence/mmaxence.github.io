@@ -21,6 +21,7 @@ a,a:visited,a:hover,a:active{
 @media screen and (min-width: 48em) {
     .intro .f-headline-l{
         font-size: 12em;
+        line-height: 1em;
     }
 }
 @media screen and (max-width: 48em) {
@@ -120,4 +121,9 @@ a.book:hover{
 }
 .sharing a:hover{
     background-color: transparent;
+}
+@media screen and (max-width: 48em) {
+    footer .about{
+        padding-top:24px;
+    }
 }

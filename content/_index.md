@@ -1,6 +1,9 @@
 ---
-title: "Designer at buzzvil"
-description: "Pattern Recognition"
+title: "Product Designer"
+summary: "A french Product designer obsessed with patterns, living in Seoul. "
+description: "head of design at buzzvil"
+taxonomies:
+    headline: "Pattern Recognition"
 date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
@@ -8,7 +11,7 @@ draft: false
 {{% mv6 %}}
 
 # 👋 Hi! I am Max,
-## Designer, Manager, Thinker.
+## Designer, Leader, Thinker.
 
 ### My focus is on <mark>[Design Systems](/blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")</mark>, managing the <mark>team</mark> that builds and maintains it.
 #### I am currently in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.
@@ -20,10 +23,10 @@ When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark
 
 {{% mv6 %}}
 # A little more about me
-##### For detailed infos you can check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
+##### You can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
 ### [Responsibilities](#responsibilities)
 ### [Principles] (#principles)
-### [Skillset & Knowledge] (#skillset-knowledge)
+### [Qualifications] (#qualifications)
 ### [Personality](#personality)
 ### [Experiences](#experiences)
 
@@ -44,34 +47,109 @@ Connecting the dots with our <mark>company vision</mark> or with our <mark>engin
 Understanding what is at stake and translating these insights into tangible design objectives is my mission.   
 This goes through clear principles for the team to follow, a strategy to shape our vision and a set of methods permanently evolving to reach greater results.
 
-## OKR freak 
+## OKR freak, KPI enthusiast 
 
-The few last year proved me that <mark>OKRs</mark> are working great with Design. I take the necessary time to connect Design objectives with our product road-map, identifying dependencies and leverages for us to explore. OKR have been proven a great source of motivation as well as ensuring meaningful work.
+The few last year proved me that <mark>OKRs</mark> are working great with Design. I take the necessary time to connect Design objectives with our product road-map, identifying dependencies and leverages for us to explore. OKR have been proven a great source of motivation as well as ensuring meaningful work. <mark>KPIs</mark> can and should also apply to Design. It usually covers from our team efficiency, the way design is spreading within the company and of course the quality and reception of our products. I am currently implementing Google's [H.E.A.R.T framework](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux) to better track our overall product design usability.
 
 {{% /mv6 %}}
 
+{{% mv6 %}}
 # Principles
-## Think hard, Do fast
-## Listen well, Communicate better
-## Balance Initiation & delegation
+## Think slow, Do fast
+![Think Slow, Do Fast](images/think_slow_do_fast.svg "Think Slow, Do Fast") 
 
-# Skillset & Knowledge
+Giving myself the time to think, giving my [system 2](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Two_systems) (slow thinking) a chance to connect the dots has been part of my routine for as long as I have been designing. My theory is that everything can be done fast as long as I know exactly what I need to do.    
+From this habit I've became an <mark>automation specialist</mark>. It is all about identifying patterns, identifying everything that can be re-used to save up time and energy. Naturally I try to advocate the same thinking process to my Design team, so we can all <mark>focus on things that matter</mark>.
+
+## Listen actively, Communicate effectively
+![Listen actively, Communicate effectively](images/listen_actively_communicate_effectively.svg "Listen actively, Communicate effectively") 
+<mark>Information is key</mark>. As you will eventually see below, I am not the extroverted type of person and I enjoy listening to others. Effective listening has many advantages in my line of work. It gives me a better understanding and it is a natural way to earn the trust and respect of my peers.   
+As a designer, I also need to be good at communicating my ideas and as a manager I need to give my teammates clear indications & feedback. Despite my personality I am usually enjoying giving a lecture or leading a meeting as long as it has a purpose (I am really bad at chit-chatting). Being a designer gives me plenty of ways to express what I need to say aside verbal communication (mockups, drawings are most of the time sharper communication mediums to communicate your design).
+
+## Balance Initiation & delegation
+![Balance Initiation & delegation](images/balance_initiation_delegation.svg "Balance Initiation & delegation") 
+This is a recent <i>add-on</i> to my list of principles. It is important for my own survival and for the mental stability of my teammates 😁. It is about.. the right balance between initiating projects and delegating responsibilities.   
+I love starting new projects. I did it a lot on my own, enjoying the lack of responsibilities but eventually felt limited by what I could achieve by myself. That is mostly why I decided to step up and take a lead position early in my career.   
+Followed a long journey in which I've progressively learnt to delegate, starting by hiring better designers, better specialists than I am and moving my focus toward different objectives and higher levels of concepts.
+
+{{% /mv6 %}}
+
+{{% mv6 %}}
+
+# Qualifications
+##### Here is a list of keywords that tries to define what I do best.
+
+{{% 2col %}}
+## Skillset
+
+##### Leadership & Management
+
+##### Design Advocate
+
+##### Product Strategy
+
+##### Forward-thinking
+
+##### DesignOps
+
+##### Development deep understanding
+
+##### Mobile & Web product design
+
+##### Interaction Design expert
+
+
+
+{{% /2col %}}
+
+{{% 2col %}}
+## Knowledge
+
+##### Design thinking
+
+##### Design Processes & Methods
+
+##### Design Systems
+
+##### Design Patterns
+
+##### Empathic Definition
+
+
+{{% /2col %}}
+
+{{% /mv6 %}}
+
+{{% mv6 %}}
 
 # Personality
-### The typical INFT-J
+##### The typical [INFT-A](https://www.16personalities.com/profiles/77880b0fb07b9)
+![Assertive Advocate](https://static.neris-assets.com/images/types/avatars/infj-advocate-male.svg?v=1 "Assertive Advocate") 
+##### <i>Image from [16personalities.com](https://www.16personalities.com)</i>
 
+I am the typical <mark>assertive advocate</mark>, I show a lot of confidence in what I do and genuinely hate aggressiveness of any form. My introverted side disappears as soon as I can advocate what I think is right.   
+   
+It usually takes a lot to stress me out and I am the one who will usually succeed in doing so.   
+      
+What drives me outside of bed every morning is the feeling of achievement. As soon as a project, a workplace can't provide that feeling anymore, I usually move on.   
+   
+I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering things I can't identify patterns (I've tried to learn Korean by myself aside work and couldn't progress much because of a lack of pattern identification. I assume that an intensive 6 months learning the foundation would trigger that).
+
+
+{{% /mv6 %}}
+{{% mv6 %}}
 # Experiences
-
-### [buzzvil (current)](#buzzvil)
-### [CMS](#cms-group)
-### [Freelance & School](#freelance-school)
+##### I've kept it short. I will add more detailed case study later on.
+### 1. [buzzvil (current)](#buzzvil)
+### 2. [CMS](#cms-group)
+### 3. [Freelance & School](#freelance-school)
 
 # buzzvil
 ##### Seoul - 2014 to present
 
 ## 2014 / 2015
 ### New start, new challenges, new life
-Late 2014 I joined buzzvil as lead designer, a promising startup based in Seoul. In June I was releasing my first Android and iOS Honeyscreen App with buzzvil. By the second semester the team was releasing buzzscreen SDK for partners to be using the same technology over their own service. This is the beginning of a long story where I've already learnt so much!
+Late 2014 I joined buzzvil as lead designer, a dynamic startup based in Seoul. In June I was releasing my first [Android](https://play.google.com/store/apps/details?id=com.buzzvil.adhours&hl=en) and [iOS](https://apps.apple.com/kr/app/%ED%97%88%EB%8B%88%EC%8A%A4%ED%81%AC%EB%A6%B0/id591658676) Honeyscreen App with buzzvil. By the second semester the team was releasing buzzscreen SDK for partners to be using the same technology over their own service. This is the beginning of a long story where I've already learnt so much!
 
 ## 2016
 ### Work smarter, be lazier
@@ -86,7 +164,7 @@ That year is important in my career. This is the time I've decided to invest in 
 <mark>Being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, I've learnt a few things on how to become a better manager. I've learnt through theory ([read:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) but also through hard experiences and great guidance from my managers.
 
 ### Opening Design to anyone
-We've published internally the first version of our Design system. <mark>From now on anyone in the company can access and play Lego with these components and layout</mark>. Since then we've seen various team using these assets to mockup what would look like a potential partner integration over our While Label SDK. Designers are asked to help out if requested but our time can now focus on actual design for our upcoming releases!
+We've published internally the first version of our Design system. <mark>From now on anyone in the company can access and play Lego with these components and layout</mark>. Since then we've seen different teams using these assets to mockup things such as what a potential partner integration would look like over our White Label SDK. Designers are asked to help out if requested but our time can now focus on upcoming releases!
 
 ## 2019
 ### Design system expert
@@ -141,3 +219,5 @@ I also got an amazing last year's internship at a parisian startup called Domoli
 ## Before 2010
 ### Freelancer, first client interactions, first responsibilities!
 During my years of school I created my own company to freelance on a few projects. Mostly Website making and brand design. I've learnt the importance of communication and how difficult this can be as part of a Design project with direct client interactions. It helped me become more aware of what surrounds a designer's job and understand in surface development constraints.
+
+{{% /mv6 %}}

@@ -1,6 +1,6 @@
 ---
-title: "Why and how we decided to drastically change our design toolbox in 2019"
-date: 2019-07-14T11:07:21+09:00
+title: "Buzzvil Design Team toolbox in 2019"
+date: 2019-01-15T11:07:21+09:00
 draft: false
 featured_image: "/images/2019_toolbox.jpeg"
 ---
