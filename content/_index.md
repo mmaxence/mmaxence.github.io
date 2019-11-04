@@ -149,22 +149,24 @@ I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembe
 
 ## 2014 / 2015
 ### New start, new challenges, new life
-Late 2014 I joined buzzvil as lead designer, a dynamic startup based in Seoul. In June I was releasing my first [Android](https://play.google.com/store/apps/details?id=com.buzzvil.adhours&hl=en) and [iOS](https://apps.apple.com/kr/app/%ED%97%88%EB%8B%88%EC%8A%A4%ED%81%AC%EB%A6%B0/id591658676) Honeyscreen App with buzzvil. By the second semester the team was releasing buzzscreen SDK for partners to be using the same technology over their own service. This is the beginning of a long story where I've already learnt so much!
+Late 2014 I joined buzzvil as lead designer, a dynamic startup based in Seoul. In June I was releasing my first [Android](https://play.google.com/store/apps/details?id=com.buzzvil.adhours&hl=en) and [iOS](https://apps.apple.com/kr/app/%ED%97%88%EB%8B%88%EC%8A%A4%ED%81%AC%EB%A6%B0/id591658676) Honeyscreen App with buzzvil. This is the beginning of a long story during which I've already learnt so much!
 
 ## 2016
 ### Work smarter, be lazier
-I don't consider myself as lazy per se, but I do enjoy a lot finding solutions to shorten boring, repetitive work. This marks the beginning of my interest for <mark>Pattern recognition</mark> and the discovery of <mark>DesignOps</mark>.
+I don't consider myself lazy per se, but I do enjoy a lot finding solutions to shorten boring, repetitive work. This marks a growing interest for <mark>Pattern recognition</mark> and the discovery of <mark>DesignOps</mark>.    
+During the second semester the team was releasing buzzscreen SDK opening our lockscreen technology to partners. Buzzscreen became buzzvil cash cow and still is an important source of revenue.
 
 ## 2017
 ### Feeling limited
-That year is important in my career. This is the time I've decided to invest in becoming a better leader in order to achieve more than I could do just by myself. <mark>I've started investing more time being a greater leader than being a better designer</mark>.
+That year is important in my career. This is the time I've decided to invest more in becoming a better leader in order to achieve more than I could do by myself. I've spent more of my resources learning to be a <mark>greater leader than being a better designer</mark>.    
+It materialized in research and theory ([read:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) and by consolidating a <mark>hiring strategy</mark> for the next few years.
 
 ## 2018
 ### The year I became a better manager.
-<mark>Being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, I've learnt a few things on how to become a better manager. I've learnt through theory ([read:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) but also through hard experiences and great guidance from my managers.
+<mark>As I said, being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, It was time to put theory in practice. I've learnt through hard experiences and great guidance from my managers. Learning the value of delegation and communicating effectively, Becoming a better manager..
 
 ### Opening Design to anyone
-We've published internally the first version of our Design system. <mark>From now on anyone in the company can access and play Lego with these components and layout</mark>. Since then we've seen different teams using these assets to mockup things such as what a potential partner integration would look like over our White Label SDK. Designers are asked to help out if requested but our time can now focus on upcoming releases!
+Late this year, We've internally published the first version of our Design system. <mark>From now on anyone in the company can access and <i>play Lego</i> with our components and layouts</mark>. Since then we've seen different teams using these assets to mockup things such as what a potential partner integration would look like over our White Label SDK. Designers are asked to help out if requested but our time can now focus on upcoming releases!
 
 ## 2019
 ### Design system expert
@@ -172,7 +174,7 @@ The team is about to publish an online version of our Design System. 🎊
 Building a Design system is more a story about team organization, workflow and Principles than it is about Components.
 
 ### Leading a mission team
-Later last year I started leading an amazing mission team called UXP (User eXPerience) with goal to enhance our usability and test new features. The team consisted of 2 designers, 3 client engineers, 1 server engineer and a PM. For many of us it was the first time closely working with different fields and we learnt a lot from this experience. We've made mistakes that makes us all today much stronger than we were. The mission eventually ended up last July and merged with another team to help us move our inventory through our new vision. I now co-lead this inventory Lab team.
+Later last year I've started leading an amazing mission team called UXP (User eXPerience) with goal to enhance our usability and test new features. The team consisted of 2 designers, 3 client engineers, 1 server engineer and a PM. For many of us it was the first time closely working with different fields and we learnt a lot from this experience. We've made mistakes that makes us all today much stronger than we were. The mission eventually ended up last July and merged with another team to help us move our inventory through our new vision. I've co-led this inventory Lab team that eventually ended recently, moving my focus to upcoming products.
 
 ---
 

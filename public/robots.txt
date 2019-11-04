@@ -1,5 +1,3 @@
+Sitemap: https://mmaxence.me/sitemap.xml
 User-agent: *
-# robotstxt.org - if ENV production variable is false robots will be disallowed.
-
-  Disallow:
 
