@@ -15,21 +15,27 @@ a,a:visited,a:hover,a:active{
 .index h2{
     font-weight: 600;
 }
+.index h4{
+    font-weight: 600;
+}
 .index h5{
     color: grey;
 }
-@media screen and (min-width: 48em) {
+.intro h1{
+    font-family: athelas;
+}
+/* @media screen and (min-width: 48em) {
     .intro .f1-l{
         font-size: 3em;
-        font-family: athelas;
         line-height: 1em;
     }
 }
 @media screen and (max-width: 48em) {
     .intro .f1-l{
         font-family: athelas;
-        font-size: 3em;
-    }
+        font-size: 2.5em;
+        line-height: 1.2em;
+    } */
 }
 svg #rect, svg #poly, svg #circle {
     fill:black;

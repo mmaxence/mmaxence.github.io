@@ -14,7 +14,7 @@ draft: false
 ## Designer, Leader, Thinker.
 
 ### My focus is on <mark>[Design Systems]( https://design.buzzvil.com "Buzzvil Design System")</mark> ([blog]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")), managing the <mark>team</mark> that builds and maintains it.
-#### I am currently in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.
+#### I am currently in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.   
 #### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 5 years.
 
 When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various projects (soon). I also like to play outside. 🎾
