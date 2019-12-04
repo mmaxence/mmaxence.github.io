@@ -19,14 +19,16 @@ a,a:visited,a:hover,a:active{
     color: grey;
 }
 @media screen and (min-width: 48em) {
-    .intro .f-headline-l{
-        font-size: 12em;
+    .intro .f1-l{
+        font-size: 3em;
+        font-family: athelas;
         line-height: 1em;
     }
 }
 @media screen and (max-width: 48em) {
-    .intro .f-headline-l{
-        font-size: 3.5em;
+    .intro .f1-l{
+        font-family: athelas;
+        font-size: 3em;
     }
 }
 svg #rect, svg #poly, svg #circle {

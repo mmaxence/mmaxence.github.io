@@ -13,7 +13,7 @@ draft: false
 # 👋 Hi! I am Max,
 ## Designer, Leader, Thinker.
 
-### My focus is on <mark>[Design Systems](/blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")</mark>, managing the <mark>team</mark> that builds and maintains it.
+### My focus is on <mark>[Design Systems]( https://design.buzzvil.com "Buzzvil Design System")</mark> ([blog]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")), managing the <mark>team</mark> that builds and maintains it.
 #### I am currently in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.
 #### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 5 years.
 
@@ -133,8 +133,8 @@ It usually takes a lot to stress me out and I am the one who will usually succee
       
 What drives me outside of bed every morning is the feeling of achievement. As soon as a project, a workplace can't provide that feeling anymore, I usually move on.   
    
-I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering things I can't identify patterns (I've tried to learn Korean by myself aside work and couldn't progress much because of a lack of pattern identification. I assume that an intensive 6 months learning the foundation would trigger that).
-
+I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering something when I can't quite find any patterns.   
+I consider myself a slow learner as I like to understand why things work the way they do. It takes me time to learn something totally new as I go in-depth. But it takes no time for me to learn something adjacent or related, like a new design software as I can easily recognize patterns. Every design softwares work pretty much the same way and I usually recommend designers to start with a pretty complex one, such as 3D modeling. Everything will look accessible afterwards.
 
 {{% /mv6 %}}
 {{% mv6 %}}

@@ -1,3 +1,2 @@
-Sitemap: https://mmaxence.me/sitemap.xml
 User-agent: *
-
+Sitemap: https://mmaxence.me/sitemap.xml

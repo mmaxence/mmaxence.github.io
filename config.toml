@@ -15,14 +15,15 @@ enableRobotsTXT = "true"
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
   github = "https://github.com/mmaxence"
-  medium = "https://medium.com/@max_1206"
+  medium = "https://medium.com/@mmaxence.me"
   show_reading_time = true
   favicon = "images/favicon.png"
   
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
+  
 [menu]
   [[menu.main]]
     identifier = "blog"
