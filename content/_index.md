@@ -11,10 +11,10 @@ draft: false
 {{% mv6 %}}
 
 # 👋 Hi! I am Max,
-## Designer, Leader, Thinker.
+## Designer, Leader, Generalist.
 
 ### My focus is on <mark>[Design Systems]( https://design.buzzvil.com "Buzzvil Design System")</mark> ([blog]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")), managing the <mark>team</mark> that builds and maintains it.
-#### I am currently in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.   
+#### I am in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.   
 #### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 5 years.
 
 When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various projects (soon). I also like to play outside. 🎾
@@ -82,21 +82,19 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 {{% 2col %}}
 ## Skillset
 
-##### Leadership & Management
-
 ##### Design Advocate
 
-##### Product Strategy
-
-##### Forward-thinking
+##### Product & Design Strategy
 
 ##### DesignOps
 
-##### Development deep understanding
+##### Development awareness
 
 ##### Mobile & Web product design
 
-##### Interaction Design expert
+##### Interaction Design expertise
+
+##### Ad and monetization expertise
 
 
 
@@ -104,6 +102,8 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 
 {{% 2col %}}
 ## Knowledge
+
+##### Leadership & Management
 
 ##### Design thinking
 
@@ -114,6 +114,8 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 ##### Design Patterns
 
 ##### Empathic Definition
+
+##### Forward-thinking
 
 
 {{% /2col %}}
@@ -133,8 +135,8 @@ It usually takes a lot to stress me out and I am the one who will usually succee
       
 What drives me outside of bed every morning is the feeling of achievement. As soon as a project, a workplace can't provide that feeling anymore, I usually move on.   
    
-I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering something when I can't quite find any patterns.   
-I consider myself a slow learner as I like to understand why things work the way they do. It takes me time to learn something totally new as I go in-depth. But it takes no time for me to learn something adjacent or related, like a new design software as I can easily recognize patterns. Every design softwares work pretty much the same way and I usually recommend designers to start with a pretty complex one, such as 3D modeling. Everything will look accessible afterwards.
+I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering something when I can't quite identify any patterns.   
+I consider myself a slow learner as I like to understand why things work the way they do. It takes me time to learn something totally new as I go in-depth. But it takes no time for me to learn something adjacent or related, such as a new design software as I can easily recognize patterns. Every design softwares work pretty much the same way and I usually recommend designers to start with a pretty complex one, such as 3D modeling. Everything will look accessible afterwards.
 
 {{% /mv6 %}}
 {{% mv6 %}}
@@ -196,10 +198,10 @@ That same year our project moved to Alpha version, I've been given the opportuni
 
 ## 2014
 ### Time to wrap up, communicate on achievements & move on!
-I've introduced my experience as an Interaction design Alumni during this year's open days at my former school l'école de design de Nantes Atlantique.
+I've introduced my experience as an Interaction design Alumni during this year's [open days](https://www.lecolededesign.com/actualites/portes-ouvertes-2014-conferences-et-temoignages-d-anciens-1771) at my former school l'école de design de Nantes Atlantique.
 
 ---
-I've participated to an European Campus which was about UX Design and learning services organized by the University of Poitiers. I lectured about being a UX designer working on an educational project and could introduce our project over 2 sessions.
+I've participated to an European Campus which was about UX Design and learning services organized by the University of Poitiers. I lectured about being a [UX designer working on a professional training platform](https://uptv.univ-poitiers.fr/program/campus-europeen-d-ete-2013etnbsp-ux-designetnbsp-l-experience-utilisateur-au-service-des-apprentissagesetnbsp/video/3890/vue-etquot-votre-universite-d-entreprise-etquot-de-la-conception-de-methodes-a-la-conception-d-un-service/index.html) as well as being UX designer part of a [panel of UX professionals (video in French)](https://uptv.univ-poitiers.fr/program/campus-europeen-d-ete-2013etnbsp-ux-designetnbsp-l-experience-utilisateur-au-service-des-apprentissagesetnbsp/video/3897/ux-designer-metier-ou-phenomene-de-mode-l-avis-des-professionnels/index.html).
 
 ---
 After recruiting and on-boarding another Designer to replace me, I've finally decided to end my journey in this Lab and in Paris to relocate myself in Seoul! ✈️ 🇰🇷
