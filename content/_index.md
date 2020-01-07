@@ -11,9 +11,9 @@ draft: false
 {{% mv6 %}}
 
 # 👋 Hi! I am Max,
-## Designer, Leader, Generalist.
+## Designer, Lead, Generalist.
 
-### My focus is on <mark>[Design Systems]( https://design.buzzvil.com "Buzzvil Design System")</mark> ([blog]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil")), managing the <mark>team</mark> that builds and maintains it.
+### My focus is on <mark> [Design Systems]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil") </mark> ([buzzvil DS](https://design.buzzvil.com "Buzzvil Design System")), managing the <mark>team</mark> that builds and maintains it.
 #### I am in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.   
 #### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 5 years.
 
@@ -143,6 +143,8 @@ I consider myself a slow learner as I like to understand why things work the way
 # Experiences
 ##### I've kept it short. I will add more detailed case study later on.
 ### 1. [buzzvil (current)](#buzzvil)
+#####   - [Buzzvil website](https://www.buzzvil.com)
+#####   - [Buzzvil Design system] (https://design.buzzvil.com)
 ### 2. [CMS](#cms-group)
 ### 3. [Freelance & School](#freelance-school)
 
@@ -151,7 +153,7 @@ I consider myself a slow learner as I like to understand why things work the way
 
 ## 2014 / 2015
 ### New start, new challenges, new life
-Late 2014 I joined buzzvil as lead designer, a dynamic startup based in Seoul. In June I was releasing my first [Android](https://play.google.com/store/apps/details?id=com.buzzvil.adhours&hl=en) and [iOS](https://apps.apple.com/kr/app/%ED%97%88%EB%8B%88%EC%8A%A4%ED%81%AC%EB%A6%B0/id591658676) Honeyscreen App with buzzvil. This is the beginning of a long story during which I've already learnt so much!
+Late 2014 I joined buzzvil as the lead designer, a dynamic startup based in Seoul. In June I was releasing my first [Android](https://play.google.com/store/apps/details?id=com.buzzvil.adhours&hl=en) and [iOS](https://apps.apple.com/kr/app/%ED%97%88%EB%8B%88%EC%8A%A4%ED%81%AC%EB%A6%B0/id591658676) Honeyscreen App with buzzvil. This is the beginning of a long story during which I've already learnt so much!
 
 ## 2016
 ### Work smarter, be lazier
@@ -172,7 +174,7 @@ Late this year, We've internally published the first version of our Design syste
 
 ## 2019
 ### Design system expert
-The team is about to publish an online version of our Design System. 🎊   
+The team recently published an online version of our [Design System](https://design.buzzvil.com). 🎊   
 Building a Design system is more a story about team organization, workflow and Principles than it is about Components.
 
 ### Leading a mission team
@@ -185,7 +187,7 @@ Later last year I've started leading an amazing mission team called UXP (User eX
 
 ## 2011
 ### The real test
-After taking 2 months break in Korea after my graduation, I started working for a Research Lab incubated by CMS Group, an IT consulting company based in Paris. Most of my work this year happened to be in Arts & Metiers campus, closely working with a team of researchers to shape the concept of what will keep me busy for the next 3 years. My workplace changed to CMS Group Product team after the research, identification and ideation phases of the design thinking process were done. This year the project got founded by the E.U. as a research project.
+After taking 2 months break in Korea after my graduation, I started working for a Research Lab incubated by CMS Group, an IT consulting company based in Paris. Most of my work this year happened to be in Arts & Metiers campus, closely working with a team of researchers to shape the concept of what will keep me busy for the next 3 years. My workplace changed to CMS Group (formerly 3S) Product team after the research, identification and ideation phases of the design thinking process were done. This year the project got founded by the E.U. as a research project.
 
 ## 2012
 ### An interest for coding to better design
