@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library on Designer at buzzvil</title>
@@ -17,6 +17,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mmaxence.me/library/books/high-output-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking the Customer Value Chain</title>
+      <link>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</guid>
       <description></description>
     </item>
     

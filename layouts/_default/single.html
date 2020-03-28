@@ -11,7 +11,7 @@
       {{ $featured_image := .Param "featured_image"}}
         <img src="{{ $featured_image }}" class="img br4-ns br2 mb1" alt="">
         <a class="silver " href=" {{ .Params.credentiallink}}"> {{ .Params.credential }} </a>
-      <h1 class="f1 athelas mb1">
+      <h1 class="f1 mb1">
         {{- .Title -}}
       </h1>
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
@@ -23,7 +23,7 @@
       {{ end }}
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img pr4-l w-two-thirds-l">
+    <section class="nested-copy-line-height lh-copy lora f4 nested-links nested-img pr4-l w-two-thirds-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       <span class="sharing f6 mv3 dib">

@@ -3,7 +3,7 @@ title: "bird by bird"
 description: "Anne Lamotte"
 taxonomies:
     category: "writing"
-weight: 5
+weight: 6
 draft: false
 linktitle: "https://www.amazon.com/s?k=bird+by+bird+anne+lamotte"
 featured_image: "/images/bird.jpg"

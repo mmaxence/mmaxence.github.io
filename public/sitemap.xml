@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://mmaxence.me/library/books/high-output-management/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -40,6 +46,27 @@
   
   <url>
     <loc>https://mmaxence.me/library/books/1q84/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/blog/posts/high_output_management/</loc>
+    <lastmod>2020-02-28T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/blog/posts/tools_to_build_a_design_system_in_2020/</loc>
+    <lastmod>2020-02-06T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/blog/posts/design_tempo/</loc>
+    <lastmod>2020-01-10T08:10:00+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -115,7 +142,35 @@
   </url>
   
   <url>
+    <loc>https://mmaxence.me/tags/design/</loc>
+    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mmaxence.me/blog/posts/design-peer-reviews-to-support-our-team-growth/</loc>
+    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/tags/methodology/</loc>
+    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/tags/</loc>
+    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/tags/team/</loc>
     <lastmod>2019-04-12T11:31:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -145,35 +200,7 @@
   <url>
     <loc>https://mmaxence.me/categories/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/tags/design/</loc>
-    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/tags/methodology/</loc>
-    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/tags/</loc>
-    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/tags/team/</loc>
-    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

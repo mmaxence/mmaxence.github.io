@@ -8,32 +8,29 @@ date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
 
-{{% mv6 %}}
-
+{{< mv6 >}}
 # 👋 Hi! I am Max,
-## Designer, Lead, Generalist.
-
-### My focus is on <mark> [Design Systems]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil") </mark> ([buzzvil DS](https://design.buzzvil.com "Buzzvil Design System")), managing the <mark>team</mark> that builds and maintains it.
-#### I am in charge of the Design at [buzzvil](https://www.buzzvil.com/ "buzzvil website"), <mark>leading</mark> a talented team. I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.   
+### I enjoy building <mark> [Design Systems]( /blog/posts/design-system-at-buzzvil "Blog: Design system at buzzvil") </mark> ([buzzvil DS](https://design.buzzvil.com "Buzzvil Design System")). And I like even more managing the <mark>team</mark> behind it!
+#### I am currently in charge of a talented design team at [buzzvil](https://www.buzzvil.com/ "buzzvil website"). I also co-manage our Creative Lab and had recently the chance to lead a couple of mission teams.   
 #### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 5 years.
 
 When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various projects (soon). I also like to play outside. 🎾
 
-{{% /mv6 %}}
+{{< /mv6 >}}
 
-{{% mv6 %}}
+{{< mv6 >}}
 # A little more about me
 ##### You can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
 ### [Responsibilities](#responsibilities)
-### [Principles] (#principles)
-### [Qualifications] (#qualifications)
+### [Principles](#principles)
+### [Qualifications](#qualifications)
 ### [Personality](#personality)
 ### [Experiences](#experiences)
 
 
-{{% /mv6 %}}
+{{< /mv6 >}}
 
-{{% mv6 %}}
+{{< mv6 >}}
 
 # Responsibilities
 
@@ -51,9 +48,9 @@ This goes through clear principles for the team to follow, a strategy to shape o
 
 The few last year proved me that <mark>OKRs</mark> are working great with Design. I take the necessary time to connect Design objectives with our product road-map, identifying dependencies and leverages for us to explore. OKR have been proven a great source of motivation as well as ensuring meaningful work. <mark>KPIs</mark> can and should also apply to Design. It usually covers from our team efficiency, the way design is spreading within the company and of course the quality and reception of our products. I am currently implementing Google's [H.E.A.R.T framework](https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux) to better track our overall product design usability.
 
-{{% /mv6 %}}
+{{< /mv6 >}}
 
-{{% mv6 %}}
+{{< mv6 >}}
 # Principles
 ## Think slow, Do fast
 ![Think Slow, Do Fast](images/think_slow_do_fast.svg "Think Slow, Do Fast") 
@@ -72,14 +69,15 @@ This is a recent <i>add-on</i> to my list of principles. It is important for my 
 I love starting new projects. I did it a lot on my own, enjoying the lack of responsibilities but eventually felt limited by what I could achieve by myself. That is mostly why I decided to step up and take a lead position early in my career.   
 Followed a long journey in which I've progressively learnt to delegate, starting by hiring better designers, better specialists than I am and moving my focus toward different objectives and higher levels of concepts.
 
-{{% /mv6 %}}
+{{< /mv6 >}}
 
-{{% mv6 %}}
+{{< mv6 >}}
 
 # Qualifications
 ##### Here is a list of keywords that tries to define what I do best.
 
-{{% 2col %}}
+{{< 2col >}}
+
 ## Skillset
 
 ##### Design Advocate
@@ -97,10 +95,10 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 ##### Ad and monetization expertise
 
 
+{{< /2col >}}
 
-{{% /2col %}}
+{{< 2col >}}
 
-{{% 2col %}}
 ## Knowledge
 
 ##### Leadership & Management
@@ -118,11 +116,11 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 ##### Forward-thinking
 
 
-{{% /2col %}}
+{{< /2col >}}
 
-{{% /mv6 %}}
+{{< /mv6 >}}
 
-{{% mv6 %}}
+{{< mv6 >}}
 
 # Personality
 ##### The typical [INFT-A](https://www.16personalities.com/profiles/77880b0fb07b9)
@@ -138,8 +136,8 @@ What drives me outside of bed every morning is the feeling of achievement. As so
 I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering something when I can't quite identify any patterns.   
 I consider myself a slow learner as I like to understand why things work the way they do. It takes me time to learn something totally new as I go in-depth. But it takes no time for me to learn something adjacent or related, such as a new design software as I can easily recognize patterns. Every design softwares work pretty much the same way and I usually recommend designers to start with a pretty complex one, such as 3D modeling. Everything will look accessible afterwards.
 
-{{% /mv6 %}}
-{{% mv6 %}}
+{{< /mv6 >}}
+{{< mv6 >}}
 # Experiences
 ##### I've kept it short. I will add more detailed case study later on.
 ### 1. [buzzvil (current)](#buzzvil)
@@ -226,4 +224,4 @@ I also got an amazing last year's internship at a parisian startup called Domoli
 ### Freelancer, first client interactions, first responsibilities!
 During my years of school I created my own company to freelance on a few projects. Mostly Website making and brand design. I've learnt the importance of communication and how difficult this can be as part of a Design project with direct client interactions. It helped me become more aware of what surrounds a designer's job and understand in surface development constraints.
 
-{{% /mv6 %}}
+{{< /mv6 >}}

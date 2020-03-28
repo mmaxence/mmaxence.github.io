@@ -1,12 +1,25 @@
-body {font-family: 'Lato', sans-serif;}
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+.lora{
+font-family: 'Lora', serif;
+}
+
+body {font-family: 'Lora', serif;}
 a,a:visited,a:hover,a:active{
     color:black;
+}
+h2, h3, h4, em{
+    font-family: 'avenir next', avenir,
+    sans-serif;
+}
+em{
+    font-size: .7em;
+    color:rgba(0,0,0,.5)
 }
 
 /*    Index Page    */
 
 .index{
-    font-family: athelas;
+    font-family: 'lora', serif;
 }
 .index h1, .index h2,.index h3, .index h5{
     font-family: avenir;
@@ -22,7 +35,7 @@ a,a:visited,a:hover,a:active{
     color: grey;
 }
 .intro h1{
-    font-family: athelas;
+    font-family: 'lora',serif;
 }
 /* @media screen and (min-width: 48em) {
     .intro .f1-l{

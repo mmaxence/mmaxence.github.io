@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Designer at buzzvil</title>
@@ -10,6 +10,36 @@
     
 	<atom:link href="https://mmaxence.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High output management: identifying and measuring your design outputs</title>
+      <link>https://mmaxence.me/blog/posts/high_output_management/</link>
+      <pubDate>Fri, 28 Feb 2020 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/blog/posts/high_output_management/</guid>
+      <description>Design oriented Takeaways from Andrew Grove’s best seller. My CEO strongly recommended me to read “High output management” a while ago as my team was growing and my management responsibilities accentuated. It eventually gave me some of the most valuable insights for me to grow as a manager. This article analyses and translates my personal experiences, describing how I translated Grove’s inputs into my Design lead routine. But first I’d like to start with a short back story to understand where I come from.</description>
+    </item>
+    
+    <item>
+      <title>Tools to build a design system in 2020</title>
+      <link>https://mmaxence.me/blog/posts/tools_to_build_a_design_system_in_2020/</link>
+      <pubDate>Thu, 06 Feb 2020 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/blog/posts/tools_to_build_a_design_system_in_2020/</guid>
+      <description>A snap taken during our last sprint prior to publish our system online
+This is a healthy, yearly routine I genuinely recommend to follow regardless of the size of your team: gauging your current toolbox against what’s new in the busy design tool industry. We are a team of 6 designers (3 visual &amp;amp; 3 product designers). We conducted our research and tests with a focus on design systems. You’ll find tons of other articles about this, we’ve read them all (or close) and now posting our share to the chain :).</description>
+    </item>
+    
+    <item>
+      <title>Design Tempo: the art of managing creative pace</title>
+      <link>https://mmaxence.me/blog/posts/design_tempo/</link>
+      <pubDate>Fri, 10 Jan 2020 08:10:00 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/blog/posts/design_tempo/</guid>
+      <description>Designers, like musicians, need to play in diapason in order to come up with melodious experiences. 🎶
+This is a subjective essay, a short read about Creative team pace management. It is based on experience, discussions with peers over the years, personal thoughts &amp;amp; analysis.
+Designers are managing creativity to answer business needs. Creativity and creative teams cannot be managed like any other field. Designers just like any specialists need specific management skills.</description>
+    </item>
     
     <item>
       <title>Design criticism</title>
