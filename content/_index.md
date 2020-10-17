@@ -147,7 +147,7 @@ I consider myself a slow learner as I like to understand why things work the way
 ##### I've kept it short. I will add more detailed case study later on.
 ### 1. [buzzvil (current)](#buzzvil)
 #####   - [Buzzvil website](https://www.buzzvil.com)
-#####   - [Buzzvil Design system] (https://design.buzzvil.com)
+#####   - [Buzzvil Design system](https://design.buzzvil.com)
 ### 2. [CMS](#cms-group)
 ### 3. [Freelance & School](#freelance-school)
 
