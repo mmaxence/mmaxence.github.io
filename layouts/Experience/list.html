@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="flex-wrap justify-between mw8 center index ph3 ph5-l pv3 pv4-l f4 black-90 lh-copy">
+    <section class="cf ph3 ph5-l f4 measure-wide lh-copy">
+      {{- .Content -}}
+    </section>
+    <section class="flex-ns flex-wrap">
+      {{ range .Paginator.Pages }}
+        <div class="relative w-75-ns mb4">
+          {{- partial "project.html" . -}}
+        </div>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}

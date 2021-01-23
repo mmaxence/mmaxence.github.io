@@ -9,27 +9,12 @@ draft: false
 ---
 
 {{% mv6 %}}
-{{% 2col %}}
-![Maxence Mauduit](images/maxence_mauduit_portrait.jpg "Maxence Mauduit")
-{{% /2col %}}
-{{% 2col %}}
-# 👋 Hi! I am Max,
-### I manage an amazing design team at [buzzvil](https://www.buzzvil.com/ "buzzvil website"). Together and with the help of many others, we constantly improve our <mark> [Design System](https://design.buzzvil.com "Buzzvil Design System"), covering our business needs, optimizing our resources, always aiming for greater results.
-#### I also co-managed our Creative Lab and had recently the chance to lead and facilitate a couple of mission teams.   
-#### I live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 6 years.
-
-When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark> for fun and combine all that over various projects (soon). I also like to play outside. 🎾
-{{% /2col %}}
-{{% /mv6 %}}
-
-{{% mv6 %}}
 # A little more about me
-##### You can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
+##### You can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment. I currently live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 6 years.
 ### [Responsibilities](#responsibilities)
 ### [Principles](#principles)
 ### [Qualifications](#qualifications)
 ### [Personality](#personality)
-### [Experiences](#experiences)
 
 
 {{% /mv6 %}}
@@ -42,6 +27,9 @@ When I don't design, I <mark>[write](/blog/)</mark> about it, I <mark>code</mark
 
 From hiring, training, supporting each steps of our Design process to spreading <mark>Design awareness</mark> and good practices, I manage a strong design team that answers our <mark>business problems</mark>.
 Designing early concepts, based on business assumptions is what I excel at. This is where I can be helpful to the team and where I make a difference. These concepts are only useful to communicate internally or with our partners on upcoming leads and have shown their importance.
+
+## Leading Product Teams
+I lead solid product teams driven by clear mission & set vision. I use my Design knowledge to communicate complex concepts and to advocate our mission to everyone inside and outside the team. I drive performance through agile processes and radically candid feedback. Being at buzzvil for years taught me to only believe un numbers and so most of my decisions and objectives are based and monitored through data.
 
 ## Principles, Strategy & tailor made Methods
 
@@ -76,14 +64,13 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 
 {{% /mv6 %}}
 
-{{% mv6 %}}
 
 # Qualifications
 ##### Here is a list of keywords that tries to define what I do best.
 
-{{< 2col >}}
+## Proved knowledge
 
-## Skillset
+{{% 2col %}}
 
 ##### Design Advocate
 
@@ -91,39 +78,34 @@ Followed a long journey in which I've progressively learnt to delegate, starting
 
 ##### DesignOps
 
-##### Development awareness
+##### Design Systems
 
-##### Mobile & Web product design
+##### Product roadmap
+
+##### Mobile & Web products
 
 ##### Interaction Design expertise
 
-##### Ad and monetization expertise
+{{% /2col %}}
 
+{{% 2col %}}
 
-{{< /2col >}}
+##### Agile and candid leadership
 
-{{< 2col >}}
+##### Product & team Management 
 
-## Knowledge
+##### Data informed decision making
 
-##### Leadership & Management
+##### Forward-thinking
 
 ##### Design thinking
 
 ##### Design Processes & Methods
 
-##### Design Systems
+##### Design Patterns recognition
 
-##### Design Patterns
+{{% /2col %}}
 
-##### Empathic Definition
-
-##### Forward-thinking
-
-
-{{< /2col >}}
-
-{{% /mv6 %}}
 
 {{% mv6 %}}
 
@@ -140,93 +122,5 @@ What drives me outside of bed every morning is the feeling of achievement. As so
    
 I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering something when I can't quite identify any patterns.   
 I consider myself a slow learner as I like to understand why things work the way they do. It takes me time to learn something totally new as I go in-depth. But it takes no time for me to learn something adjacent or related, such as a new design software as I can easily recognize patterns. Every design softwares work pretty much the same way and I usually recommend designers to start with a pretty complex one, such as 3D modeling. Everything will look accessible afterwards.
-
-{{% /mv6 %}}
-{{% mv6 %}}
-# Experiences
-##### I've kept it short. I will add more detailed case study later on.
-### 1. [buzzvil (current)](#buzzvil)
-#####   - [Buzzvil website](https://www.buzzvil.com)
-#####   - [Buzzvil Design system](https://design.buzzvil.com)
-### 2. [CMS](#cms-group)
-### 3. [Freelance & School](#freelance-school)
-
-# buzzvil
-##### Seoul - 2014 to present
-
-## 2014 / 2015
-### New start, new challenges, new life
-Late 2014 I joined buzzvil as the lead designer, a dynamic startup based in Seoul. In June I was releasing my first [Android](https://play.google.com/store/apps/details?id=com.buzzvil.adhours&hl=en) and [iOS](https://apps.apple.com/kr/app/%ED%97%88%EB%8B%88%EC%8A%A4%ED%81%AC%EB%A6%B0/id591658676) Honeyscreen App with buzzvil. This is the beginning of a long story during which I've already learnt so much!
-
-## 2016
-### Work smarter, be lazier
-I don't consider myself lazy per se, but I do enjoy a lot finding solutions to shorten boring, repetitive work. This marks a growing interest for <mark>Pattern recognition</mark> and the discovery of <mark>DesignOps</mark>.    
-During the second semester the team was releasing buzzscreen SDK opening our lockscreen technology to partners. Buzzscreen became buzzvil cash cow and still is an important source of revenue.
-
-## 2017
-### Feeling limited
-That year is important in my career. This is the time I've decided to invest more in becoming a better leader in order to achieve more than I could do by myself. I've spent more of my resources learning to be a <mark>greater leader than being a better designer</mark>.    
-It materialized in research and theory ([read:](/shelf/) [High Output Management from Andrew Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)) and by consolidating a <mark>hiring strategy</mark> for the next few years.
-
-## 2018
-### The year I became a better manager.
-<mark>As I said, being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, It was time to put theory in practice. I've learnt through hard experiences and great guidance from my managers. Learning the value of delegation and communicating effectively, Becoming a better manager..
-
-### Opening Design to anyone
-Late this year, We've internally published the first version of our Design system. <mark>From now on anyone in the company can access and <i>play Lego</i> with our components and layouts</mark>. Since then we've seen different teams using these assets to mockup things such as what a potential partner integration would look like over our White Label SDK. Designers are asked to help out if requested but our time can now focus on upcoming releases!
-
-## 2019
-### Design system expert
-The team recently published an online version of our [Design System](https://design.buzzvil.com). 🎊   
-Building a Design system is more a story about team organization, workflow and Principles than it is about Components.
-
-### Leading a mission team
-Later last year I've started leading an amazing mission team called UXP (User eXPerience) with goal to enhance our usability and test new features. The team consisted of 2 designers, 3 client engineers, 1 server engineer and a PM. For many of us it was the first time closely working with different fields and we learnt a lot from this experience. We've made mistakes that makes us all today much stronger than we were. The mission eventually ended up last July and merged with another team to help us move our inventory through our new vision. I've co-led this inventory Lab team that eventually ended recently, moving my focus to upcoming products.
-
----
-
-# CMS Group
-##### Paris - 2011 to 2014
-
-## 2011
-### The real test
-After taking 2 months break in Korea after my graduation, I started working for a Research Lab incubated by CMS Group, an IT consulting company based in Paris. Most of my work this year happened to be in Arts & Metiers campus, closely working with a team of researchers to shape the concept of what will keep me busy for the next 3 years. My workplace changed to CMS Group (formerly 3S) Product team after the research, identification and ideation phases of the design thinking process were done. This year the project got founded by the E.U. as a research project.
-
-## 2012
-### An interest for coding to better design
-I've learnt a lot during this year, closely working with a team of engineers from the early stages of our product to alpha version. I did a lot of mistakes but also learnt to iterate fast to allow myself failing on the way. I built my first UI system based on Bootstrap. I could control the entire appearance of our LMS throughout these CSS/JS based style guides and layouts. This decision was based on the many headaches I encountered to hand-off my Design to developers.
-
-## 2013
-### When Design meets Research
-I've co-published a paper called ""The CO-SI Card method : how to refine and validate concepts through a scenario generator framework" " at [IASDR](https://iasdr.net/) Tokyo about co-design with Cédric Mivielle.
-That same year our project moved to Alpha version, I've been given the opportunity to assist and collaborate with Randstad training team to test the platform in real conditions.
-
-## 2014
-### Time to wrap up, communicate on achievements & move on!
-I've introduced my experience as an Interaction design Alumni during this year's [open days](https://www.lecolededesign.com/actualites/portes-ouvertes-2014-conferences-et-temoignages-d-anciens-1771) at my former school l'école de design de Nantes Atlantique.
-
----
-I've participated to an European Campus which was about UX Design and learning services organized by the University of Poitiers. I lectured about being a [UX designer working on a professional training platform](https://uptv.univ-poitiers.fr/program/campus-europeen-d-ete-2013etnbsp-ux-designetnbsp-l-experience-utilisateur-au-service-des-apprentissagesetnbsp/video/3890/vue-etquot-votre-universite-d-entreprise-etquot-de-la-conception-de-methodes-a-la-conception-d-un-service/index.html) as well as being UX designer part of a [panel of UX professionals (video in French)](https://uptv.univ-poitiers.fr/program/campus-europeen-d-ete-2013etnbsp-ux-designetnbsp-l-experience-utilisateur-au-service-des-apprentissagesetnbsp/video/3897/ux-designer-metier-ou-phenomene-de-mode-l-avis-des-professionnels/index.html).
-
----
-After recruiting and on-boarding another Designer to replace me, I've finally decided to end my journey in this Lab and in Paris to relocate myself in Seoul! ✈️ 🇰🇷
-
----
-Later this year I've participated to an amazing workshop in KAIST, regrouping artists and designers from all over the world, engineers from KAIST campus and kid from local school to be imagining the Daejeon city in 2050. 
-
----
-# Freelance & School
-##### Nantes / Laval / Paris - 2005 to 2010
-## 2010
-### Head full of dreams and a true passion for Design
-I graduated from the excellent [L'École de design Nantes Atlantique](https://wwww.lecolededesign.com) - Master in Interaction Design with Honors.
-I graduated from [L'École Normale Supérieure des Arts et Metiers](https://artsetmetiers.fr/en) - Research Master in Virtual Reality & Innovation with honors.
-
----
-I also got an amazing last year's internship at a parisian startup called Domolib', creating home automation systems. In 6 months I could see my very first iPad application being published with positive reviews. It was about cooking recipes, the twist being that you could navigate through the steps without having to touch the screen as the App could detect a clap-clap as an indicator to move to the next step.
-
-## Before 2010
-### Freelancer, first client interactions, first responsibilities!
-During my years of school I created my own company to freelance on a few projects. Mostly Website making and brand design. I've learnt the importance of communication and how difficult this can be as part of a Design project with direct client interactions. It helped me become more aware of what surrounds a designer's job and understand in surface development constraints.
 
 {{% /mv6 %}}

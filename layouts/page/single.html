@@ -4,18 +4,14 @@
     {{ partial "site-navigation-dark.html" . }}
   </div>
 </header>
-<div class="intro">
-  <div class="w-100">
-      <div class="shapeshifter play center tc" style="background-image: url(/images/sprite_60fps.svg)"></div>
-    <h1 class="ph3 ph5-l f-headline-l measure-m f2 fw4 avenir black-90">
-    {{ .Title | default .Site.Title }}
-    </h1>
-    {{ with .Params.description }}
-    {{ end }}
+<article class="vh-75-ns flex-wrap justify-between mw8 center index ph3 ph5-l pv3 pv4-l f4 black-90 lh-copy">
+  <div class="intro"></div>
+      <h1 class="left measure-m f1 fw4 avenir black-90">
+      {{ .Title | default .Site.Title }}
+      </h1>
+      {{ with .Params.description }}
+      {{ end }}
   </div>
-</div>
-<article class="index cf ph3 ph5-l pv3 pv4-l f3 measure-wide lh-copy">
   {{ .Content }}
-  
 </article>
 {{ end }}

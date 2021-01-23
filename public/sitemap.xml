@@ -39,6 +39,24 @@
   </url>
   
   <url>
+    <loc>https://mmaxence.me/library/books/coaching-for-performance/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/radical-candor/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/the-right-it/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mmaxence.me/library/books/pattern-recognition/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -101,6 +119,13 @@
   
   <url>
     <loc>https://mmaxence.me/blog/</loc>
+    <lastmod>2019-07-14T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/experience/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

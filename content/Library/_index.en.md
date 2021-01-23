@@ -6,4 +6,4 @@ featured_image: false
 type: library
 slug: "read"
 ---
-In a way or another these books shaped my vision on Design & leadership.. or just fed my creativity :) 
+In a way or another these books shaped my vision on Design, Product and Leadership.. or simply fed my creativity :) 

@@ -2,7 +2,7 @@ baseURL = "https://mmaxence.me"
 languageCode = "en-us"
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
-title = "Designer at buzzvil"
+title = "PO, Lead product Design at buzzvil"
 Author = "Maxence Mauduit"
 googleAnalytics= "UA-149702774-1"
 enableRobotsTXT = "true"
@@ -11,7 +11,7 @@ enableRobotsTXT = "true"
   custom_css = ["dist/css/style.css"]
   custom_js = ["dist/js/script.js"]
   author = "Maxence Mauduit"
-  description = "Head of Design at buzzvil"
+  description = "PO, Lead product Design at buzzvil"
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
   github = "https://github.com/mmaxence"
@@ -26,15 +26,20 @@ enableRobotsTXT = "true"
   
 [menu]
   [[menu.main]]
+    name = "Experience"
+    title = "My experiences"
+    url = "/experience/"
+    weight = -140
+  [[menu.main]]
     identifier = "blog"
-    name = "write"
+    name = "Blog"
     title = "blog section"
     url = "/blog/"
     weight = -130
   [[menu.main]]
     identifier = "read"
-    name = "read"
+    name = "Bookshelf"
     title = "read"
-    url = "/Library/"
+    url = "/library/"
     slug = "read"
     weight = -110
