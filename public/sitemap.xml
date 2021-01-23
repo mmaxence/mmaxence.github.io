@@ -9,37 +9,7 @@
   </url>
   
   <url>
-    <loc>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://mmaxence.me/library/books/measure_what_matters/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/library/books/thinking-fast-and-slow/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/library/books/man-search-for-meaning/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/library/books/bird-by-bird/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mmaxence.me/library/books/coaching-for-performance/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,13 +27,37 @@
   </url>
   
   <url>
-    <loc>https://mmaxence.me/library/books/pattern-recognition/</loc>
+    <loc>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://mmaxence.me/library/books/1q84/</loc>
+    <loc>https://mmaxence.me/library/books/thinking-fast-and-slow/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/coaching-for-performance/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/bird-by-bird/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/man-search-for-meaning/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mmaxence.me/library/books/pattern-recognition/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
