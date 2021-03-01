@@ -10,7 +10,7 @@ draft: false
 
 {{% mv6 %}}
 # A little more about me
-##### You can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment. I currently live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 6 years.
+##### I currently live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 6 years. You can download my [resume](/images/MaxenceMauduit_CV.pdf) and for more detailed infos you can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
 ### [Responsibilities](#responsibilities)
 ### [Principles](#principles)
 ### [Qualifications](#qualifications)
@@ -25,16 +25,16 @@ draft: false
 
 ## Leading Design
 
-From hiring, training, supporting each steps of our Design process to spreading <mark>Design awareness</mark> and good practices, I manage a strong design team that answers our <mark>business problems</mark>.
-Designing early concepts, based on business assumptions is what I excel at. This is where I can be helpful to the team and where I make a difference. These concepts are only useful to communicate internally or with our partners on upcoming leads and have shown their importance.
+From hiring, training/coaching, supporting each steps of our Design process to spreading <mark>Design awareness</mark> and good practices, I manage a strong design team that answers our <mark>business problems</mark>.
+Designing early concepts, based on business assumptions is what I excel at. This is where I can be helpful to the team and where I make a difference. These concepts are useful to communicate internally or with our partners on upcoming leads and have shown their importance.
 
 ## Leading Product Teams
-I lead solid product teams driven by clear mission & set vision. I use my Design knowledge to communicate complex concepts and to advocate our mission to everyone inside and outside the team. I drive performance through agile processes and radically candid feedback. Being at buzzvil for years taught me to only believe un numbers and so most of my decisions and objectives are based and monitored through data.
+I lead solid product teams driven by clear mission & set vision. I use Design technics to communicate complex concepts and to advocate our mission to everyone inside and outside the team. I drive performance through agile processes and radically candid feedback. Being at buzzvil for years taught me to only believe un numbers and so most of my decisions and objectives are based and monitored through our own set of data.
 
 ## Principles, Strategy & tailor made Methods
 
 Connecting the dots with our <mark>company vision</mark> or with our <mark>engineering conventions</mark> and setting our own design goals and protocols is what I do.   
-Understanding what is at stake and translating these insights into tangible design objectives is my mission.   
+Understanding what is at stake and translating these insights into tangible objectives is my mission.   
 This goes through clear principles for the team to follow, a strategy to shape our vision and a set of methods permanently evolving to reach greater results.
 
 ## OKR freak, KPI enthusiast 
@@ -59,8 +59,8 @@ As a designer, I also need to be good at communicating my ideas and as a manager
 ## Balance Initiation & delegation
 ![Balance Initiation & delegation](images/balance_initiation_delegation.svg "Balance Initiation & delegation") 
 This is a recent <i>add-on</i> to my list of principles. It is important for my own survival and for the mental stability of my teammates 😁. It is about.. the right balance between initiating projects and delegating responsibilities.   
-I love starting new projects. I did it a lot on my own, enjoying the lack of responsibilities but eventually felt limited by what I could achieve by myself. That is mostly why I decided to step up and take a lead position early in my career.   
-Followed a long journey in which I've progressively learnt to delegate, starting by hiring better designers, better specialists than I am and moving my focus toward different objectives and higher levels of concepts.
+I love to start new projects. I did it a lot on my own but eventually felt limited by what I could achieve by myself. That is mostly why I decided to step up and take on a leader position early in my career.   
+Followed a long journey in which I've progressively learned to delegate, starting by hiring better designers, better specialists than I am and moving my focus toward different objectives and higher levels of concepts.
 
 {{% /mv6 %}}
 

@@ -5,7 +5,7 @@ draft: false
 featured_image: false
 type: Experience
 ---
-##### What I have been doing for the past +10 years organized by experience and chronologically.
+##### What I have been doing for the past +10 years organized by experience and chronologically. For a short version, here is my [resume](/images/MaxenceMauduit_CV.pdf).
 
 # Experiences
 ##### I've kept it short. I will add more detailed case study later on.
@@ -18,7 +18,7 @@ type: Experience
 ##### Seoul - 2014 to present
 
 ## Currently
-I am currently the Product Design Lead at buzzvil as well as a Product Owner for our supply business. I handle a cross disciplinary team of 8 people and I am in charge of the performances of our supply products (Publishers). These new responsibilities came after being given a couple or PM roles over different mission teams. A great way for me to strengthen my business understanding and grow my management skills. I intentionally moved further away from product Design to better understand how product business works. In my quest to becoming a better product owner, I found Design methods to be extremely powerful tools.
+I am currently Product Design Lead at buzzvil as well as a Product Owner for our supply business. I handle a cross disciplinary team of 8 people and I am in charge of the performances of our supply products (Publishers). These new responsibilities came after being given a couple or PM roles over different mission teams. A great way for me to strengthen my business understanding and grow my management skills. I intentionally moved further away from product Design to better understand how product business works. In my quest to becoming a better product owner, I found Design methods to be extremely powerful tools.
 
 Now, let's get back in time. Here is how things worked out for me at buzzvil over these past 6 years.
 
@@ -38,7 +38,7 @@ It materialized in research and theory ([read:](/shelf/) [High Output Management
 
 ## 2018
 ### The year I became a better manager.
-<mark>As I said, being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, It was time to put theory in practice. I've learnt through hard experiences and great guidance from my managers. Learning the value of delegation and communicating effectively, Becoming a better manager..
+<mark>As I said, being an expert at what you are doing doesn't make you a great manager</mark>. During this year and with a team growing, It was time to put theory in practice. I've learned through hard experiences and great guidance from my managers. Learning the value of delegation and communicating effectively, Becoming a better manager..
 
 ### Opening Design to anyone
 Late this year, We've internally published the first version of our Design system. <mark>From now on anyone in the company can access and <i>play Lego</i> with our components and layouts</mark>. Since then we've seen different teams using these assets to mockup things such as what a potential partner integration would look like over our White Label SDK. Designers are asked to help out if requested but our time can now focus on upcoming releases!
@@ -53,7 +53,7 @@ Later last year I've started leading an amazing mission team called UXP (User eX
 
 ## 2020
 ### A better business understanding
-After being given a chance to lead a product team in 2019, I have been given more and more responsibilities over products management. Throughout 2 different teams I could improve my capacity to manage projects and teams. The first mission team was co-led with my CEO, Young. I learnt tons of things in a very short time. Once Young judged I could lead on my own, he put me in charge of a new team focused on the product I helped giving birth in this previous mission. A truly great experience and I could overcome some of the toughest learning curve I faced in my career. This year noted a slight move from Design even though I've never neglected my leadership responsibilities. In early 2021 eventually saw my position as Head of Design narrowed to Product Design in order to give myself a greater focus and take on new challenges as Product Owner.
+After being given a chance to lead a product team back in 2019, my responsibilities over products management increased. Throughout 2 different teams I could improve my capacity to manage projects and cross-functional teams. The first mission team was co-led with my CEO, Young. I learnt tons of things in a very short time. Once Young judged I could lead on my own, he put me in charge of a new team focused on the product I helped initiate in this previous mission. A truly great experience during which I could overcome some of the toughest learning curve I faced in my career. This year noted a slight move from Design even though I've never neglected my leadership responsibilities. In early 2021 eventually saw my position as Head of Design narrowed to Product Design in order to give myself a greater focus and take on new challenges as Product Owner.
 
 ---
 
