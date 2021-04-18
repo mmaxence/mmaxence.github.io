@@ -65,3 +65,20 @@ node_modules/
 .env
 themes/gohugo-theme-ananke/
 themes/ananke/
+.DS_Store
+content/.DS_Store
+content/blog/posts/.DS_Store
+content/blog/posts/Design System at buzzvil/.DS_Store
+content/blog/posts/Design_Criticism/.DS_Store
+content/blog/posts/Design_Tempo/.DS_Store
+content/blog/posts/Study*(Designers+Engineers)= ❤️ pt2/.DS_Store
+content/Library/.DS_Store
+content/Projects/.DS_Store
+layouts/.DS_Store
+layouts/library/.DS_Store
+layouts/projects/.DS_Store
+layouts/shortcodes/.DS_Store
+public/.DS_Store
+public/.DS_Store
+.DS_Store
+.DS_Store
