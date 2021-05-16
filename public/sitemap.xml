@@ -42,6 +42,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://mmaxence.me/experience/</loc>
+    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/experience/posts/buzzvil-po/</loc>
+    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mmaxence.me/blog/posts/high_output_management/</loc>
     <lastmod>2020-02-28T11:07:21+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,11 +88,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/blog/</loc>
-    <lastmod>2019-07-14T15:47:02+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mmaxence.me/experience/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -142,13 +147,33 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://mmaxence.me/experience/posts/buzzvil-pm/</loc>
+    <lastmod>2018-10-01T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mmaxence.me/projects/project/ikjoongkang/</loc>
     <lastmod>2017-09-10T11:37:34+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://mmaxence.me/experience/posts/buzzvil-head-of-design/</loc>
+    <lastmod>2014-11-24T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mmaxence.me/projects/project/co-si-card/</loc>
     <lastmod>2013-08-20T11:37:34+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/experience/posts/cms-lead-design/</loc>
+    <lastmod>2011-03-09T11:31:33+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/experience/posts/freelance-school/</loc>
+    <lastmod>2005-03-09T11:31:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
