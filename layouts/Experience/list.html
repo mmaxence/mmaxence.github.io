@@ -1,35 +1,38 @@
 {{ define "main" }}
-<section>
-  <ul class="f4 fl w-20 pa2 fixed list pa4">
+<aside class="dn db-l db-m">
+  <ul class="f4 w-20 pa2 ml-4 fixed ml-8 list pa4">
     {{ range .Paginator.Pages }}
       {{ if .Date }}
         <li class="pa1">
-          <a class="link black bg-animate" href="#{{ .Date.Format "2006" }}">
+          <a class="link mid-gray bg-animate" href="#{{ .Date.Format "2006" }}">
             {{ .Date.Format "2006" }}
           </a>
         </li>
       {{ end }}
     {{ end }}
   </ul>
-</section>
-<article class="flex-wrap justify-between mw8 center index ph3 ph5-l f4 black-90 lh-copy timeline">
+</aside>
+<article class="flex-wrap justify-between mw8 center index ph3 ph5-l f4 black-90 lh-copy">
   {{- .Content -}}
   <section class="flex-ns flex-wrap justify-around">
     {{ range .Paginator.Pages }}
       {{ if .Date }}
-        <div class="f1 fl w-20 pa2" id="{{ .Date.Format "2006"}}">
+        <div class="f1 fl-ns w-20-ns pa2-ns" id="{{ .Date.Format "2006"}}">
           {{ .Date.Format "2006"}}
           <div class="f3 mid-gray">
             {{ .Date.Format "January" }}
           </div>
         </div>
       {{ end }}
-      <div class="fl w-80 ph4 bl">
-        <h1 class="f2 near-black">
+      <div class="fl-ns w-80-ns ph4-ns bl-ns">
+        <h1 class="f2-ns f3 near-black">
             {{ .Title }}
         </h1>
         <div class="nested-links f4 lh-copy nested-copy-line-height">
           {{ .Content  }}
+        </div>
+        <div>
+          {{- partial "tags-static.html" . -}}
         </div>
       </div>
     {{ end }}

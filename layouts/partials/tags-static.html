@@ -1,0 +1,9 @@
+<ul class="pa0 flex flex-row">
+  {{ range .Params.tags }}
+   <li class="list mr2 avenir">
+     <a class="link grow no-underline ph2 pv2 mb2 dib black">
+       #{{- . -}}
+     </a>
+   </li>
+  {{ end }}
+</ul>
