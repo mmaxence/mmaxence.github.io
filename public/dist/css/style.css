@@ -21,7 +21,7 @@ em{
 .index{
     font-family: 'lora', serif;
 }
-.index h1, .index h2,.index h3, .index h5{
+.index h1, .index h2, .index h5{
     font-family: avenir;
     font-weight: 500;
 }
@@ -29,11 +29,13 @@ em{
     font-weight: 600;
 }
 .index h4{
-    font-weight: 600;
+    font-weight: 400;
+    color: grey;
 }
 .index h5{
     color: grey;
 }
+    
 .intro h1{
     font-family: 'lora',serif;
 }
@@ -147,4 +149,8 @@ a.book:hover{
     footer .about{
         padding-top:24px;
     }
+}
+hr{
+    border-top: 1px solid #f1f2f3;
+
 }

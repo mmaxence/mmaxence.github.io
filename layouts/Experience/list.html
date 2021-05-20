@@ -1,4 +1,34 @@
 {{ define "main" }}
+
+<article class="cf flex-ns flex-column ph3 ph0-ns justify-around f4 center measure-wide lh-copy gray">
+  {{- .Content -}}
+  <section class="flex-ns flex-wrap justify-around black">
+    {{ range .Paginator.Pages }}
+      {{ if .Date }}
+        <div class="f1 fl-ns w-20-ns lh-solid lora dn db-l db-m" id="{{ .Date.Format "2006"}}">
+          {{ .Date.Format "2006"}}
+          <div class="f3 gray avenir lh-copy dn db-l db-m">
+            {{ .Date.Format "January" }}
+          </div>
+        </div>
+      {{ end }}
+      <div class="fl-ns w-80-ns ph4-ns bl-ns black">
+        <h1 class="f3 avenir mt0 lh-title pt4 pt0-m pt0-l">
+            {{ .Title }}
+        </h1>
+        <p class="f5 gray">
+          {{ .Page.Description }}
+        </p>
+        <div class="nested-links f4 lora lh-copy nested-copy-line-height">
+          {{ .Content  }}
+        </div>
+        <div class="bb bn-m bn-l">
+          {{- partial "tags-static.html" . -}}
+        </div>
+      </div>
+    {{ end }}
+  </section>
+</article>
 <aside class="dn db-l db-m">
   <ul class="f4 w-20 pa2 ml-4 fixed ml-8 list pa4">
     {{ range .Paginator.Pages }}
@@ -12,30 +42,4 @@
     {{ end }}
   </ul>
 </aside>
-<article class="flex-wrap justify-between mw8 center index ph3 ph5-l f4 black-90 lh-copy">
-  {{- .Content -}}
-  <section class="flex-ns flex-wrap justify-around">
-    {{ range .Paginator.Pages }}
-      {{ if .Date }}
-        <div class="f1 fl-ns w-20-ns pa2-ns" id="{{ .Date.Format "2006"}}">
-          {{ .Date.Format "2006"}}
-          <div class="f3 mid-gray">
-            {{ .Date.Format "January" }}
-          </div>
-        </div>
-      {{ end }}
-      <div class="fl-ns w-80-ns ph4-ns bl-ns">
-        <h1 class="f2-ns f3 near-black">
-            {{ .Title }}
-        </h1>
-        <div class="nested-links f4 lh-copy nested-copy-line-height">
-          {{ .Content  }}
-        </div>
-        <div>
-          {{- partial "tags-static.html" . -}}
-        </div>
-      </div>
-    {{ end }}
-  </section>
-`</article>
 {{ end }}

@@ -5,9 +5,8 @@ date: 2005-03-09T11:31:33+09:00
 draft: false
 featured_image: "/images/design_peer_review.jpeg"
 tags: ["curriculum", "freelancer"]
+description: "Nantes / Laval / Paris - 2005 to 2010"
 ---
-
-##### Nantes / Laval / Paris - 2005 to 2010
 ### Head full of dreams and a true passion for Product Design
 I graduated from the excellent [L'École de design Nantes Atlantique](https://wwww.lecolededesign.com) - Master in Interaction Design with Honors.
 I graduated from [L'École Normale Supérieure des Arts et Metiers](https://artsetmetiers.fr/en) - Research Master in Virtual Reality & Innovation with honors.

@@ -1,9 +1,9 @@
 {{ define "main" }}
   <article class="nested-copy-line-height b--black-10  nested-img">
-    <section class="cf ph3 ph5-l mb2-ns f4 tc-l center measure-wide lh-copy mid-gray">
+    <section class="cf ph3 ph5-l mb2-ns f4 tc-l center measure-wide lh-copy gray">
       {{- .Content -}}
     </section>
-    <section class="flex-ns flex-wrap items-start">
+    <section class="flex-ns flex-wrap items-start ph3 ph5-l justify-around f4 center lh-copy">
       {{ range (.Paginator 20).Pages }}
         <div class="relative w-20-l ph4-ns ph1 mb4 bg-white">
           {{- partial "book.html" . -}}

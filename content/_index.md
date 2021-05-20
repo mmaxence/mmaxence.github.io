@@ -8,16 +8,9 @@ date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
 
-{{% mv6 %}}
-# A little more about me
-##### I currently live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 6 years. You can download my [resume](/images/MaxenceMauduit_CV.pdf) and for more detailed info you can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
-### [Responsibilities](#responsibilities)
-### [Principles](#principles)
-### [Qualifications](#qualifications)
-### [Personality](#personality)
 
-
-{{% /mv6 %}}
+## A little more about me
+I currently live in <mark>Seoul</mark> 🇰🇷, a truly amazing city I have been exploring for more than 6 years. You can download my [resume](/images/MaxenceMauduit_CV.pdf) and for more detailed info you can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
 
 {{% mv6 %}}
 
@@ -44,6 +37,7 @@ The few last years proved to me that <mark>OKRs</mark> are working as great with
 {{% /mv6 %}}
 
 {{% mv6 %}}
+
 # Principles
 ## Think slow, Do fast
 ![Think Slow, Do Fast](images/think_slow_do_fast.svg "Think Slow, Do Fast") 
@@ -64,48 +58,44 @@ Followed a long journey in which I've progressively learned to delegate, startin
 
 {{% /mv6 %}}
 
-
 # Qualifications
-##### Here is a list of keywords that tries to define what I do best.
-
-## Proved knowledge
+Here is a list of keywords that tries to define what I do best.
 
 {{% 2col %}}
 
-##### Design Advocate
+#### Design Advocate
 
-##### Product & Design Strategy
+#### Product & Design Strategy
 
-##### DesignOps
+#### DesignOps
 
-##### Design Systems
+#### Design Systems
 
-##### Product roadmap
+#### Product roadmap
 
-##### Mobile & Web products
+#### Mobile & Web products
 
-##### Interaction Design expertise
+#### Interaction Design expertise
 
 {{% /2col %}}
 
 {{% 2col %}}
 
-##### Agile and candid leadership
+#### Agile and candid leadership
 
-##### Product & team Management 
+#### Product & team Management 
 
-##### Data-informed decision making
+#### Data-informed decision making
 
-##### Forward-thinking
+#### Forward-thinking
 
-##### Design thinking
+#### Design thinking
 
-##### Design Processes & Methods
+#### Design Processes & Methods
 
-##### Design Patterns recognition
+#### Design Patterns recognition
 
 {{% /2col %}}
-
 
 {{% mv6 %}}
 
