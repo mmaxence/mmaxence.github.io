@@ -34,7 +34,7 @@ This goes through clear principles for the team to follow, a strategy to shape o
 
 ## Roadmap, Strategy, OKRs, KPIs, applied to Design & Product
 
-Among all the tasks I do throughout my job, the most appealing one is to draw roadmaps, strategies, and convert these into OKRs, carefully linked with KPIs. The few last years proved to me that <mark>OKRs</mark> are working as great with Design as they do with Product. I take the necessary time to connect objectives with our product roadmap, identifying dependencies and leverages for us to explore. OKR has been proven a great source of motivation as well as ensuring meaningful, aligned work with the company's direction. <mark>KPIs</mark> can and should also apply to Design. It usually covers from our team efficiency, the way design is spreading within the company and of course the quality and reception of our products.
+Among all the tasks I do throughout my job, the most appealing one is to draw roadmaps, strategies, and convert these into OKRs, carefully linked with KPIs. The few last years proved to me that <mark>OKRs</mark> are working as great with Design as they do with Product. I take the necessary time to connect objectives with our product roadmap, identifying dependencies and leverages for us to explore. OKRs have been proven a great source of motivation as well as ensuring meaningful, aligned work with the company's direction. <mark>KPIs</mark> can and should also apply to Design. It usually covers from our team efficiency (DesignOps), the way design is spreading within the company and of course the quality and reception of our products.
 
 {{% /mv6 %}}
 
