@@ -5,28 +5,26 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-
+  <article class="flex-l flex-wrap justify-between mw8 center ph3 ph5-m ph4-l">
     <header class="mt2 w-100">
       {{ $featured_image := .Param "featured_image"}}
-        <img src="{{ $featured_image }}" class="img br4-ns br2 mb1" alt="">
-        <a class="silver " href=" {{ .Params.credentiallink}}"> {{ .Params.credential }} </a>
-      <h1 class="f1 mb1">
+        <img src="{{ $featured_image }}" class="img br4 br3-ns" alt="">
+        <section class="tc silver pv2"><a class="credential" href=" {{ .Params.credentiallink}}">{{ .Params.credential }}</a></section>
+      <h1 class="f3 f1-ns lh-title mb0 b">
         {{- .Title -}}
       </h1>
-      {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-      <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+      <time class="f6 mt2 mb2 mb4-l dib tracked gray" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{- .Date.Format "January 2, 2006" -}}
       </time>
       {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-        <span class="f6 mv4 dib tracked"> - {{ .ReadingTime}} minutes read</span>
+        <span class="f6 mt2 mb2 mb4-l dib tracked gray"> - {{ .ReadingTime}} minutes read</span>
       {{ end }}
     </header>
 
     <section class="nested-copy-line-height lh-copy lora f4 nested-links nested-img pr4-l w-two-thirds-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
-      <span class="sharing f6 mv3 dib">
+      <span class="sharing f6 mv3 dib nb">
         <a href="http://www.facebook.com/sharer.php?u={{ .Permalink }}" class="facebook" aria-label="share on Facebook">
           {{ partial "svg/facebook.svg" (dict "size" "32px") }}
         </a>

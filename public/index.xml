@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product Designer on PO, Lead product Design at buzzvil</title>
+    <title>Product Designer on Product Owner, Head of Design at buzzvil</title>
     <link>https://mmaxence.me/</link>
-    <description>Recent content in Product Designer on PO, Lead product Design at buzzvil</description>
+    <description>Recent content in Product Designer on Product Owner, Head of Design at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2019 12:01:07 +0900</lastBuildDate><atom:link href="https://mmaxence.me/index.xml" rel="self" type="application/rss+xml" />
@@ -71,6 +71,24 @@
     </item>
     
     <item>
+      <title>Multipliers</title>
+      <link>https://mmaxence.me/library/books/multipliers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/library/books/multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design as Art</title>
+      <link>https://mmaxence.me/library/books/desig-as-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/library/books/desig-as-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bird by bird</title>
       <link>https://mmaxence.me/library/books/bird-by-bird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,6 +107,69 @@
     </item>
     
     <item>
+      <title>Material 1</title>
+      <link>https://mmaxence.me/materials/leadership/material1-copy-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/leadership/material1-copy-2/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Material 2</title>
+      <link>https://mmaxence.me/materials/leadership/material1-copy-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/leadership/material1-copy-3/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Material 3</title>
+      <link>https://mmaxence.me/materials/leadership/material1-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/leadership/material1-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material 4</title>
+      <link>https://mmaxence.me/materials/fundamentals/material1-copy-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/fundamentals/material1-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material 5</title>
+      <link>https://mmaxence.me/materials/fundamentals/material1-copy-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/fundamentals/material1-copy-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material 6</title>
+      <link>https://mmaxence.me/materials/fundamentals/material1-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/fundamentals/material1-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material 7</title>
+      <link>https://mmaxence.me/materials/fundamentals/material1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/materials/fundamentals/material1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pattern Recognition</title>
       <link>https://mmaxence.me/library/books/pattern-recognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -99,11 +180,11 @@
     
     <item>
       <title>Product Owner @buzzvil</title>
-      <link>https://mmaxence.me/experience/posts/buzzvil-po/</link>
+      <link>https://mmaxence.me/timeline/posts/buzzvil-po/</link>
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/experience/posts/buzzvil-po/</guid>
-      <description>I recently took on a Product Owner role for our supply business. I handle a cross-disciplinary team of 8 members and I am in charge of the performances of our supply products (for App/Web Publishers). These new responsibilities came after a company-wide restructuring, aiming at being more performance-oriented as well as customer-obsessed. A great way for me to strengthen my business understanding and grow my management skills. I intentionally moved further away from product Design to better understand how product business works.</description>
+      <guid>https://mmaxence.me/timeline/posts/buzzvil-po/</guid>
+      <description>From January 2021, I took on a Product Owner role for our supply business. I lead a cross-disciplinary team of 10 members and I am in charge of the performances of our supply products interfaces (for App/Web Publishers).</description>
     </item>
     
     <item>
@@ -112,7 +193,7 @@
       <pubDate>Fri, 28 Feb 2020 11:07:21 +0900</pubDate>
       
       <guid>https://mmaxence.me/blog/posts/high_output_management/</guid>
-      <description>Design oriented Takeaways from Andrew Grove’s best seller. My CEO strongly recommended me to read “High output management” a while ago as my team was growing and my management responsibilities accentuated. It eventually gave me some of the most valuable insights for me to grow as a manager. This article analyses and translates my personal experiences, describing how I translated Grove’s inputs into my Design lead routine. But first I’d like to start with a short back story to understand where I come from.</description>
+      <description>Design oriented Takeaways from Andrew Grove’s best seller. My CEO strongly recommended me to read “High output management” a while ago as my team was growing and my management responsibilities accentuated.</description>
     </item>
     
     <item>
@@ -122,7 +203,7 @@
       
       <guid>https://mmaxence.me/blog/posts/tools_to_build_a_design_system_in_2020/</guid>
       <description>A snap taken during our last sprint prior to publish our system online
-This is a healthy, yearly routine I genuinely recommend to follow regardless of the size of your team: gauging your current toolbox against what’s new in the busy design tool industry. We are a team of 6 designers (3 visual &amp;amp; 3 product designers). We conducted our research and tests with a focus on design systems. You’ll find tons of other articles about this, we’ve read them all (or close) and now posting our share to the chain :).</description>
+This is a healthy, yearly routine I genuinely recommend to follow regardless of the size of your team: gauging your current toolbox against what’s new in the busy design tool industry.</description>
     </item>
     
     <item>
@@ -132,8 +213,7 @@ This is a healthy, yearly routine I genuinely recommend to follow regardless of 
       
       <guid>https://mmaxence.me/blog/posts/design_tempo/</guid>
       <description>Designers, like musicians, need to play in diapason in order to come up with melodious experiences. 🎶
-This is a subjective essay, a short read about Creative team pace management. It is based on experience, discussions with peers over the years, personal thoughts &amp;amp; analysis.
-Designers are managing creativity to answer business needs. Creativity and creative teams cannot be managed like any other field. Designers just like any specialists need specific management skills.</description>
+This is a subjective essay, a short read about Creative team pace management. It is based on experience, discussions with peers over the years, personal thoughts &amp;amp; analysis.</description>
     </item>
     
     <item>
@@ -143,8 +223,7 @@ Designers are managing creativity to answer business needs. Creativity and creat
       
       <guid>https://mmaxence.me/blog/posts/design_criticism/</guid>
       <description>How to avoid friction when receiving feedback on your design. It usually starts like this:
- I don’t like the blue here, can you please change to something more&amp;hellip; red-ish?
- This is generally enough for a designer’s face to turn.. 😡 red-ish and internally blame the poor bastard’s parents for bringing him to this world. Probably also questioning why someone with such poor fashion taste would even dare question his or her Design choices.</description>
+ I don’t like the blue here, can you please change to something more&amp;hellip; red-ish?</description>
     </item>
     
     <item>
@@ -153,8 +232,7 @@ Designers are managing creativity to answer business needs. Creativity and creat
       <pubDate>Mon, 09 Dec 2019 11:07:21 +0900</pubDate>
       
       <guid>https://mmaxence.me/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt2/</guid>
-      <description>We’ve shared a first story about how we started a study between engineers and designers. The outcome was a lot of fun and a CI pipeline from Figma to Android environment called Phantom Box. This story is about the second act of our study.
-This time we’ve decided to pinpoint a problem within our company and try fixing it. It needed to be a small scale project just for us to be incubating the whole development process altogether.</description>
+      <description>We’ve shared a first story about how we started a study between engineers and designers. The outcome was a lot of fun and a CI pipeline from Figma to Android environment called Phantom Box.</description>
     </item>
     
     <item>
@@ -163,17 +241,7 @@ This time we’ve decided to pinpoint a problem within our company and try fixin
       <pubDate>Sat, 07 Dec 2019 11:07:21 +0900</pubDate>
       
       <guid>https://mmaxence.me/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt1/</guid>
-      <description>About a year ago we started a small study group with engineers and designers to understand each other better. It was an insightful and fun experience. Fun enough to run 2 different projects summarized over 2 different stories. Here is the first one, sharing both designer and engineer points of views.
-At buzzvil we can freely start a study group, lunch being supported for the occasion. It was enough reason for us 5 to start questioning our workflow, 3 product designers and 2 engineers (client &amp;amp; devOps) on a weekly basis.</description>
-    </item>
-    
-    <item>
-      <title>Billy</title>
-      <link>https://mmaxence.me/projects/project/billy/</link>
-      <pubDate>Tue, 10 Sep 2019 11:37:34 +0900</pubDate>
-      
-      <guid>https://mmaxence.me/projects/project/billy/</guid>
-      <description></description>
+      <description>About a year ago we started a small study group with engineers and designers to understand each other better. It was an insightful and fun experience. Fun enough to run 2 different projects summarized over 2 different stories.</description>
     </item>
     
     <item>
@@ -183,8 +251,7 @@ At buzzvil we can freely start a study group, lunch being supported for the occa
       
       <guid>https://mmaxence.me/about/</guid>
       <description>This website uses the light-weight Hugo Framework coupled with the Theme Ananke as my starter.
-I keep the repository public on my Github if you want to have a look at it. 😏
-Ananke is based on the truly impressive Tachyons CSS Library.</description>
+I keep the repository public on my Github if you want to have a look at it.</description>
     </item>
     
     <item>
@@ -194,8 +261,7 @@ Ananke is based on the truly impressive Tachyons CSS Library.</description>
       
       <guid>https://mmaxence.me/blog/posts/design-system-at-buzzvil/</guid>
       <description>Design system vs startup. Takeaways.
-We built a Design system. It took us time, resources and a lot of energy, involving pretty much everyone in our design team. And it’s just the beginning of a long story. If you are working at a startup and are considering building a design system, you might find clues reading about our experience.
-First off, we can’t ignore how time consuming building a system can be.</description>
+We built a Design system. It took us time, resources and a lot of energy, involving pretty much everyone in our design team. And it’s just the beginning of a long story.</description>
     </item>
     
     <item>
@@ -204,8 +270,7 @@ First off, we can’t ignore how time consuming building a system can be.</descr
       <pubDate>Fri, 12 Apr 2019 11:31:33 +0900</pubDate>
       
       <guid>https://mmaxence.me/blog/posts/design-peer-reviews-to-support-our-team-growth/</guid>
-      <description>I always hope to see my teammates collaborate more. Now that we are at a stage of faster growth, more fellow designers are going to join us and it felt like a good timing to push forward this all peer-review strategy.
-It’s never too late. We’ve been a team of 4 designers for the last 2 years, including 2 product / 2 visual designers. Collaboration &amp;amp; Review have been naturally there as soon as the team got 2 product designers, but it’s never been a thing across the entire team, probably due to the fact that some of our designers are working remotely, bringing communication issues.</description>
+      <description>I always hope to see my teammates collaborate more. Now that we are at a stage of faster growth, more fellow designers are going to join us and it felt like a good timing to push forward this all peer-review strategy.</description>
     </item>
     
     <item>
@@ -214,65 +279,43 @@ It’s never too late. We’ve been a team of 4 designers for the last 2 years, 
       <pubDate>Tue, 15 Jan 2019 11:07:21 +0900</pubDate>
       
       <guid>https://mmaxence.me/blog/posts/buzzvil-design-team-toolbox-in-2019/</guid>
-      <description>Hi, I’m Max and I lead a team of designers at Buzzvil. When we’ve decided last year to drastically change our design toolbox, I was pleased to find plenty of insights from other teams around the world. This post talks about our decisions and related needs!
-To give a quick background, we are a team of 5 designers located in Seoul and Taipei. The team counts 3 Product designers including myself and 2 visual - Brand designers.</description>
+      <description>Hi, I’m Max and I lead a team of designers at Buzzvil. When we’ve decided last year to drastically change our design toolbox, I was pleased to find plenty of insights from other teams around the world.</description>
     </item>
     
     <item>
       <title>Product Manager @buzzvil</title>
-      <link>https://mmaxence.me/experience/posts/buzzvil-pm/</link>
+      <link>https://mmaxence.me/timeline/posts/buzzvil-pm/</link>
       <pubDate>Mon, 01 Oct 2018 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/experience/posts/buzzvil-pm/</guid>
-      <description>Since 2018 I&amp;rsquo;ve been leading amazing mission teams. The first mission was about giving the company a strong focus on improving our overall customer experience. This was a cross-disciplinary team and it happened right after our company moved to a matrix organization, adjusting our structure to accommodate the many newcomers and be more scalable. After that mission ended we merged with another mission to regroup and simplify our inventory and I took the lead to ease the transition.</description>
-    </item>
-    
-    <item>
-      <title>Ik-Joong kang - Things I know</title>
-      <link>https://mmaxence.me/projects/project/ikjoongkang/</link>
-      <pubDate>Sun, 10 Sep 2017 11:37:34 +0900</pubDate>
-      
-      <guid>https://mmaxence.me/projects/project/ikjoongkang/</guid>
-      <description></description>
+      <guid>https://mmaxence.me/timeline/posts/buzzvil-pm/</guid>
+      <description>Since 2018 I&amp;rsquo;ve been leading amazing mission teams. The first mission was about giving the company a strong focus on improving our overall customer experience. This was a cross-disciplinary team and it happened right after our company moved to a matrix organization, adjusting our structure to accommodate the many newcomers and be more scalable.</description>
     </item>
     
     <item>
       <title>Head of Design @buzzvil</title>
-      <link>https://mmaxence.me/experience/posts/buzzvil-head-of-design/</link>
+      <link>https://mmaxence.me/timeline/posts/buzzvil-head-of-design/</link>
       <pubDate>Mon, 24 Nov 2014 11:07:21 +0900</pubDate>
       
-      <guid>https://mmaxence.me/experience/posts/buzzvil-head-of-design/</guid>
-      <description>New start, new challenges, new life In Late 2014 I joined buzzvil as the lead designer, a dynamic startup based in Seoul. In June I was releasing my first Android and iOS Honeyscreen App with buzzvil. This is the beginning of a long story during which I&amp;rsquo;ve already learned so much!
-Work smarter, be lazier I don&amp;rsquo;t consider myself lazy per se, but I do enjoy a lot finding solutions to shorten boring, repetitive work.</description>
-    </item>
-    
-    <item>
-      <title>Co-Si Card</title>
-      <link>https://mmaxence.me/projects/project/co-si-card/</link>
-      <pubDate>Tue, 20 Aug 2013 11:37:34 +0900</pubDate>
-      
-      <guid>https://mmaxence.me/projects/project/co-si-card/</guid>
-      <description></description>
+      <guid>https://mmaxence.me/timeline/posts/buzzvil-head-of-design/</guid>
+      <description>Alongside my current role as Product Owner, I manage a very compact and efficient team of rockstar designers. Considering my resources, I focused on building a very agile and autonomous Design work process based on high-quality hirings and autonomous workflows.</description>
     </item>
     
     <item>
       <title>UX Design Lead @CMS Group</title>
-      <link>https://mmaxence.me/experience/posts/cms-lead-design/</link>
+      <link>https://mmaxence.me/timeline/posts/cms-lead-design/</link>
       <pubDate>Wed, 09 Mar 2011 11:31:33 +0900</pubDate>
       
-      <guid>https://mmaxence.me/experience/posts/cms-lead-design/</guid>
-      <description>CMS group (previously 3S Informatique) offered me my first long projects. I spent more than 3 years working on research-oriented projects. I could adjust the methods I learned at school, learn how to interact inside a development team, and publish my very first research paper in Tokyo.
-The real test After taking 2 months break in Korea following my graduation, I started working for a Research Lab incubated by CMS Group, an IT consulting company based in Paris.</description>
+      <guid>https://mmaxence.me/timeline/posts/cms-lead-design/</guid>
+      <description>CMS group (previously 3S Informatique) offered me my first long projects. I spent more than 3 years working on research-oriented projects. I could adjust the methods I learned at school, learn how to interact inside a development team, and publish my very first research paper in Tokyo.</description>
     </item>
     
     <item>
       <title>Student &amp; Freelancer</title>
-      <link>https://mmaxence.me/experience/posts/freelance-school/</link>
+      <link>https://mmaxence.me/timeline/posts/freelance-school/</link>
       <pubDate>Wed, 09 Mar 2005 11:31:33 +0900</pubDate>
       
-      <guid>https://mmaxence.me/experience/posts/freelance-school/</guid>
-      <description>Head full of dreams and a true passion for Product Design I graduated from the excellent L&amp;rsquo;École de design Nantes Atlantique - Master in Interaction Design with Honors. I graduated from L&amp;rsquo;École Normale Supérieure des Arts et Metiers - Research Master in Virtual Reality &amp;amp; Innovation with honors.
- I got an amazing last year&amp;rsquo;s internship at a Parisian startup called Domolib&#39;, creating home automation systems. In 6 months I could see my very first iPad application being published with positive reviews.</description>
+      <guid>https://mmaxence.me/timeline/posts/freelance-school/</guid>
+      <description>Head full of dreams and a true passion for Product Design I graduated from the excellent L&amp;rsquo;École de design Nantes Atlantique - Master in Interaction Design with Honors. I graduated from L&amp;rsquo;École Normale Supérieure des Arts et Metiers - Research Master in Virtual Reality &amp;amp; Innovation with honors.</description>
     </item>
     
   </channel>

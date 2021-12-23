@@ -2,22 +2,27 @@ baseURL = "https://mmaxence.me"
 languageCode = "en-us"
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
-title = "PO, Lead product Design at buzzvil"
+title = "Product Owner, Head of Design at buzzvil"
 Author = "Maxence Mauduit"
 googleAnalytics= "UA-149702774-1"
 enableRobotsTXT = "true"
+summaryLength = 30
 
 [params]
   custom_css = ["dist/css/style.css"]
   custom_js = ["dist/js/script.js"]
   author = "Maxence Mauduit"
-  description = "PO, Lead product Design at buzzvil"
+  description = "Product Owner, Head of Design at buzzvil"
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
   github = "https://github.com/mmaxence"
   medium = "https://medium.com/@mmaxence.me"
   show_reading_time = true
   favicon = "images/favicon.png"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
   
 [sitemap]
   changefreq = "weekly"
@@ -26,9 +31,9 @@ enableRobotsTXT = "true"
   
 [menu]
   [[menu.main]]
-    name = "Experience"
-    title = "My experiences"
-    url = "/experience/"
+    name = "Resume"
+    title = "My timeline"
+    url = "/timeline/"
     weight = -140
   [[menu.main]]
     identifier = "blog"
@@ -37,9 +42,15 @@ enableRobotsTXT = "true"
     url = "/blog/"
     weight = -130
   [[menu.main]]
-    identifier = "read"
-    name = "Bookshelf"
-    title = "read"
+    identifier = "Shelf"
+    name = "Shelf"
+    title = "shelf"
     url = "/library/"
-    slug = "read"
+    slug = "shelf"
     weight = -110
+  #[[menu.main]]
+  #  name = "Materials"
+  #  title = "My Materials"
+  #  url = "/materials/"
+  #  slug = "materials"
+  #  weight = -150

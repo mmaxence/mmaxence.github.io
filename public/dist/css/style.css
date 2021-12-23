@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
-.lora{
-font-family: 'Lora', serif;
-}
 
-body {font-family: 'Lora', serif;}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab&display=swap');
+
+body {font-family:'Open Sans', sans-serif; }
 a,a:visited,a:hover,a:active{
     color:black;
+    border-top: 2px solid transparent;
+    border-bottom: 2px solid gray;
+    text-decoration: none;
 }
-h2, h3, h4, em{
-    font-family: 'avenir next', avenir,
-    sans-serif;
+h1, h2, h3, h4, em{
+    font-family: 'Roboto Slab', serif;
+    line-height: normal;
 }
 em{
     font-size: .7em;
@@ -19,14 +20,14 @@ em{
 /*    Index Page    */
 
 .index{
-    font-family: 'lora', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .index h1, .index h2, .index h5{
-    font-family: avenir;
-    font-weight: 500;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 200;
 }
 .index h2{
-    font-weight: 600;
+    font-weight: 400;
 }
 .index h4{
     font-weight: 400;
@@ -34,23 +35,6 @@ em{
 }
 .index h5{
     color: grey;
-}
-    
-.intro h1{
-    font-family: 'lora',serif;
-}
-/* @media screen and (min-width: 48em) {
-    .intro .f1-l{
-        font-size: 3em;
-        line-height: 1em;
-    }
-}
-@media screen and (max-width: 48em) {
-    .intro .f1-l{
-        font-family: athelas;
-        font-size: 2.5em;
-        line-height: 1.2em;
-    } */
 }
 svg #rect, svg #poly, svg #circle {
     fill:black;
@@ -75,41 +59,41 @@ svg #circle:hover{
     height:128px;
     x:312px;
     y:8px;
-
+}
+.index > .mv5 > p > img{
+    width: 50%;
+    display: block;
 }
 
 /*    Hovers and Marks    */
 
-.hover-bg-yellow:hover,
-.hover-bg-yellow:focus {
-    background-color: #ffff00;
-    transform-origin: center right;
-    transform: scaleX(0);
-    transition: transform 0.25s ease-in-out;
+a:hover {
+    background-color: #FFD700;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-decoration: none;
 }
-a:hover {background-color: yellow;}
 ::selection {
-    background: rgba(255,255,0,0.5);
+    background:#FBF1A9
   }
   ::-moz-selection {
-    background: rgba(255,255,0,0.5);
+    background: #FBF1A9
   }
-mark{
+mark, .mark{
     background-color: transparent;
-    background-image:linear-gradient( transparent 0%, transparent calc(50% - 8px), rgba(255, 255, 0, 0.5) calc(50% - 8px), rgba(255, 255, 0, 0.5) 100% );
+    background-image:linear-gradient( transparent 0%, transparent calc(50% - 8px),#FBF1A9 calc(50% - 8px),#FBF1A9 100% );
     background-size: 100% 200%;
     background-position: 0 0;
 }
+li > a{
+    border: 2px solid transparent;
+}
 li.active > a{
-    background-image:linear-gradient( transparent 0%, transparent calc(80% - 2px), rgba(255, 255, 0, 0.5) calc(80% - 2px), rgba(255, 255, 0, 0.5) 100% );
-    transition: all .25s ease-in-out;
-  }
-  li.active > a:hover{
-    background-color: yellow;
+    border-bottom: 2px solid;
     transition: all .25s ease-in-out;
   }
   .f-headline-l{
-    background-image:linear-gradient( transparent 0%, transparent calc(80% - 2px), rgba(255, 255, 0, 0.5) calc(80% - 2px), rgba(255, 255, 0, 0.5) 100% );
+    background-image:linear-gradient( transparent 0%, transparent calc(80% - 2px),#FFD700 calc(80% - 2px), #FFD700 100% );
   }
 .nested-links a, .nested-links a:hover{
     color:black;
@@ -117,9 +101,13 @@ li.active > a{
 }
 footer a.link{
     fill: black;
+    border: none;
 }
-footer a.link:hover{
+footer .social > a:hover{
     background-color:transparent;
+}
+.social{
+    flex-direction: row-reverse;
 }
 /*    Library    */
 
@@ -135,6 +123,7 @@ a:hover > article.shadow-4{
 }
 a.book:hover{
     background-color: transparent;
+    border: none;
 }
 
 /*    Other    */
@@ -144,6 +133,12 @@ a.book:hover{
 }
 .sharing a:hover{
     background-color: transparent;
+    border: 2px solid transparent;
+}
+.sharing > a, .sharing > a:hover{
+    border: none;
+    border-bottom: none;
+    outline: none;
 }
 @media screen and (max-width: 48em) {
     footer .about{
@@ -152,5 +147,30 @@ a.book:hover{
 }
 hr{
     border-top: 1px solid #f1f2f3;
-
+}
+a.blogimg:hover{
+    border: none;
+    outline: none;
+    background: none;
+}
+a.blogimg img{
+    outline: none;
+    box-shadow: 0 0 0 4px transparent;
+    background: none;
+}
+a.blogimg:hover img{
+    outline: none;
+    box-shadow: 0 0 0 4px black;
+    border: none;
+}
+a.credential{
+    border: none;
+    outline: none;
+    font-size: small;
+    color:silver;
+}
+a.credential:hover{
+    border: none;
+    outline: none;
+    background: none;
 }

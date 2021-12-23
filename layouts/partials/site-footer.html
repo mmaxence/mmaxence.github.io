@@ -1,11 +1,27 @@
-<footer class="{{ .Site.Params.background_color_class | default "" }} fl bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f6 fw4 no-underline black dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-    &copy; {{ now.Format "2006" }} {{ .Site.Params.Author }}
-  </a>
-  <a class="about f6 fw4 no-underline black dib-ns pv2-ns" href="/about/" >
-  About
-  </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+<footer class="pb2 dib w-100 {{ .Site.Params.background_color_class | default "" }}" role="contentinfo">
+  <div class="flex justify-between f5 pl0 ph3-ns ph1 lh-copy flex-row-ns flex-column-reverse items-center">
+      <section class="dib pv3">
+            <a class="link" href="{{ .Site.BaseURL }}">
+            &copy; {{ now.Format "2006" }} {{ .Site.Params.Author }}
+            </a>
+      </section>
+      <section class="pv3">
+      {{ if .Site.Menus.main }}
+        <ul class="mv0 ph0 flex justify-between">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.main }}
+          <li class="dib ph2 {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+            <a href="{{ .URL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+          <li class="dib ph2">
+            <a href="/about/" >About</a>
+          </li>
+        </ul>
+      {{ end }}
+    </section>
+    <section class="pv3 mv0 ph0 flex justify-between social items-center">{{ partial "social-follow.html" . }}</section>
   </div>
 </footer>

@@ -1,30 +1,22 @@
 {{ $featured_image := .Params.featured_image }}
-<article class="pv4 bb b--black-10 ph3 ph0-l">
-  <div class="flex flex-column flex-row-ns">
-    <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
-      <h1 class="f3 avenir mt0 lh-title">
-          <a href="{{.URL}}" class="color-inherit link bg-animate hover-bg-yellow">
+<article class="fl mb5 mw8 f4 black-90 lh-copy">
+      <a href="{{.URL}}" class="db bn blogimg">
+        <img src="{{ $featured_image }}" class="br4 br3-ns" alt="image from {{ .Title }}">
+      </a>
+      <time class="f6 gray mt4">{{- .Date.Format "January 2, 2006"  }} - {{ .ReadingTime}} minutes read
+      </time>
+      <h1 class="f3 f2-ns mt0-ns mt2">
+          <a href="{{.URL}}" class="color-inherit link bn">
             {{ .Title }}
           </a>
       </h1>
-      <p class="f4 f4-l lh-copy lora">
-            {{ .Summary }}
+      <p class="f4 f4-l lh-copy">
+            {{ .Summary }} <a href="{{ .RelPermalink }}">Read More…</a>
       </p>
-    </div>
-    <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+    <div class="pl3-l order-1 order-2-l mb2 mb4-m mb0-l">
       {{ if .Params.featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
           {{ $featured_image := (trim $featured_image "/") | absURL }}
-          <a href="{{.URL}}" class="db">
-            <img src="{{ $featured_image }}" class="img  br3 br0-ns" alt="image from {{ .Title }}">
-          </a>
     </div>
-  </div>
-  <time class="f6 db gray">{{- .Date.Format "January 2, 2006" -}}
-      {{ end }}
-      {{ $section := .Site.GetPage "section" .Section }}
-      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-   - {{ .ReadingTime}} minutes read
-    {{ end }}
-  </time>
+  {{ end }}
 </article>

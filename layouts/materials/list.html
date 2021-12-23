@@ -1,0 +1,44 @@
+{{ define "main" }}
+<container class="flex">
+  <section class="w-10">
+    <section class="pa3 pa4-ns">
+      <!-- Groups content according to content section.-->
+      {{ range .Pages.GroupBy "Section" }}
+      <!-- Checks for existence of _index.md for a section; if available, pulls from "title" in front matter -->
+      {{ with $.Site.GetPage "section"}}
+      <h3>{{.Title}}</h3>
+      {{ end }}
+      <ul class="list pl0 measure center">
+          {{ range .Pages }}
+          <li class="lh-copy pv3">
+          <h3>{{ .Title }}</h3>
+          <ul class="list pl0 measure center">
+            {{ range .Pages }}
+              <li class="lh-copy pv3 no-underline ba bl-0 bt-0 br-0">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+              {{ end }}
+          </ul>
+          </li>
+          {{ end }}
+      </ul>
+      {{ end }}
+    </section>
+  </section>
+  <section class="w-80">
+    <section class="cf ph3 ph5-l mb2-ns f4 tc-l center measure-wide lh-copy gray">
+      {{- .Content -}}
+    </section>
+    <div class="intro grow vh-25 flex flex-column justify-center center index f4 measure-wide lh-copy pt-5-ns">
+        <div class="graph_pattern tc center ph3 ph0-ns">
+          <svg class="center w-50 mv3" viewBox="0 0 448 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path id="rect" d="M0 72L72 -9.07293e-07L144 72L72 144L0 72Z" fill="black"/>
+          <path id="poly" d="M224 0L286.354 36V108L224 144L161.646 108L161.646 36L224 0Z" fill="black"/>
+          <rect id="circle" x="304" width="144" height="144" rx="72" fill="black"/>
+          </svg>
+        </div>
+    </div>
+  </section>
+</container>
+{{ end }}
+

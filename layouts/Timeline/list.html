@@ -1,0 +1,50 @@
+{{ define "main" }}
+<container class="flex-ns flex-column ph3 f4 items-center mt">
+  <article class="fl mb5 mw8 f4 black-90 lh-copy">
+    <section class="flex-ns gray">
+      <section class="w-20-ns"></section>
+      <section class="w-80-ns ph4-ns measure">{{- .Content -}}</section>
+
+      </section>
+    <section class="flex-ns flex-wrap justify-around black">
+      {{ range .Paginator.Pages }}
+        {{ if .Date }}
+          <div class="f1 fl-ns w-20-ns lh-solid dn db-l db-m" id="{{ .Date.Format "2006"}}">
+            {{ .Date.Format "2006"}}
+            <div class="f3 gray lh-copy dn db-l db-m">
+              {{ .Date.Format "January" }}
+            </div>
+          </div>
+        {{ end }}
+        <div class="fl-ns w-80-ns ph4-ns bl-ns black">
+          <h1 class="f3 mt0 lh-title pt4 pt0-m pt0-l">
+              {{ .Title }}
+          </h1>
+          <p class="f5 gray">
+            {{ .Page.Description }}
+          </p>
+          <div class="nested-links f4 lh-copy nested-copy-line-height">
+            {{ .Content  }}
+          </div>
+          <div class="bb bn-m bn-l">
+            {{- partial "tags-static.html" . -}}
+          </div>
+        </div>
+      {{ end }}
+    </section>
+  </article>
+  <aside class="dn db-l db-m">
+    <ul class="f4 w-20 pa2 ml-4 fixed ml-8 list pa4">
+      {{ range .Paginator.Pages }}
+        {{ if .Date }}
+          <li class="pa1">
+            <a class="link mid-gray bg-animate" href="#{{ .Date.Format "2006" }}">
+              {{ .Date.Format "2006" }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </aside>
+</container>
+{{ end }}

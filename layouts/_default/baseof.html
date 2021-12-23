@@ -39,10 +39,10 @@
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
 
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body class="ma0 {{ $.Param "body_classes"  | default "bg-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb1" role="main">
+    <main class="pb1 flex flex-column items-center" role="main">
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}

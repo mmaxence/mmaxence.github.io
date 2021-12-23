@@ -1,19 +1,26 @@
-<nav class="pt4 pb1 ph3 ph4-ns" role="navigation">
+<nav class="pt4-ns pb1 ph3 ph4-ns" role="navigation">
   <div class="flex-l items-start justify-between">
-    <div class="pl0 mr3">
-      <a class="link black-90 bg-animate hover-bg-yellow" href="{{ .Site.BaseURL }}" class="f3 fw4 no-underline black-80 dib">
-        {{ .Site.Params.Author }}
-        <h4 class="mv1 f2 fw4 black db">{{ .Site.Title }}</h4>
-      </a>
-    </div>  
+    <a class="nav pl0 mr3 grow-l b--transparent pl2 dib" href="{{ .Site.BaseURL }}">
+      <div class="dib mt4 mt3-ns">
+        <svg class="fl mt1-ns" width="24" height="24" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="512" height="512" rx="256" fill="white"/>
+          <path d="M256 58.5142L427.028 157.257V354.743L256 453.486L84.9725 354.743V157.257L256 58.5142Z" fill="black"/>
+          <rect x="173.248" y="256" width="117.029" height="117.029" transform="rotate(-45 173.248 256)" fill="white"/>
+          </svg>              
+        <p class="f5 f4-ns ml1 mv1 fl">
+          {{ .Site.Params.Author }}
+        </p>
+    </div>
+      <h4 class="mv1 f2-l f2-m f3 fw4 black db mw6-ns mw6-l">{{ .Site.Title }}</h4>
+    </a>  
     <div class="flex-l items-center">
       <!-- {{ partial "i18nlist.html" . }} -->
       {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3 pb4 bb bn-m bn-l">
+        <ul class="pl0 mr3 pb3 lh-copy nowrap overflow-x-auto">
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib pr3 {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-            <a class="link black-90 bg-animate hover-bg-yellow-ns pa2-ns no-underline" href="{{ .URL }}" title="{{ .Name }} page">
+          <li class="list f5 f4-ns fw4 dib pr2 {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+            <a class="link black-90 pa1 ph2 bw1" href="{{ .URL }}" title="{{ .Name }} page">
               {{ .Name }}
             </a>
           </li>

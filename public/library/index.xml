@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Library on PO, Lead product Design at buzzvil</title>
+    <title>Library on Product Owner, Head of Design at buzzvil</title>
     <link>https://mmaxence.me/library/</link>
-    <description>Recent content in Library on PO, Lead product Design at buzzvil</description>
+    <description>Recent content in Library on Product Owner, Head of Design at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2019 15:47:02 +0900</lastBuildDate><atom:link href="https://mmaxence.me/library/index.xml" rel="self" type="application/rss+xml" />
@@ -67,6 +67,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mmaxence.me/library/books/coaching-for-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipliers</title>
+      <link>https://mmaxence.me/library/books/multipliers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/library/books/multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design as Art</title>
+      <link>https://mmaxence.me/library/books/desig-as-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmaxence.me/library/books/desig-as-art/</guid>
       <description></description>
     </item>
     

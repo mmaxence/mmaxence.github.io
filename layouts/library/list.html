@@ -1,11 +1,9 @@
 {{ define "main" }}
-  <article class="nested-copy-line-height b--black-10  nested-img">
-    <section class="cf ph3 ph5-l mb2-ns f4 tc-l center measure-wide lh-copy gray">
-      {{- .Content -}}
-    </section>
-    <section class="flex-ns flex-wrap items-start ph3 ph5-l justify-around f4 center lh-copy">
+  <article class="flex-ns flex-column flex-justify-center w-75-l ph2-l justify-around center f4 lh-copy gray">
+    <section class="ph4 measure-wide center">{{- .Content -}}</section>
+    <section class="flex-ns flex-wrap black flex-wrap items-start">
       {{ range (.Paginator 20).Pages }}
-        <div class="relative w-20-l ph4-ns ph1 mb4 bg-white">
+        <div class="fl w-100 w-50-m w-25-l ph2-l ph4-ns ph0 mb4 bg-white">
           {{- partial "book.html" . -}}
         </div>
       {{ end }}

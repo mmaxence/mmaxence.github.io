@@ -30,11 +30,47 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://mmaxence.me/library/books/multipliers/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/library/books/desig-as-art/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mmaxence.me/library/books/bird-by-bird/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/library/books/man-search-for-meaning/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/leadership/material1-copy-2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/leadership/material1-copy-3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/leadership/material1-copy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/fundamentals/material1-copy-2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/fundamentals/material1-copy-3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/fundamentals/material1-copy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/fundamentals/material1/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -52,17 +88,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/experience/</loc>
-    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mmaxence.me/tags/kpis/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/experience/posts/buzzvil-po/</loc>
+    <loc>https://mmaxence.me/timeline/posts/buzzvil-po/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,6 +104,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/tags/</loc>
+    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/timeline/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -107,11 +143,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/projects/project/billy/</loc>
-    <lastmod>2019-09-10T11:37:34+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mmaxence.me/blog/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -122,7 +153,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/projects/</loc>
+    <loc>https://mmaxence.me/materials/</loc>
     <lastmod>2019-07-14T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -182,7 +213,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/experience/posts/buzzvil-pm/</loc>
+    <loc>https://mmaxence.me/timeline/posts/buzzvil-pm/</loc>
     <lastmod>2018-10-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -192,12 +223,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/projects/project/ikjoongkang/</loc>
-    <lastmod>2017-09-10T11:37:34+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mmaxence.me/experience/posts/buzzvil-head-of-design/</loc>
+    <loc>https://mmaxence.me/timeline/posts/buzzvil-head-of-design/</loc>
     <lastmod>2014-11-24T11:07:21+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -222,11 +248,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/projects/project/co-si-card/</loc>
-    <lastmod>2013-08-20T11:37:34+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mmaxence.me/tags/ed-tech/</loc>
     <lastmod>2011-03-09T11:31:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,7 +263,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/experience/posts/cms-lead-design/</loc>
+    <loc>https://mmaxence.me/timeline/posts/cms-lead-design/</loc>
     <lastmod>2011-03-09T11:31:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -257,12 +278,24 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/experience/posts/freelance-school/</loc>
+    <loc>https://mmaxence.me/timeline/posts/freelance-school/</loc>
     <lastmod>2005-03-09T11:31:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/design/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/fundamentals/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/materials/leadership/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
