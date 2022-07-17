@@ -6,6 +6,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://mmaxence.me/library/books/working-backward/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mmaxence.me/library/books/measure_what_matters/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -31,6 +35,14 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/library/books/multipliers/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/library/books/its-the-manager/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/library/books/strengths-based-leadership/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -78,17 +90,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/tags/agile/</loc>
+    <loc>https://mmaxence.me/tags/delivery/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/tags/communication/</loc>
-    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mmaxence.me/tags/kpis/</loc>
+    <loc>https://mmaxence.me/tags/discovery/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -109,6 +116,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/timeline/</loc>
+    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/vision/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -198,7 +210,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/tags/management/</loc>
+    <loc>https://mmaxence.me/tags/agile/</loc>
+    <lastmod>2018-10-01T15:47:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/backlog/</loc>
     <lastmod>2018-10-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -208,17 +225,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/tags/output/</loc>
+    <loc>https://mmaxence.me/tags/product/</loc>
     <lastmod>2018-10-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/timeline/posts/buzzvil-pm/</loc>
-    <lastmod>2018-10-01T15:47:02+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mmaxence.me/tags/project/</loc>
     <lastmod>2018-10-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

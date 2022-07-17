@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Product Lead, Head of Design at buzzvil</title>
+    <title>Tags on Product Manager, Head of Design at buzzvil</title>
     <link>https://mmaxence.me/tags/</link>
-    <description>Recent content in Tags on Product Lead, Head of Design at buzzvil</description>
+    <description>Recent content in Tags on Product Manager, Head of Design at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2021 15:47:02 +0900</lastBuildDate><atom:link href="https://mmaxence.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agile</title>
-      <link>https://mmaxence.me/tags/agile/</link>
+      <title>Delivery</title>
+      <link>https://mmaxence.me/tags/delivery/</link>
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/tags/agile/</guid>
+      <guid>https://mmaxence.me/tags/delivery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Communication</title>
-      <link>https://mmaxence.me/tags/communication/</link>
+      <title>Discovery</title>
+      <link>https://mmaxence.me/tags/discovery/</link>
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KPIs</title>
-      <link>https://mmaxence.me/tags/kpis/</link>
-      <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
-      
-      <guid>https://mmaxence.me/tags/kpis/</guid>
+      <guid>https://mmaxence.me/tags/discovery/</guid>
       <description></description>
     </item>
     
@@ -40,6 +31,15 @@
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
       
       <guid>https://mmaxence.me/tags/roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://mmaxence.me/tags/vision/</link>
+      <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/tags/vision/</guid>
       <description></description>
     </item>
     
@@ -71,11 +71,20 @@
     </item>
     
     <item>
-      <title>management</title>
-      <link>https://mmaxence.me/tags/management/</link>
+      <title>Agile</title>
+      <link>https://mmaxence.me/tags/agile/</link>
       <pubDate>Mon, 01 Oct 2018 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/tags/management/</guid>
+      <guid>https://mmaxence.me/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backlog</title>
+      <link>https://mmaxence.me/tags/backlog/</link>
+      <pubDate>Mon, 01 Oct 2018 15:47:02 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/tags/backlog/</guid>
       <description></description>
     </item>
     
@@ -89,20 +98,11 @@
     </item>
     
     <item>
-      <title>output</title>
-      <link>https://mmaxence.me/tags/output/</link>
+      <title>Product</title>
+      <link>https://mmaxence.me/tags/product/</link>
       <pubDate>Mon, 01 Oct 2018 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/tags/output/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project</title>
-      <link>https://mmaxence.me/tags/project/</link>
-      <pubDate>Mon, 01 Oct 2018 15:47:02 +0900</pubDate>
-      
-      <guid>https://mmaxence.me/tags/project/</guid>
+      <guid>https://mmaxence.me/tags/product/</guid>
       <description></description>
     </item>
     
