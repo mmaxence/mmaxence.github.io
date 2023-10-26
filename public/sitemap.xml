@@ -90,6 +90,41 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://mmaxence.me/timeline/posts/cdo/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/coaching/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/design/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/mentoring/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/outcomes/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/tags/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mmaxence.me/timeline/</loc>
+    <lastmod>2022-09-23T11:07:21+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mmaxence.me/tags/delivery/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,22 +135,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/timeline/posts/buzzvil-po/</loc>
+    <loc>https://mmaxence.me/timeline/posts/buzzvil-pm/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mmaxence.me/tags/roadmap/</loc>
-    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mmaxence.me/tags/</loc>
-    <lastmod>2021-01-01T15:47:02+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://mmaxence.me/timeline/</loc>
     <lastmod>2021-01-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -185,11 +210,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/tags/design/</loc>
-    <lastmod>2019-04-12T11:31:33+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mmaxence.me/blog/posts/design-peer-reviews-to-support-our-team-growth/</loc>
     <lastmod>2019-04-12T11:31:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,7 +250,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mmaxence.me/timeline/posts/buzzvil-pm/</loc>
+    <loc>https://mmaxence.me/timeline/posts/buzzvil-po/</loc>
     <lastmod>2018-10-01T15:47:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

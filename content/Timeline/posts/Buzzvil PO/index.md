@@ -1,12 +1,12 @@
 ---
-title: "Product Manager @buzzvil"
-date: 2021-01-01T15:47:02+09:00
+title: "Product Owner @buzzvil"
+date: 2018-10-01T15:47:02+09:00
 draft: false
-featured_image: false
+featured_image: "/images/design_peer_review.jpeg"
 type: Experience
-tags: ["Vision", "Roadmap", "Discovery", "Delivery"]
-description: "Seoul - 2021.01 to now"
+tags: ["Product", "Agile", "Backlog", "OKRs"]
+description: "Seoul - 2018 to 2020"
 ---
-From January 2021, I took on a product Manager role for our supply business. I led a cross-functional team of 10 members and I was in charge of the performance of our supply products interfaces (for App/Web Publishers) until March 2022. This was the first second-degree management opportunity I've had as this team also counts one PM in charge of specific products. After a little more than one year of kicking off this mission team, we've recorded several KPI improvements, with most products refactored for greater interconnection, paving the way for further opportunities.
-
-In April 2022, I started an entirely new mission team that acts as a startup inside the startup. This new mission will define our next monetization products, to grow our customer reach. Setting up a new vision and product strategy, hiring the team, and going through product discovery are the tasks I am currently busy with lately!
+Since 2018 I've been facilitating amazing mission teams. The first mission was about giving the company a strong focus on improving our overall customer experience. This was a cross-disciplinary team and it happened right after our company moved to a matrix organization, adjusting our structure to accommodate the many newcomers and be more scalable.
+Followed a couple of other close-ended missions I had the chance to initiate and complete, until late 2020.
+These were priceless experiences that nurtured a strong interest in product growth, expanding the reach beyond product Design only. Life lessons really, learning through hit-and-miss experiences. Amazing opportunities to rinse & repeat my leadership and management processes throughout multiple, short experiences.

@@ -2,7 +2,7 @@ baseURL = "https://mmaxence.me"
 languageCode = "en-us"
 pluralizelisttitles = false
 theme = "gohugo-theme-ananke"
-title = "Product Manager, Head of Design at buzzvil"
+title = "Chief Design Officer at buzzvil"
 Author = "Maxence Mauduit"
 googleAnalytics= "UA-149702774-1"
 enableRobotsTXT = "true"
@@ -16,7 +16,7 @@ summaryLength = 30
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
   github = "https://github.com/mmaxence"
-  medium = "https://medium.com/@mmaxence.me"
+  medium = "https://medium.com/@mmaxence"
   show_reading_time = true
   favicon = "images/favicon.png"
 
@@ -31,7 +31,7 @@ summaryLength = 30
   
 [menu]
   [[menu.main]]
-    name = "Resume"
+    name = "Experience"
     title = "My timeline"
     url = "/timeline/"
     weight = -140

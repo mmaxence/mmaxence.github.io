@@ -4,7 +4,7 @@ date: 2014-11-24T11:07:21+09:00
 draft: false
 featured_image: "/images/2019_toolbox.jpeg"
 tags: ["Leadership", "system", "pattern", "method"]
-description: "Seoul - 2014 to now"
+description: "Seoul - 2014 to 2022"
 ---
 
 Alongside my current role as Product Manager, I lead a very compact and efficient team of rockstar designers. Considering my resources, I focused on building a very agile and autonomous Design work process based on high-quality hirings and autonomous workflows. All Designers are performing Peer reviews to promote feedback while all of us belong to different mission teams.

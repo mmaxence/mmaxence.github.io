@@ -1,12 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Product Manager, Head of Design at buzzvil</title>
+    <title>Tags on Chief Design Officer at buzzvil</title>
     <link>https://mmaxence.me/tags/</link>
-    <description>Recent content in Tags on Product Manager, Head of Design at buzzvil</description>
+    <description>Recent content in Tags on Chief Design Officer at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 15:47:02 +0900</lastBuildDate><atom:link href="https://mmaxence.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 11:07:21 +0900</lastBuildDate><atom:link href="https://mmaxence.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coaching</title>
+      <link>https://mmaxence.me/tags/coaching/</link>
+      <pubDate>Fri, 23 Sep 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/tags/coaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://mmaxence.me/tags/design/</link>
+      <pubDate>Fri, 23 Sep 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>https://mmaxence.me/tags/mentoring/</link>
+      <pubDate>Fri, 23 Sep 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/tags/mentoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes</title>
+      <link>https://mmaxence.me/tags/outcomes/</link>
+      <pubDate>Fri, 23 Sep 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/tags/outcomes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Delivery</title>
       <link>https://mmaxence.me/tags/delivery/</link>
@@ -40,15 +76,6 @@
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
       
       <guid>https://mmaxence.me/tags/vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://mmaxence.me/tags/design/</link>
-      <pubDate>Fri, 12 Apr 2019 11:31:33 +0900</pubDate>
-      
-      <guid>https://mmaxence.me/tags/design/</guid>
       <description></description>
     </item>
     

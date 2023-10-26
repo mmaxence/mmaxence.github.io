@@ -1,9 +1,9 @@
 ---
 title: "Product Designer"
 summary: "Leadership, Product & Design"
-description: "head of design at buzzvil, Product Manager"
+description: "CDO at buzzvil"
 taxonomies:
-    headline: "Pattern Recognition"
+    headline: "Connecting Design"
 date: 2019-07-14T12:01:07+09:00
 draft: false
 ---
@@ -11,16 +11,14 @@ draft: false
 
 {{% mv6 %}}
 
-# What I do
+# Connecting...
 
-I manage product & design teams. The products I manage are customer-facing products, taking entire profit from my Design background in the process. I also keep the leadership/coaching of the Design function team, to grow and support a compact team of talented designers dispatched throughout our matrix organization.
-
-You can download my [resume](/images/MaxenceMauduit_CV.pdf) and for more detailed info you can also check out my [Linkedin](https://www.linkedin.com/in/mmaxence/), although I am not available for hiring at the moment.
+Unlocking a team's Design potential necessitates establishing connections. This entails aligning Design initiatives with Business objectives. It also involves fostering connections among individuals who will engage with our Design in various capacities, championing our endeavors globally. Additionally, it's crucial to interface our designs with the product using a system founded on conventions and components to ensure uniformity and efficiency.
 
 ## Leader
 
 I build lean teams in which every member plays an important role. My leadership philosophy oscillates from transformational to democratic depending on the nature of each team and their related goals. 
-From the hiring and coaching of all members, I focus on securing and improving the mission's resources, my role as a leader is to make sure our team fully utilizes its potential.
+From the hiring and coaching of all members, I focus on securing and improving the mission's resources, my role as a leader is to make sure our team fully utilizes its potential to meet our goals.
 
 I communicate a clear mission & vision and use Design technics to translate complex concepts and advocate our mission to everyone inside and outside the team. I drive performance through agile processes and radically candid feedback. Being at buzzvil for years taught me to only believe in numbers and so most of our decisions and objectives are based on and monitored through our own set of data (YODA).
 
@@ -30,7 +28,7 @@ Being an advocate requires understanding the business strategies perfectly. What
 
 ## Discoverer
 
-I am a problem solver. And that brings me to initiate discoveries. I connect design discovery practices with product discovery ones. Buzzvil gave me a few opportunities to start a new mission team from scratch. My last mission aims to define what will be our next products. This is another exciting opportunity for me to grow my capacity to define new customer problems through desk research and customer interview and test to validate the best solution(s) to answer them.
+I am a problem solver. And that brings me to initiate discoveries. I connect design discovery practices with product discovery ones. Buzzvil gave me a few opportunities to start a new mission team from scratch. The last mission aimed to define what will be our next products. This was another exciting opportunity for me to grow my capacity to define new customer problems through desk research and customer interview and test to validate the best solution(s) to answer them.
 
 ## Achiever
 
@@ -102,17 +100,14 @@ Here is a list of keywords that tries to define what I do best.
 {{% mv6 %}}
 
 # Personality
-##### The typical [INFJ-A](https://www.16personalities.com/profiles/77880b0fb07b9)
-![Assertive Advocate](https://static.neris-assets.com/images/types/avatars/infj-advocate-male.svg?v=1 "Assertive Advocate") 
-##### <i>Image from [16personalities.com](https://www.16personalities.com)</i>
 
-I am the typical <mark>assertive advocate</mark>, I show a lot of confidence in what I do and genuinely hate aggressiveness of any form. My introverted side disappears as soon as I can advocate what I think is right.   
+I show a lot of confidence in what I do and genuinely hate aggressiveness of any form. My introverted side disappears as soon as I can advocate what I think is right.   
    
 It usually takes a lot to stress me out and I am the one who will usually succeed in doing so.   
       
 What drives me outside of bed every morning is the feeling of achievement. As soon as a project, a workplace can't provide that feeling anymore, I usually move on.   
    
-I enjoy <mark>learning new things</mark>, in various ways. But I suck at remembering something when I can't quite identify any patterns.   
+I enjoy <mark>learning new things</mark>, in various ways. 
 I consider myself a slow learner as I like to understand why things work the way they do. It takes me time to learn something new as I go in-depth. But it takes no time for me to learn something adjacent or related, such as a new design software as I can easily recognize patterns. Every design software work pretty much the same way and I usually recommend designers to start with a pretty complex one, such as 3D modeling. Everything will look accessible afterward.
 
 {{% /mv6 %}}

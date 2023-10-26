@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Timeline on Product Manager, Head of Design at buzzvil</title>
+    <title>Timeline on Chief Design Officer at buzzvil</title>
     <link>https://mmaxence.me/timeline/</link>
-    <description>Recent content in Timeline on Product Manager, Head of Design at buzzvil</description>
+    <description>Recent content in Timeline on Chief Design Officer at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 15:47:02 +0900</lastBuildDate><atom:link href="https://mmaxence.me/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 11:07:21 +0900</lastBuildDate><atom:link href="https://mmaxence.me/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chief Design Officer @buzzvil</title>
+      <link>https://mmaxence.me/timeline/posts/cdo/</link>
+      <pubDate>Fri, 23 Sep 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/timeline/posts/cdo/</guid>
+      <description>It was time to take a step back from product management and put a stronger focus on Design, as the team grew in numbers and our business now needs to better control our design outcomes.</description>
+    </item>
+    
     <item>
       <title>Product Manager @buzzvil</title>
-      <link>https://mmaxence.me/timeline/posts/buzzvil-po/</link>
+      <link>https://mmaxence.me/timeline/posts/buzzvil-pm/</link>
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/timeline/posts/buzzvil-po/</guid>
+      <guid>https://mmaxence.me/timeline/posts/buzzvil-pm/</guid>
       <description>From January 2021, I took on a product Manager role for our supply business. I led a cross-functional team of 10 members and I was in charge of the performance of our supply products interfaces (for App/Web Publishers) until March 2022.</description>
     </item>
     
     <item>
       <title>Product Owner @buzzvil</title>
-      <link>https://mmaxence.me/timeline/posts/buzzvil-pm/</link>
+      <link>https://mmaxence.me/timeline/posts/buzzvil-po/</link>
       <pubDate>Mon, 01 Oct 2018 15:47:02 +0900</pubDate>
       
-      <guid>https://mmaxence.me/timeline/posts/buzzvil-pm/</guid>
+      <guid>https://mmaxence.me/timeline/posts/buzzvil-po/</guid>
       <description>Since 2018 I&amp;rsquo;ve been facilitating amazing mission teams. The first mission was about giving the company a strong focus on improving our overall customer experience. This was a cross-disciplinary team and it happened right after our company moved to a matrix organization, adjusting our structure to accommodate the many newcomers and be more scalable.</description>
     </item>
     

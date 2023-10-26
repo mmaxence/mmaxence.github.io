@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>design on Product Manager, Head of Design at buzzvil</title>
+    <title>design on Chief Design Officer at buzzvil</title>
     <link>https://mmaxence.me/tags/design/</link>
-    <description>Recent content in design on Product Manager, Head of Design at buzzvil</description>
+    <description>Recent content in design on Chief Design Officer at buzzvil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2019 11:31:33 +0900</lastBuildDate><atom:link href="https://mmaxence.me/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 11:07:21 +0900</lastBuildDate><atom:link href="https://mmaxence.me/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chief Design Officer @buzzvil</title>
+      <link>https://mmaxence.me/timeline/posts/cdo/</link>
+      <pubDate>Fri, 23 Sep 2022 11:07:21 +0900</pubDate>
+      
+      <guid>https://mmaxence.me/timeline/posts/cdo/</guid>
+      <description>It was time to take a step back from product management and put a stronger focus on Design, as the team grew in numbers and our business now needs to better control our design outcomes.</description>
+    </item>
+    
     <item>
       <title>Design peer reviews to support our team growth</title>
       <link>https://mmaxence.me/blog/posts/design-peer-reviews-to-support-our-team-growth/</link>
