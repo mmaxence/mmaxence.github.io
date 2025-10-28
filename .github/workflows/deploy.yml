@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to Firebase
 
 on:
   push:
@@ -24,8 +24,19 @@ jobs:
     - name: Build Hugo site
       run: hugo --minify
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Setup Google Cloud CLI
+      uses: google-github-actions/setup-gcloud@v1
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        service_account_key: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}
+        project_id: maxence-d5f05
+
+    - name: Enable Firebase Hosting API
+      run: gcloud services enable firebasehosting.googleapis.com
+
+    - name: Deploy to Firebase
+      uses: FirebaseExtended/action-hosting-deploy@v0
+      with:
+        repoToken: '${{ secrets.GITHUB_TOKEN }}'
+        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}'
+        channelId: live
+        projectId: maxence-d5f05
