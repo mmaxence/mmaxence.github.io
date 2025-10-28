@@ -31,3 +31,4 @@ jobs:
         publish_dir: ./public
         cname: mmaxence.me
         keep_files: false
+        force_orphan: true
