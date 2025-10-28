@@ -24,25 +24,10 @@ jobs:
     - name: Build Hugo site
       run: HUGO_ENV=production hugo --minify
 
-    - name: Setup Firebase CLI
-      run: npm install -g firebase-tools
-
-    - name: Setup Google Cloud CLI
-      run: |
-        echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
-        curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
-        sudo apt-get update && sudo apt-get install google-cloud-cli -y
-
-    - name: Enable Required APIs
-      run: |
-        echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}' > firebase-service-account.json
-        export GOOGLE_APPLICATION_CREDENTIALS=firebase-service-account.json
-        gcloud auth activate-service-account --key-file=firebase-service-account.json
-        gcloud config set project maxence-d5f05
-        gcloud services enable serviceusage.googleapis.com
-        gcloud services enable firebasehosting.googleapis.com
-
     - name: Deploy to Firebase
-      run: |
-        export GOOGLE_APPLICATION_CREDENTIALS=firebase-service-account.json
-        firebase deploy --only hosting --project maxence-d5f05
+      uses: FirebaseExtended/action-hosting-deploy@v0
+      with:
+        repoToken: '${{ secrets.GITHUB_TOKEN }}'
+        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}'
+        projectId: maxence-d5f05
+        channelId: live
