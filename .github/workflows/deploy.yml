@@ -24,10 +24,8 @@ jobs:
     - name: Build Hugo site
       run: HUGO_ENV=production hugo --minify
 
-    - name: Deploy to Firebase
-      uses: FirebaseExtended/action-hosting-deploy@v0
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        repoToken: '${{ secrets.GITHUB_TOKEN }}'
-        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}'
-        projectId: maxence-d5f05
-        channelId: live
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
