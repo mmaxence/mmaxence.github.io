@@ -22,7 +22,7 @@ jobs:
         extended: true
 
     - name: Build Hugo site
-      run: hugo --minify --baseURL="https://mmaxence.me"
+      run: HUGO_ENV=production hugo --minify
 
     - name: Setup Firebase CLI
       run: npm install -g firebase-tools
