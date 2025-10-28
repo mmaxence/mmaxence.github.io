@@ -3,14 +3,14 @@ languageCode = "en-us"
 pluralizelisttitles = false
 theme = "ananke"
 title = "Product Designer, CDO at buzzvil"
-Author = "Maxence Mauduit"
+Author = "Max Mauduit"
 enableRobotsTXT = "true"
 summaryLength = 30
 
 [params]
   custom_css = ["dist/css/style.css"]
   custom_js = ["dist/js/script.js"]
-  author = "Maxence Mauduit"
+  author = "Max Mauduit"
   description = "Product Manager, Head of Design at buzzvil"
   twitter = "https://twitter.com/mmaxence"
   linkedin = "https://www.linkedin.com/in/mmaxence/"
