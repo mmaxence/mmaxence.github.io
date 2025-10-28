@@ -1,10 +1,9 @@
 baseURL = "https://mmaxence.me"
 languageCode = "en-us"
 pluralizelisttitles = false
-theme = "gohugo-theme-ananke"
-title = "Chief Design Officer at buzzvil"
+theme = "ananke"
+title = "Product Designer, CDO at buzzvil"
 Author = "Maxence Mauduit"
-googleAnalytics= "UA-149702774-1"
 enableRobotsTXT = "true"
 summaryLength = 30
 

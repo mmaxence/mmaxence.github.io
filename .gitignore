@@ -63,8 +63,6 @@ node_modules/
 
 # dotenv environment variables file
 .env
-themes/gohugo-theme-ananke/
-themes/ananke/
 .DS_Store
 content/.DS_Store
 content/blog/posts/.DS_Store

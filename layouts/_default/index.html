@@ -1,0 +1,41 @@
+{{ define "header" }}
+
+  <header class="">
+    <div class="{{ .Site.Params.background_color_class | default "bg-white" }}">
+      {{ partial "site-navigation-dark.html" . }}
+    </div>
+  </header>
+  <div class="h5-ns h2"></div>
+  <div class="intro grow-ns flex flex-column justify-center center index f4 measure-wide lh-copy pt-5-ns">
+      <div class="graph_pattern tc center ph3 ph0-ns">
+        <svg class="center w-50 mv3" viewBox="0 0 448 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path id="rect" d="M0 72L72 -9.07293e-07L144 72L72 144L0 72Z" fill="black"/>
+        <path id="poly" d="M224 0L286.354 36V108L224 144L161.646 108L161.646 36L224 0Z" fill="black"/>
+        <rect id="circle" x="304" width="144" height="144" rx="72" fill="black"/>
+        </svg>
+      </div>
+    <h1 class="tc f1-ns fw4 black-90 ma0 lh-solid lh-copy-ns">
+    {{ .Params.Taxonomies.Headline }}
+    </h1>
+    <h5 class="tc">Product · Design · Strategy · Leadership</h5>
+    {{ with .Title }}
+    {{ end }}
+  </div>
+  <div class="h5-ns h2"></div>
+  <container class="flex-ns flex-column ph3 justify-around f4 center">
+    <article class="fl mv5 flex-wrap justify-between mw8 center index ph3 ph5-l pv3 pv4-l f4 black-90 lh-copy">
+        <div class="fl w-100 w-50-ns pr4-ns ph2 mt4 pr5">
+          <img class="shadow-4 br4 grow" src="images/maxence_mauduit_portrait.jpg" alt="Maxence Mauduit" title="Maxence Mauduit">
+        </div>
+        <div class="fl w-100 w-50-l pr2">
+          <h2>👋 Greetings!</h2>
+          <p>Over the last decade, I've grown competencies in <mark>leading & managing Designers and product teams</mark>. My goal is to continue to grow as a better leader.</p>
+          <p>You can download my <a href="images/MaxenceMauduit_CV.pdf" target="_blank">Resume</a> and for more detailed info you can also check out my <a href="https://www.linkedin.com/in/mmaxence/" target="_blank">Linkedin</a>, although I am not available for hiring at the moment.</p>
+        </div>
+      </article>
+    <article class="fl flex-wrap justify-between mw8 center index ph3 ph5-l pv3 pv4-l f4 black-90 lh-copy">
+      {{ .Content }}
+    </article>
+</container>
+
+{{ end }}

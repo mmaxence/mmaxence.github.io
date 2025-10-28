@@ -1,12 +1,12 @@
 {{ $featured_image := .Params.featured_image }}
 <article class="fl mb5 mw8 f4 black-90 lh-copy">
-      <a href="{{.URL}}" class="db bn blogimg">
+      <a href="{{ .Permalink }}" class="db bn blogimg">
         <img src="{{ $featured_image }}" class="br4 br3-ns" alt="image from {{ .Title }}">
       </a>
       <time class="f6 gray mt4">{{- .Date.Format "January 2, 2006"  }} - {{ .ReadingTime}} minutes read
       </time>
       <h1 class="f3 f2-ns mt0-ns mt2">
-          <a href="{{.URL}}" class="color-inherit link bn">
+          <a href="{{ .Permalink }}" class="color-inherit link bn">
             {{ .Title }}
           </a>
       </h1>

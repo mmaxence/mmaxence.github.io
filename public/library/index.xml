@@ -1,146 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Library on Chief Design Officer at buzzvil</title>
-    <link>https://mmaxence.me/library/</link>
-    <description>Recent content in Library on Chief Design Officer at buzzvil</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Library on Product Designer, CDO at buzzvil</title>
+    <link>http://localhost:1313/library/</link>
+    <description>Recent content in Library on Product Designer, CDO at buzzvil</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 15:47:02 +0900</lastBuildDate><atom:link href="https://mmaxence.me/library/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/library/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>High Output Management</title>
-      <link>https://mmaxence.me/library/books/high-output-management/</link>
+      <link>http://localhost:1313/library/books/high-output-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/high-output-management/</guid>
+      <guid>http://localhost:1313/library/books/high-output-management/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>working Backwards</title>
-      <link>https://mmaxence.me/library/books/working-backward/</link>
+      <link>http://localhost:1313/library/books/working-backward/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/working-backward/</guid>
+      <guid>http://localhost:1313/library/books/working-backward/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Measure What Matters</title>
-      <link>https://mmaxence.me/library/books/measure_what_matters/</link>
+      <link>http://localhost:1313/library/books/measure_what_matters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/measure_what_matters/</guid>
+      <guid>http://localhost:1313/library/books/measure_what_matters/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Radical Candor</title>
-      <link>https://mmaxence.me/library/books/radical-candor/</link>
+      <link>http://localhost:1313/library/books/radical-candor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/radical-candor/</guid>
+      <guid>http://localhost:1313/library/books/radical-candor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The right it</title>
-      <link>https://mmaxence.me/library/books/the-right-it/</link>
+      <link>http://localhost:1313/library/books/the-right-it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/the-right-it/</guid>
+      <guid>http://localhost:1313/library/books/the-right-it/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unlocking the Customer Value Chain</title>
-      <link>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</link>
+      <link>http://localhost:1313/library/books/unlocking_the_customer_value_chain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/unlocking_the_customer_value_chain/</guid>
+      <guid>http://localhost:1313/library/books/unlocking_the_customer_value_chain/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Thinking Fast &amp; Slow</title>
-      <link>https://mmaxence.me/library/books/thinking-fast-and-slow/</link>
+      <link>http://localhost:1313/library/books/thinking-fast-and-slow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/thinking-fast-and-slow/</guid>
+      <guid>http://localhost:1313/library/books/thinking-fast-and-slow/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Coaching for performance</title>
-      <link>https://mmaxence.me/library/books/coaching-for-performance/</link>
+      <link>http://localhost:1313/library/books/coaching-for-performance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/coaching-for-performance/</guid>
+      <guid>http://localhost:1313/library/books/coaching-for-performance/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Multipliers</title>
-      <link>https://mmaxence.me/library/books/multipliers/</link>
+      <link>http://localhost:1313/library/books/multipliers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/multipliers/</guid>
+      <guid>http://localhost:1313/library/books/multipliers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>It&#39;s the manager</title>
-      <link>https://mmaxence.me/library/books/its-the-manager/</link>
+      <link>http://localhost:1313/library/books/its-the-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/its-the-manager/</guid>
+      <guid>http://localhost:1313/library/books/its-the-manager/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Strengths based leadership</title>
-      <link>https://mmaxence.me/library/books/strengths-based-leadership/</link>
+      <link>http://localhost:1313/library/books/strengths-based-leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/strengths-based-leadership/</guid>
+      <guid>http://localhost:1313/library/books/strengths-based-leadership/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Design as Art</title>
-      <link>https://mmaxence.me/library/books/desig-as-art/</link>
+      <link>http://localhost:1313/library/books/desig-as-art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/desig-as-art/</guid>
+      <guid>http://localhost:1313/library/books/desig-as-art/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>bird by bird</title>
-      <link>https://mmaxence.me/library/books/bird-by-bird/</link>
+      <link>http://localhost:1313/library/books/bird-by-bird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/bird-by-bird/</guid>
+      <guid>http://localhost:1313/library/books/bird-by-bird/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Man&#39;s search for meaning</title>
-      <link>https://mmaxence.me/library/books/man-search-for-meaning/</link>
+      <link>http://localhost:1313/library/books/man-search-for-meaning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/man-search-for-meaning/</guid>
+      <guid>http://localhost:1313/library/books/man-search-for-meaning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pattern Recognition</title>
-      <link>https://mmaxence.me/library/books/pattern-recognition/</link>
+      <link>http://localhost:1313/library/books/pattern-recognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmaxence.me/library/books/pattern-recognition/</guid>
+      <guid>http://localhost:1313/library/books/pattern-recognition/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -28,12 +28,12 @@
         <a href="http://www.facebook.com/sharer.php?u={{ .Permalink }}" class="facebook" aria-label="share on Facebook">
           {{ partial "svg/facebook.svg" (dict "size" "32px") }}
         </a>
-        <a href="http://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}" class="twitter" aria-label="share on Twitter">
+        <a href="http://twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via={{with .Site.Params.Social.twitter }}{{ . }}{{ end }}" class="twitter" aria-label="share on Twitter">
           {{ partial "svg/twitter.svg" (dict "size" "32px") }}
         </a>
       </span>
       <div class="mt6">
-      {{ if .Site.DisqusShortname }}
+      {{ if .Site.Params.disqusShortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}
       {{ if .Site.Params.commentoEnable }}
