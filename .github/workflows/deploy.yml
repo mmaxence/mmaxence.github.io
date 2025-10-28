@@ -24,10 +24,11 @@ jobs:
     - name: Build Hugo site
       run: hugo --minify
 
+    - name: Setup Firebase CLI
+      run: npm install -g firebase-tools
+
     - name: Deploy to Firebase
-      uses: FirebaseExtended/action-hosting-deploy@v0
-      with:
-        repoToken: '${{ secrets.GITHUB_TOKEN }}'
-        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}'
-        channelId: live
-        projectId: maxence-d5f05
+      run: |
+        echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}' > firebase-service-account.json
+        export GOOGLE_APPLICATION_CREDENTIALS=firebase-service-account.json
+        firebase deploy --only hosting --project maxence-d5f05
