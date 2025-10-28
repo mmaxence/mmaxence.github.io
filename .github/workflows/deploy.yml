@@ -28,6 +28,6 @@ jobs:
       uses: FirebaseExtended/action-hosting-deploy@v0
       with:
         repoToken: '${{ secrets.GITHUB_TOKEN }}'
-        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MMAXENCE_GITHUB_IO }}'
+        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}'
         channelId: live
-        projectId: mmaxence-github-io
+        projectId: maxence-d5f05
