@@ -1,6 +1,6 @@
-# Max Mauduit - Personal Website
+# Maxence Mauduit - Personal Website
 
-A modern, fast, and clean personal website showcasing design work, blog posts, and professional experience. Built with Hugo and deployed on GitHub Pages.
+A modern, fast, and clean personal website showcasing design work, blog posts, and professional experience. Built with Hugo and deployed on GitHub Pages with optimized build processes and content organization.
 
 ## 🌐 Live Site
 
@@ -16,6 +16,13 @@ This website serves as a digital portfolio and professional presence, featuring:
 - **Timeline**: Professional experience and career journey
 - **Materials**: Design and leadership resources
 
+## ✨ Recent Optimizations
+
+- **Build Performance**: Optimized Hugo build process with template metrics and garbage collection
+- **Content Organization**: Structured image directories and standardized content creation
+- **CI/CD Pipeline**: Enhanced GitHub Actions workflow with performance monitoring
+- **Content Management**: Added archetypes and guidelines for consistent content creation
+
 ## 🛠 Tech Stack
 
 ### Core Technologies
@@ -27,6 +34,8 @@ This website serves as a digital portfolio and professional presence, featuring:
 ### Build Tools
 - **Hugo Extended** - For SCSS processing and advanced features
 - **Minification** - Optimized CSS and HTML output
+- **Template Metrics** - Performance monitoring and optimization
+- **Garbage Collection** - Automatic cleanup of unused resources
 - **Custom CSS/JS** - Additional styling and interactions
 
 ### Content Management
@@ -44,11 +53,17 @@ mmaxence.github.io/
 │   ├── Timeline/           # Professional timeline
 │   └── materials/          # Design and leadership materials
 ├── static/                 # Static assets
-│   └── images/            # Images and media files
+│   └── images/            # Images organized by content type
+│       ├── blog/          # Blog post images
+│       ├── timeline/      # Timeline images
+│       └── library/       # Book covers
 ├── layouts/               # Custom Hugo templates
 ├── themes/                # Hugo theme (Ananke)
+├── archetypes/            # Content templates
+├── scripts/               # Build optimization scripts
 ├── config.toml           # Site configuration
 ├── deploy.sh             # Deployment script
+├── CONTENT_GUIDE.md      # Content organization guide
 └── .github/workflows/    # GitHub Actions
 ```
 
@@ -100,7 +115,12 @@ hugo new library/books/book-title/index.md
 ./deploy.sh "Your commit message"
 ```
 
-### Option 2: Automatic Deployment (GitHub Actions)
+### Option 2: Optimized Build
+```bash
+./scripts/optimize-build.sh
+```
+
+### Option 3: Automatic Deployment (GitHub Actions)
 ```bash
 git add .
 git commit -m "Your changes"
@@ -113,7 +133,7 @@ git push origin master
 ### Site Settings (`config.toml`)
 - **Base URL**: https://mmaxence.me
 - **Title**: Product Designer, CDO at buzzvil
-- **Author**: Max Mauduit
+- **Author**: Maxence Mauduit
 - **Theme**: Ananke
 - **Language**: English
 
