@@ -1,0 +1,19 @@
+# Image processing optimizations
+[params.images]
+  # Enable responsive images
+  responsive = true
+  # Image quality
+  quality = 85
+  # Enable WebP generation
+  webp = true
+  # Image resizing
+  resize = true
+
+# Performance settings
+[params.performance]
+  # Enable minification
+  minify = true
+  # Enable compression
+  compress = true
+  # Cache settings
+  cache = true

@@ -7,6 +7,30 @@ Author = "Max Mauduit"
 enableRobotsTXT = "true"
 summaryLength = 30
 
+[markup.goldmark.renderer]
+  unsafe= true
+
+[build]
+  writeStats = true
+  useResourceCacheWhen = "fallback"
+
+[build.buildStats]
+  enable = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    baseName = "index"
+    isPlainText = true
+    mediaType = "application/json"
+    notAlternative = true
+
 [params]
   custom_css = ["dist/css/style.css"]
   custom_js = ["dist/js/script.js"]
@@ -18,9 +42,10 @@ summaryLength = 30
   medium = "https://medium.com/@mmaxence"
   show_reading_time = true
   favicon = "images/favicon.png"
-
-[markup.goldmark.renderer]
-  unsafe= true
+  # Performance optimizations
+  enableRobotsTXT = true
+  enableGitInfo = false
+  disableKinds = ["taxonomy", "term"]
 
   
 [sitemap]
