@@ -33,12 +33,13 @@ jobs:
         curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
         sudo apt-get update && sudo apt-get install google-cloud-cli -y
 
-    - name: Enable Firebase Hosting API
+    - name: Enable Required APIs
       run: |
         echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}' > firebase-service-account.json
         export GOOGLE_APPLICATION_CREDENTIALS=firebase-service-account.json
         gcloud auth activate-service-account --key-file=firebase-service-account.json
         gcloud config set project maxence-d5f05
+        gcloud services enable serviceusage.googleapis.com
         gcloud services enable firebasehosting.googleapis.com
 
     - name: Deploy to Firebase
