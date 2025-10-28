@@ -27,16 +27,21 @@ jobs:
     - name: Setup Firebase CLI
       run: npm install -g firebase-tools
 
-    - name: Debug Service Account
+    - name: Setup Google Cloud CLI
       run: |
-        echo "Service account content (first 100 chars):"
-        echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}' | head -c 100
-        echo ""
-        echo "Service account file:"
+        echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
+        curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+        sudo apt-get update && sudo apt-get install google-cloud-cli -y
+
+    - name: Enable Firebase Hosting API
+      run: |
         echo '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MAXENCE_D5F05 }}' > firebase-service-account.json
-        cat firebase-service-account.json | head -c 200
+        export GOOGLE_APPLICATION_CREDENTIALS=firebase-service-account.json
+        gcloud auth activate-service-account --key-file=firebase-service-account.json
+        gcloud config set project maxence-d5f05
+        gcloud services enable firebasehosting.googleapis.com
 
     - name: Deploy to Firebase
       run: |
         export GOOGLE_APPLICATION_CREDENTIALS=firebase-service-account.json
-        firebase deploy --only hosting --project maxence-d5f05 --debug
+        firebase deploy --only hosting --project maxence-d5f05
