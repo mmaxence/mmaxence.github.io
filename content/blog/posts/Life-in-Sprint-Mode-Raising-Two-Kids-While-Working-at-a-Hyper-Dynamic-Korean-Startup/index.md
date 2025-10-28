@@ -2,7 +2,7 @@
 title: "Life in Sprint Mode: Raising Two Kids While Working at a Hyper-Dynamic Korean Startup"
 date: 2025-10-28T14:53:35+09:00
 draft: false
-featured_image: "/blog/posts/Life-in-Sprint-Mode-Raising-Two-Kids-While-Working-at-a-Hyper-Dynamic-Korean-Startup/hero.jpg"
+featured_image: "/images/blog/posts/life-in-sprint-mode/hero.jpg"
 credential: "A top-down view of a MacBook surrounded by colorful LEGO bricks, symbolizing the intersection of work and family life"
 credentiallink: ""
 ---
@@ -23,7 +23,7 @@ Raising kids is hard everywhere. It tests your patience, empathy, and sense of c
 
 ## Million Dollar Baby
 
-![A baby sitting in a baby seat surrounded by colorful sticky notes on a white cabinet](/blog/posts/Life-in-Sprint-Mode-Raising-Two-Kids-While-Working-at-a-Hyper-Dynamic-Korean-Startup/output.jpg)
+![A baby sitting in a baby seat surrounded by colorful sticky notes on a white cabinet](/images/blog/posts/life-in-sprint-mode/output.jpg)
 
 Unicorns are usually defined by valuation. Reach $1 billion and you earn the label. But there's another kind of rarity: a workplace that scales fast without stiffening, where autonomy isn't a buzzword but the operating system.
 
@@ -49,7 +49,7 @@ It turns out that autonomy, trust, and the right tools can produce not just high
 
 ## Yes We Can
 
-![A man and young boy sitting on a sofa with electronic devices and toys on a table](/blog/posts/Life-in-Sprint-Mode-Raising-Two-Kids-While-Working-at-a-Hyper-Dynamic-Korean-Startup/yeswecan.jpg)
+![A man and young boy sitting on a sofa with electronic devices and toys on a table](/images/blog/posts/life-in-sprint-mode/yeswecan.jpg)
 
 There's nothing heroic about it. Just the daily work of trying to build meaningful things while raising small humans, staying curious, and keeping a sense of humor.
 
