@@ -386,6 +386,136 @@ mark:hover {
   }
 }
 
+/* Book Page Styling */
+.book-header {
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 2rem;
+}
+
+.book-info-card {
+  background: #ffffff;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: var(--shadow-subtle);
+}
+
+/* Book page links default to text color; turn blue only on hover */
+.book-info-card .link { color: inherit !important; }
+.book-info-card .link:hover { color: var(--color-accent) !important; }
+
+/* Book content headers should be black, not blue */
+.book-content h2,
+.book-content h3,
+.book-content h4,
+.book-content h5,
+.book-content h6 {
+  color: #333 !important;
+}
+
+.book-cover {
+  transition: transform var(--transition-smooth);
+}
+
+.book-cover:hover {
+  transform: scale(1.05);
+}
+
+.book-title {
+  color: #333;
+  line-height: 1.2;
+}
+
+.book-author {
+  color: #666;
+}
+
+.book-meta {
+  color: #888;
+}
+
+.book-content h2 {
+  color: var(--color-accent);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.book-content h3 {
+  color: #333;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+}
+
+.book-content blockquote {
+  border-left: 4px solid var(--color-accent);
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #555;
+  background: #f8f9fa;
+  padding: 1rem 1.5rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--color-accent);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all var(--transition-smooth);
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: var(--color-accent-hover);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+}
+
+.btn-primary {
+  background: var(--color-accent);
+}
+
+.book-navigation {
+  margin-top: 3rem;
+}
+
+.book-share a {
+  color: var(--color-accent);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.book-share a:hover {
+  color: var(--color-accent-hover);
+  text-decoration: underline;
+}
+
+/* Responsive book layout */
+@media (max-width: 768px) {
+  .book-header .flex {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .book-cover {
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .book-navigation .flex {
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+  }
+}
+
 /* Accessibility */
 @media (prefers-reduced-motion: reduce) {
   * {
