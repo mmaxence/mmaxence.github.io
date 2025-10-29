@@ -30,7 +30,8 @@
 
     <div class="book-content">
       {{- $raw := .RawContent -}}
-      {{- $clean := replaceRE "(?s)##\\s*About This Book[\\s\\S]*?(?=\\n##|$)" "" $raw -}}
+      {{- $clean := replaceRE "(?s)##\\s*About This Book[\\s\\S]*?\\n##" "##" $raw -}}
+      {{- $clean = replaceRE "(?s)##\\s*About This Book[\\s\\S]*$" "" $clean -}}
       {{ $clean | markdownify }}
     </div>
 
