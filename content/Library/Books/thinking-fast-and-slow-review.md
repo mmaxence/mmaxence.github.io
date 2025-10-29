@@ -13,13 +13,6 @@ book_year: "2011"
 amazon_link: "https://www.amazon.com/s?k=thinking+fast+and+slow+by+daniel+kahneman"
 ---
 
-## About This Book
-
-**Author:** Daniel Kahneman  
-**Category:** Psychology & Decision Making  
-**Year:** 2011  
-**Purchase:** [Amazon](https://www.amazon.com/s?k=thinking+fast+and+slow+by+daniel+kahneman)
-
 ## Key Insights
 
 ### Design Thinking Impact

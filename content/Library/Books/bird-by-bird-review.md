@@ -13,13 +13,7 @@ book_year: "Year"
 amazon_link: "https://www.amazon.com/s?k=bird+by+bird+anne+lamotte"
 ---
 
-## About This Book
-
-**Author:** Anne Lamotte  
-**Category:** writing  
-**Year:** Year  
-**Purchase:** [Amazon](https://www.amazon.com/s?k=bird+by+bird+anne+lamotte)
-
+ 
 ## Key Insights
 
 ### Design Thinking Impact

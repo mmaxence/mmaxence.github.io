@@ -13,13 +13,6 @@ book_year: "Year"
 amazon_link: "https://www.goodreads.com/book/show/43514914-it-s-the-manager"
 ---
 
-## About This Book
-
-**Author:** Gallup  
-**Category:** leadership  
-**Year:** Year  
-**Purchase:** [Amazon](https://www.goodreads.com/book/show/43514914-it-s-the-manager)
-
 ## Key Insights
 
 ### Design Thinking Impact
