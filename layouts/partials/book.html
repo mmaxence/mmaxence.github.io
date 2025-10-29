@@ -1,5 +1,5 @@
 {{ $featured_image := .Params.featured_image }}
-<a href="{{.LinkTitle}}" class="db link book bn no-underline book-item">
+<a href="{{ .RelPermalink }}" class="db link book bn no-underline book-item">
   <article class="bg-white center mw8 br4 br3-ns mv2 book-card">
     <img src="{{ $featured_image }}" class="img br4 br3-ns br--top" alt="image from {{ .Title }}">
     <div class="ph3">

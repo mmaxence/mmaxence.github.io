@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum on Product Designer, CDO at buzzvil</title>
-    <link>http://localhost:1313/tags/curriculum/</link>
+    <link>http://localhost:1314/tags/curriculum/</link>
     <description>Recent content in Curriculum on Product Designer, CDO at buzzvil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Mar 2005 11:31:33 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/curriculum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/curriculum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Student &amp; Freelancer</title>
-      <link>http://localhost:1313/timeline/posts/freelance--school/</link>
+      <link>http://localhost:1314/timeline/posts/freelance--school/</link>
       <pubDate>Wed, 09 Mar 2005 11:31:33 +0900</pubDate>
-      <guid>http://localhost:1313/timeline/posts/freelance--school/</guid>
+      <guid>http://localhost:1314/timeline/posts/freelance--school/</guid>
       <description>&lt;h3 id=&#34;head-full-of-dreams-and-a-true-passion-for-product-design&#34;&gt;Head full of dreams and a true passion for Product Design&lt;/h3&gt;&#xA;&lt;p&gt;I graduated from the excellent &lt;a href=&#34;https://wwww.lecolededesign.com&#34;&gt;L&amp;rsquo;École de design Nantes Atlantique&lt;/a&gt; with a Master in Interaction Design with Honors.&#xA;I graduated from &lt;a href=&#34;https://artsetmetiers.fr/en&#34;&gt;L&amp;rsquo;École Normale Supérieure des Arts et Metiers&lt;/a&gt; with a Research Master in Virtual Reality &amp;amp; Innovation with honors.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,5 +1,6 @@
 {{ $featured_image := .Param "featured_image"}}
-{{ if $featured_image }}
+{{ $isLibrary := or (eq .Section "library") (eq .Type "library") }}
+{{ if and $featured_image (not $isLibrary) }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
