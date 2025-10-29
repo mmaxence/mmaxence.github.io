@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Methodology on Product Designer, CDO at buzzvil</title>
-    <link>http://localhost:1314/tags/methodology/</link>
+    <link>http://localhost:1313/tags/methodology/</link>
     <description>Recent content in Methodology on Product Designer, CDO at buzzvil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2019 11:31:33 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1314/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design peer reviews to support our team growth</title>
-      <link>http://localhost:1314/blog/posts/design-peer-reviews-to-support-our-team-growth/</link>
+      <link>http://localhost:1313/blog/posts/design-peer-reviews-to-support-our-team-growth/</link>
       <pubDate>Fri, 12 Apr 2019 11:31:33 +0900</pubDate>
-      <guid>http://localhost:1314/blog/posts/design-peer-reviews-to-support-our-team-growth/</guid>
+      <guid>http://localhost:1313/blog/posts/design-peer-reviews-to-support-our-team-growth/</guid>
       <description>&lt;p&gt;I always hope to see my teammates collaborate more. Now that we are at a stage of faster growth, more fellow designers are going to join us and it felt like a good timing to push forward this all peer-review strategy.&lt;/p&gt;</description>
     </item>
   </channel>

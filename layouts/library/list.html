@@ -2,13 +2,12 @@
   <article class="flex-ns flex-column flex-justify-center w-75-l ph2-l justify-around center f4 lh-copy gray">
     <section class="ph4 measure-wide center hero-section">{{- .Content -}}</section>
     <section class="book-grid">
-      {{/* Show only review pages (filenames ending with -review.md) */}}
-      {{ range .Pages }}
-      {{ if hasSuffix .File.BaseFileName "-review" }}
+      {{/* Show only review pages (single instance per book) */}}
+      {{ $reviews := where .Pages "File.BaseFileName" "in" "-review" }}
+      {{ range $reviews }}
         <div class="book-item">
           {{- partial "book.html" . -}}
         </div>
-      {{ end }}
       {{ end }}
     </section>
     {{- /* Pagination can be re-enabled if needed by paginating $reviews */ -}}
