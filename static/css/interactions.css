@@ -1,0 +1,446 @@
+/* Delightful Interactions - Minimal & Elegant */
+
+/* Navigation Links - Apply to LI elements */
+nav ul li {
+  position: relative !important;
+  transition: all var(--transition-fast) !important;
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+  overflow: visible !important;
+}
+
+nav ul li:after {
+  content: '' !important;
+  position: absolute !important;
+  bottom: -2px !important;
+  left: 0 !important;
+  width: 0 !important;
+  height: 2px !important;
+  background: var(--color-accent) !important;
+  transition: width var(--transition-smooth) !important;
+  z-index: 1 !important;
+}
+
+nav ul li:hover {
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+}
+
+nav ul li:hover:after {
+  width: 100% !important;
+}
+
+nav ul li:hover a {
+  color: var(--color-accent) !important;
+  background-color: transparent !important;
+  border: none !important;
+  outline: none !important;
+  text-decoration: none !important;
+}
+
+/* Pressed state for navigation links */
+nav ul li:active {
+  transform: scale(0.95) translateY(1px) !important;
+  transition: transform 0.1s ease-out !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  outline: none !important;
+}
+
+/* Ensure parent containers allow overflow for pseudo-elements */
+nav ul {
+  overflow: visible !important;
+}
+
+/* CSS Custom Properties for consistent theming */
+:root {
+  --transition-fast: 0.15s ease-out;
+  --transition-smooth: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-bounce: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  --shadow-subtle: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --color-accent: #007bff;
+  --color-accent-hover: #0056b3;
+}
+
+/* Page Transition System */
+.page-transition {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity var(--transition-smooth), transform var(--transition-smooth);
+}
+
+.page-transition.loaded {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Reading Progress Bar */
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, #000000, #333333);
+  z-index: 9999;
+  transition: width 0.1s ease-out;
+}
+
+/* AGGRESSIVE LINK OVERRIDES - Force our styles to work */
+
+/* All links base styles */
+a {
+  position: relative !important;
+  transition: color var(--transition-fast) !important;
+  text-decoration: none !important;
+}
+
+/* Text links - permanent underline + animated blue line on hover */
+a:not(.no-underline):not(nav a):not(.link.black-90):not(a.link.black-90.pa1.ph2.bw1) {
+  text-decoration: underline !important;
+  text-decoration-color: #ccc !important;
+  text-underline-offset: 2px !important;
+  position: relative !important;
+}
+
+a:not(.no-underline):not(nav a):not(.link.black-90):not(a.link.black-90.pa1.ph2.bw1):after {
+  content: '' !important;
+  position: absolute !important;
+  bottom: 2px !important; /* Match the text-underline-offset */
+  left: 0 !important;
+  width: 0 !important;
+  height: 2px !important;
+  background: var(--color-accent) !important;
+  transition: width var(--transition-smooth) !important;
+  z-index: 2 !important; /* Higher z-index to overlay the gray underline */
+}
+
+a:not(.no-underline):not(nav a):not(.link.black-90):not(a.link.black-90.pa1.ph2.bw1):hover:after {
+  width: 100% !important;
+}
+
+/* Pressed state for text links - color change only */
+a:not(.no-underline):not(nav a):not(.link.black-90):not(a.link.black-90.pa1.ph2.bw1):active {
+  color: var(--color-accent-hover) !important;
+  transition: color 0.1s ease-out !important;
+}
+
+
+/* Fallback selectors for broader compatibility */
+.link.black-90:after {
+  content: '' !important;
+  position: absolute !important;
+  bottom: -2px !important;
+  left: 0 !important;
+  width: 0 !important;
+  height: 2px !important;
+  background: var(--color-accent) !important;
+  transition: width var(--transition-smooth) !important;
+  z-index: 1 !important;
+}
+
+.link.black-90:hover:after {
+  width: 100% !important;
+}
+
+/* AGGRESSIVE HOVER AND STATE OVERRIDES */
+
+/* All links turn blue on hover */
+a:hover,
+nav a:hover,
+.link.black-90:hover,
+nav ul li a:hover,
+nav ul li a.link.black-90:hover {
+  color: var(--color-accent) !important;
+  text-decoration: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  outline: none !important;
+}
+
+/* Remove all unwanted effects from all link states */
+a, a:hover, a:active, a:focus,
+nav a, nav a:hover, nav a:active, nav a:focus,
+.link.black-90, .link.black-90:hover, .link.black-90:active, .link.black-90:focus,
+nav ul li a, nav ul li a:hover, nav ul li a:active, nav ul li a:focus {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+/* Remove focus rings and frames from all interactive elements */
+*:focus,
+*:active,
+button:focus,
+button:active,
+a:focus,
+a:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* Only show focus ring for keyboard navigation */
+*:focus-visible {
+  outline: 2px solid var(--color-accent) !important;
+  outline-offset: 2px !important;
+}
+
+/* Card Hover Effects */
+.card, .post-card, .book-card {
+  transition: transform var(--transition-smooth), box-shadow var(--transition-smooth);
+  cursor: pointer;
+}
+
+.card:hover, .post-card:hover, .book-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+}
+
+/* Index Page Specific Interactions */
+.hero-section {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.hero-section:nth-child(2) { animation-delay: 0.2s; }
+.hero-section:nth-child(3) { animation-delay: 0.4s; }
+.hero-section:nth-child(4) { animation-delay: 0.6s; }
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Principle Cards Animation */
+.principle-card {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all var(--transition-smooth);
+}
+
+.principle-card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Library Page Enhancements */
+.book-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+  gap: 1.5rem !important;
+  margin: 2rem 0 !important;
+  width: 100% !important;
+}
+
+.book-item {
+  display: block !important;
+  transition: all var(--transition-smooth) !important;
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.book-item .book-card {
+  background: white !important;
+  border-radius: 8px !important;
+  padding: 1.5rem !important;
+  border: 1px solid #f0f0f0 !important;
+  box-shadow: var(--shadow-subtle) !important;
+  transition: all var(--transition-smooth) !important;
+}
+
+.book-item:hover .book-card {
+  transform: translateY(-4px) !important;
+  box-shadow: var(--shadow-hover) !important;
+  border-color: var(--color-accent) !important;
+}
+
+.book-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #333;
+  transition: color var(--transition-fast);
+}
+
+.book-item:hover .book-title {
+  color: var(--color-accent);
+}
+
+.book-author {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.book-description {
+  color: #555;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+/* Qualification Grid Animation */
+.qualification-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.qualification-item {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 6px;
+  text-align: center;
+  transition: all var(--transition-smooth);
+  border: 2px solid transparent;
+}
+
+.qualification-item:hover {
+  background: white;
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-subtle);
+}
+
+/* Mark Highlight Animation - Remove old yellow hover */
+mark {
+  background: transparent;
+  padding: 0.1em 0.2em;
+  border-radius: 3px;
+  transition: all var(--transition-smooth);
+}
+
+mark:hover {
+  background: transparent;
+  color: var(--color-accent);
+}
+
+/* Button Interactions */
+.btn, button {
+  transition: all var(--transition-smooth);
+  position: relative;
+  overflow: hidden;
+}
+
+.btn:before, button:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn:hover:before, button:hover:before {
+  left: 100%;
+}
+
+/* Smooth Focus States */
+*:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Loading States */
+.loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .book-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .qualification-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  
+  .hero-section {
+    transform: translateY(15px);
+  }
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Simple Press States */
+a:active {
+  transform: scale(0.98);
+  transition: transform var(--transition-fast);
+}
+
+/* Card press effects */
+.book-item:active, .book-item:active .book-card,
+.qualification-item:active,
+.card:active, .post-card:active {
+  transform: scale(0.95) translateY(2px);
+  transition: transform var(--transition-fast);
+}
+
+/* Remove any yellow highlight utility classes if present */
+.bg-yellow, .hover-bg-yellow:hover { 
+  background-color: transparent !important; 
+}
+
+/* Remove top/bottom stroke/borders on links (especially nav/header) */
+nav a, nav a:hover, nav a:focus,
+.link, .link:hover, .link:focus,
+.header a, .header a:hover, .header a:focus {
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+}
+
+/* Disable custom underline effect on nav links entirely */
+nav a:after { display: none !important; }
+
+/* Make hover appearance animated (color, border, shadow) */
+a {
+  transition: color var(--transition-smooth),
+              border-color var(--transition-smooth),
+              box-shadow var(--transition-smooth),
+              background-color var(--transition-smooth);
+}
+
+/* Ensure underline animation is smooth on content links */
+a:not(.no-underline):after {
+  transition: width var(--transition-smooth), background-color var(--transition-smooth);
+}

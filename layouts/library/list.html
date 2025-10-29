@@ -1,9 +1,9 @@
 {{ define "main" }}
   <article class="flex-ns flex-column flex-justify-center w-75-l ph2-l justify-around center f4 lh-copy gray">
-    <section class="ph4 measure-wide center">{{- .Content -}}</section>
-    <section class="flex-ns flex-wrap black flex-wrap items-start">
+    <section class="ph4 measure-wide center hero-section">{{- .Content -}}</section>
+    <section class="book-grid">
       {{ range (.Paginator 20).Pages }}
-        <div class="fl w-100 w-50-m w-25-l ph2-l ph4-ns ph0 mb4 bg-white">
+        <div class="book-item">
           {{- partial "book.html" . -}}
         </div>
       {{ end }}

@@ -43,22 +43,34 @@ I also learned that if you don't measure achievement, you don't achieve anything
 
 Principles are essential to driving yourself, a team, or a product with shared and expected values. I apply principles to every team, project, or product I get the chance to work on. I believe it to be part of the fundamentals. Here are the ones I've set to define how I work:
 
+<div class="principle-card">
+
 ## Think slow, Do fast
 ![Think Slow, Do Fast](images/think_slow_do_fast.svg "Think Slow, Do Fast") 
 
 Giving myself the time to think, giving my [system 2](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Two_systems) (slow thinking) a chance to connect the dots has been part of my routine for as long as I have been designing. My theory is that everything can be done fast as long as I know exactly what I need to do.    
 From this habit, I've become an <mark>automation specialist</mark>. It is all about identifying patterns, identifying everything that can be re-used to save up time and energy. Naturally, I try to advocate the same thinking process to my Design team, so we can all <mark>focus on things that matter</mark>.
 
+</div>
+
+<div class="principle-card">
+
 ## Listen actively, communicate effectively
 ![Listen actively, Communicate effectively](images/listen_actively_communicate_effectively.svg "Listen actively, Communicate effectively") 
 <mark>Information is key</mark>. As you will eventually see below, I am not the extroverted type of person and I enjoy listening to others. Effective listening has many advantages in this line of work. It gives a better understanding and it is a natural way to earn the trust and respect of others.   
 As a designer, I also need to be good at communicating my ideas and as a manager, I need to give my teammates clear indications & feedback. Despite my personality, I am usually enjoying giving a lecture or leading a meeting as long as it has a purpose (I am really bad at chit-chatting). Being a designer gives me plenty of ways to express what I need to say aside from verbal communication (mockups, drawings are most of the time sharper communication mediums to communicate your design).
+
+</div>
+
+<div class="principle-card">
 
 ## Balance initiatives & delegation
 ![Balance Initiatives & delegation](images/balance_initiation_delegation.svg "Balance Initiatives & delegation") 
 Accountability inside a team is crucial to ensure motivation and get the 100% of your team capacity. The leader role is really about making every member an active collaborator who will have an impact on the product.
 I always loved to initiate new projects. But I eventually felt limited by what I could achieve by myself early in my career. That is mostly why I decided to step up and take on a leadership position just after a few years of experience.   
 Followed a long journey in which I've progressively learned to delegate, starting by hiring better designers, better specialists than I am and moving my focus toward different objectives and higher levels of concepts.
+
+</div>
 
 {{% /mv6 %}}
 

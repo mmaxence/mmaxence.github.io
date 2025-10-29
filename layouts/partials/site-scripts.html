@@ -2,3 +2,7 @@
 {{ with $script.js }}
   <script src="{{ relURL (printf "%s%s" "dist/" .) }}"></script>
 {{ end }}
+
+<!-- Delightful Interactions (Local Only) -->
+<link rel="stylesheet" href="{{ "css/interactions.css" | relURL }}">
+<script src="{{ "js/interactions.js" | relURL }}" defer></script>
