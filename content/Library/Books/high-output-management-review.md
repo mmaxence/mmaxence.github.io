@@ -13,6 +13,13 @@ book_year: "Year"
 amazon_link: "https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK"
 ---
 
+## About This Book
+
+**Author:** Andrew Grove  
+**Category:** management  
+**Year:** Year  
+**Purchase:** [Amazon](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
+
 ## Key Insights
 
 ### Design Thinking Impact

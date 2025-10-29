@@ -5,11 +5,11 @@
       <a href="/library/" class="link black-90">← My Shelf</a>
     </p>
     <div class="book-info-card mb4">
-      <div class="flex items-stretch justify-between">
+      <div class="flex items-start justify-between">
       {{ with .Params.featured_image }}
         <img src="{{ . }}" alt="{{ $.Title }} cover" style="width:160px;height:auto;border-radius:8px;margin-right:16px;box-shadow:0 2px 8px rgba(0,0,0,.08);" />
       {{ end }}
-      <div class="flex-auto flex flex-column justify-between">
+      <div class="flex-auto">
         <h1 class="f2 fw6 black ma0">{{ .Title }}</h1>
         <p class="mt2 mb1 f5 gray">
           {{ with .Params.book_author }}<span>by {{ . }}</span>{{ end }}
@@ -18,19 +18,19 @@
           {{ if and .Params.book_category .Params.book_year }} • {{ end }}
           {{ with .Params.book_year }}<span>{{ . }}</span>{{ end }}
         </p>
-        {{ with .Params.amazon_link }}
-          <div class="mt3 tr">
-            <a class="link black-90" target="_blank" href="{{ . }}">Get the book</a>
-          </div>
-        {{ end }}
       </div>
+      {{ with .Params.amazon_link }}
+        <div class="self-end">
+          <a class="link black-90" target="_blank" href="{{ . }}">Get the book</a>
+        </div>
+      {{ end }}
       </div>
     </div>
     
 
     <div class="book-content">
       {{- $raw := .RawContent -}}
-      {{- $clean := replaceRE "(?s)##\\s*About This Book[\\s\\S]*?(?=\\n##|$)" "" $raw -}}
+      {{- $clean := replaceRE "(?s)## About This Book.*?(?=\n## |\z)" "" $raw -}}
       {{ $clean | markdownify }}
     </div>
 

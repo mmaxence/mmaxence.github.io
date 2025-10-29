@@ -13,6 +13,13 @@ book_year: "Year"
 amazon_link: "https://www.amazon.com/Coaching-Performance-Potential-Principles-Leadership-ebook/dp/B0047T7MQ0"
 ---
 
+## About This Book
+
+**Author:** Sir John Whitmore  
+**Category:** management  
+**Year:** Year  
+**Purchase:** [Amazon](https://www.amazon.com/Coaching-Performance-Potential-Principles-Leadership-ebook/dp/B0047T7MQ0)
+
 ## Key Insights
 
 ### Design Thinking Impact

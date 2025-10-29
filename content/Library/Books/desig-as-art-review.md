@@ -13,6 +13,13 @@ book_year: "Year"
 amazon_link: "https://www.amazon.com/Design-As-Art-Bruno-Munari/dp/0141035811"
 ---
 
+## About This Book
+
+**Author:** Bruno Munari  
+**Category:** design  
+**Year:** Year  
+**Purchase:** [Amazon](https://www.amazon.com/Design-As-Art-Bruno-Munari/dp/0141035811)
+
 ## Key Insights
 
 ### Design Thinking Impact
