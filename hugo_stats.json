@@ -147,6 +147,7 @@
       "items-center",
       "items-end",
       "items-start",
+      "items-stretch",
       "justify-around",
       "justify-between",
       "justify-center",
