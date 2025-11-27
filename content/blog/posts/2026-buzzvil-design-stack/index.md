@@ -1,6 +1,6 @@
 ---
 title: "The 2026 Buzzvil Design Stack, Preparing for the AI Shift"
-date: 2024-11-27T10:00:00+09:00
+date: 2024-11-26T10:00:00+09:00
 draft: false
 featured_image: "/blog/posts/2026-buzzvil-design-stack/cover.jpg"
 credential: ""
