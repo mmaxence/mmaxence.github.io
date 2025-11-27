@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1314/sitemap.xml
+Sitemap: https://mmaxence.me/sitemap.xml

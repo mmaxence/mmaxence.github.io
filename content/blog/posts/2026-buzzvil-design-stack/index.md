@@ -117,9 +117,3 @@ We will continue to monitor how this policy works and revisit it if critical wor
 ## Closing Thoughts
 
 The tools we chose for 2026 are not simply upgrades, they are commitments. A unified, code-connected design system, disciplined workflows, and AI-ready infrastructure give us a foundation sturdy enough for what is coming next. The design discipline will change again in the next two years, likely faster than the previous ten. Our goal is not to predict every shift. It is to ensure we are structurally ready for them when they arrive.
-
-⸻
-<!-- Please do not remove links below. -->
-[버즈빌 개발자 지원하기 (클릭)](https://buzzvil.career.greetinghr.com/)
-
-[버즈빌 테크 리크루터와 Coffee Chat하기 (클릭)](https://docs.google.com/forms/d/e/1FAIpQLSdu-AHgTmGGfNSmr0bwEO4ubvnVFzHsZ7Dq-b4_Y7mghB772Q/viewform)
