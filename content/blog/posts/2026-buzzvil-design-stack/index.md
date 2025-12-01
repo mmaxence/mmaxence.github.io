@@ -60,7 +60,7 @@ Slides became our go-to whenever we need to make a deck for a presentation. The 
 
 ### Sites and Buzz: Testing out
 
-![Figma buzz interface](/blog/posts/2026-buzzvil-design-stack/buzz.png)
+![Figma buzz interface](/blog/posts/2026-buzzvil-design-stack/buzz.jpg)
 
 We are also experimenting with Figma Sites and Buzz, mostly for brand and communication work. These experiments are early explorations, entertaining enough, but not yet essential.
 
