@@ -1,6 +1,6 @@
 ---
 title: "I Don't Like Ads"
-date: 2025-01-27T10:00:00+09:00
+date: 2025-12-24T10:00:00+09:00
 draft: false
 featured_image: "/blog/posts/i-dont-like-ads/cover.jpg"
 credential: ""
