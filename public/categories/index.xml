@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Product Designer, CDO at buzzvil</title>
-    <link>https://mmaxence.me/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Product Designer, CDO at buzzvil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmaxence.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Dec 2025 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/categories/design/</link>
+      <pubDate>Wed, 24 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/design/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Book Review</title>
-      <link>https://mmaxence.me/categories/book-review/</link>
+      <link>http://localhost:1313/categories/book-review/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mmaxence.me/categories/book-review/</guid>
+      <guid>http://localhost:1313/categories/book-review/</guid>
       <description></description>
     </item>
   </channel>

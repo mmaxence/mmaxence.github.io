@@ -2,94 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Product Designer, CDO at buzzvil</title>
-    <link>https://mmaxence.me/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on Product Designer, CDO at buzzvil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Nov 2025 10:00:00 +0900</lastBuildDate>
-    <atom:link href="https://mmaxence.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Dec 2025 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Don&#39;t Like Ads</title>
+      <link>http://localhost:1313/blog/posts/i-dont-like-ads/</link>
+      <pubDate>Wed, 24 Dec 2025 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/blog/posts/i-dont-like-ads/</guid>
+      <description>How treating ads as interaction systems rather than endpoints led to fundamentally different engagement patterns and outcomes at Buzzvil.</description>
+    </item>
     <item>
       <title>The 2026 Buzzvil Design Stack, Preparing for the AI Shift</title>
-      <link>https://mmaxence.me/blog/posts/2026-buzzvil-design-stack/</link>
+      <link>http://localhost:1313/blog/posts/2026-buzzvil-design-stack/</link>
       <pubDate>Thu, 27 Nov 2025 10:00:00 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/2026-buzzvil-design-stack/</guid>
+      <guid>http://localhost:1313/blog/posts/2026-buzzvil-design-stack/</guid>
       <description>&lt;p&gt;2026 marks a transition year for Buzzvil Design. Our tool choices are no longer just operational decisions, they are strategic steps toward a unified, code-connected design system capable of supporting the next generation of AI-assisted product creation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Life in Sprint Mode: Raising Two Kids While Working at a Hyper-Dynamic Korean Startup</title>
-      <link>https://mmaxence.me/blog/posts/life-in-sprint-mode-raising-two-kids-while-working-at-a-hyper-dynamic-korean-startup/</link>
+      <link>http://localhost:1313/blog/posts/life-in-sprint-mode-raising-two-kids-while-working-at-a-hyper-dynamic-korean-startup/</link>
       <pubDate>Tue, 28 Oct 2025 14:53:35 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/life-in-sprint-mode-raising-two-kids-while-working-at-a-hyper-dynamic-korean-startup/</guid>
+      <guid>http://localhost:1313/blog/posts/life-in-sprint-mode-raising-two-kids-while-working-at-a-hyper-dynamic-korean-startup/</guid>
       <description>&lt;p&gt;The house wakes up before the city does, and by the time I open my laptop, I&amp;rsquo;ve already negotiated breakfast, socks, and small acts of rebellion. Mornings start with spilled milk; evenings end with unread messages. Somewhere between product reviews and bedtime stories, things blur together: noise, laughter, Slack, Lego. It&amp;rsquo;s not balance, but a kind of rhythm. Imperfect, fast, sometimes ridiculous, and strangely, it works. But how?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beyond the Horizon: A Journey Through the Evolution of AI Interaction</title>
-      <link>https://mmaxence.me/blog/posts/beyond-the-horizon-a-journey-through-the-evolution-of-ai-interaction/report_adapted_updated/</link>
+      <link>http://localhost:1313/blog/posts/beyond-the-horizon-a-journey-through-the-evolution-of-ai-interaction/report_adapted_updated/</link>
       <pubDate>Mon, 28 Jul 2025 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/beyond-the-horizon-a-journey-through-the-evolution-of-ai-interaction/report_adapted_updated/</guid>
+      <guid>http://localhost:1313/blog/posts/beyond-the-horizon-a-journey-through-the-evolution-of-ai-interaction/report_adapted_updated/</guid>
       <description>&lt;h2 id=&#34;a-brief-step-back&#34;&gt;A brief step back&lt;/h2&gt;&#xA;&lt;p&gt;Over the last decade I’ve seen design evolve from being a discipline stuck on its own to one that truly supports business goals.  When I started my career, I was the only designer on projects and had to build my own methodologies from scratch.  That taught me the value of simplifying complex ideas, using numbers to back decisions, and building reusable systems so that your team isn’t reinventing the wheel every time.  Those same lessons apply to the current hype around AI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>High output management: identifying and measuring your design outputs</title>
-      <link>https://mmaxence.me/blog/posts/high_output_management/</link>
+      <link>http://localhost:1313/blog/posts/high_output_management/</link>
       <pubDate>Fri, 28 Feb 2020 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/high_output_management/</guid>
+      <guid>http://localhost:1313/blog/posts/high_output_management/</guid>
       <description>&lt;h4 id=&#34;design-oriented-takeaways-from-andrew-groves-best-seller&#34;&gt;Design oriented Takeaways from Andrew Grove’s best seller.&lt;/h4&gt;&#xA;&lt;p&gt;My CEO strongly recommended me to read “&lt;a href=&#34;https://www.goodreads.com/book/show/324750.High_Output_Management&#34;&gt;High output management&lt;/a&gt;” a while ago as my team was growing and my management responsibilities accentuated. It eventually gave me some of the most valuable insights for me to grow as a manager. This article analyses and translates my personal experiences, describing how I translated Grove’s inputs into my Design lead routine. But first I’d like to start with a short back story to understand where I come from.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tools to build a design system in 2020</title>
-      <link>https://mmaxence.me/blog/posts/tools_to_build_a_design_system_in_2020/</link>
+      <link>http://localhost:1313/blog/posts/tools_to_build_a_design_system_in_2020/</link>
       <pubDate>Thu, 06 Feb 2020 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/tools_to_build_a_design_system_in_2020/</guid>
+      <guid>http://localhost:1313/blog/posts/tools_to_build_a_design_system_in_2020/</guid>
       <description>&lt;p&gt;A snap taken during our last sprint prior to publish our system online&lt;/p&gt;&#xA;&lt;p&gt;This is a healthy, yearly routine I genuinely recommend to follow regardless of the size of your team: gauging your current toolbox against what’s new in the busy design tool industry. We are a team of 6 designers (3 visual &amp;amp; 3 product designers). We conducted our research and tests with a focus on design systems. You’ll find tons of other articles about this, we’ve read them all (or close) and now posting our share to the chain :).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design Tempo: the art of managing creative pace</title>
-      <link>https://mmaxence.me/blog/posts/design_tempo/</link>
+      <link>http://localhost:1313/blog/posts/design_tempo/</link>
       <pubDate>Fri, 10 Jan 2020 08:10:00 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/design_tempo/</guid>
+      <guid>http://localhost:1313/blog/posts/design_tempo/</guid>
       <description>&lt;p&gt;Designers, like musicians, need to play in diapason in order to come up with melodious experiences. 🎶&lt;/p&gt;&#xA;&lt;p&gt;This is a subjective essay, a short read about &lt;strong&gt;Creative team pace management&lt;/strong&gt;. It is based on experience, discussions with peers over the years, personal thoughts &amp;amp; analysis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design criticism</title>
-      <link>https://mmaxence.me/blog/posts/design_criticism/</link>
+      <link>http://localhost:1313/blog/posts/design_criticism/</link>
       <pubDate>Mon, 06 Jan 2020 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/design_criticism/</guid>
+      <guid>http://localhost:1313/blog/posts/design_criticism/</guid>
       <description>&lt;h3 id=&#34;how-to-avoid-friction-when-receiving-feedback-on-your-design&#34;&gt;How to avoid friction when receiving feedback on your design.&lt;/h3&gt;&#xA;&lt;p&gt;It usually starts like this:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I don’t like the blue here, can you please change to something more&amp;hellip; red-ish?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is generally enough for a designer’s face to turn.. 😡 &lt;em&gt;red-ish&lt;/em&gt; and internally blame the poor bastard’s parents for bringing him to this world. Probably also questioning why someone with such poor fashion taste would even dare question his or her Design choices..&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study*(Designers&#43;Engineers)= ❤️ pt.2</title>
-      <link>https://mmaxence.me/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt2/</link>
+      <link>http://localhost:1313/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt2/</link>
       <pubDate>Mon, 09 Dec 2019 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt2/</guid>
-      <description>&lt;p&gt;We’ve shared a &lt;a href=&#34;https://mmaxence.me/blog/posts/studydesigners+engineers-%EF%B8%8F-pt1/&#34;&gt;first story&lt;/a&gt; about how we started a study between engineers and designers. The outcome was a lot of fun and a CI pipeline from Figma to Android environment called Phantom Box. This story is about the second act of our study.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt2/</guid>
+      <description>&lt;p&gt;We’ve shared a &lt;a href=&#34;http://localhost:1313/blog/posts/studydesigners+engineers-%EF%B8%8F-pt1/&#34;&gt;first story&lt;/a&gt; about how we started a study between engineers and designers. The outcome was a lot of fun and a CI pipeline from Figma to Android environment called Phantom Box. This story is about the second act of our study.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study*(Designers&#43;Engineers)= ❤️ pt.1</title>
-      <link>https://mmaxence.me/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt1/</link>
+      <link>http://localhost:1313/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt1/</link>
       <pubDate>Sat, 07 Dec 2019 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt1/</guid>
+      <guid>http://localhost:1313/blog/posts/studydesigners&#43;engineers-%EF%B8%8F-pt1/</guid>
       <description>&lt;p&gt;About a year ago we started a small study group with engineers and designers to understand each other better. It was an insightful and fun experience. Fun enough to run 2 different projects summarized over 2 different stories. Here is the first one, sharing both designer and engineer points of views.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design system at Buzzvil</title>
-      <link>https://mmaxence.me/blog/posts/design-system-at-buzzvil/</link>
+      <link>http://localhost:1313/blog/posts/design-system-at-buzzvil/</link>
       <pubDate>Thu, 16 May 2019 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/design-system-at-buzzvil/</guid>
+      <guid>http://localhost:1313/blog/posts/design-system-at-buzzvil/</guid>
       <description>&lt;p&gt;Design system vs startup. Takeaways.&lt;/p&gt;&#xA;&lt;p&gt;We built a Design system. It took us time, resources and a lot of energy, involving pretty much everyone in our design team. And it’s just the beginning of a long story. If you are working at a startup and are considering building a design system, you might find clues reading about our experience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design peer reviews to support our team growth</title>
-      <link>https://mmaxence.me/blog/posts/design-peer-reviews-to-support-our-team-growth/</link>
+      <link>http://localhost:1313/blog/posts/design-peer-reviews-to-support-our-team-growth/</link>
       <pubDate>Fri, 12 Apr 2019 11:31:33 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/design-peer-reviews-to-support-our-team-growth/</guid>
+      <guid>http://localhost:1313/blog/posts/design-peer-reviews-to-support-our-team-growth/</guid>
       <description>&lt;p&gt;I always hope to see my teammates collaborate more. Now that we are at a stage of faster growth, more fellow designers are going to join us and it felt like a good timing to push forward this all peer-review strategy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Buzzvil Design Team toolbox in 2019</title>
-      <link>https://mmaxence.me/blog/posts/buzzvil-design-team-toolbox-in-2019/</link>
+      <link>http://localhost:1313/blog/posts/buzzvil-design-team-toolbox-in-2019/</link>
       <pubDate>Tue, 15 Jan 2019 11:07:21 +0900</pubDate>
-      <guid>https://mmaxence.me/blog/posts/buzzvil-design-team-toolbox-in-2019/</guid>
+      <guid>http://localhost:1313/blog/posts/buzzvil-design-team-toolbox-in-2019/</guid>
       <description>&lt;p&gt;Hi, I’m Max and I lead a team of designers at Buzzvil. When we’ve decided last year to drastically change our design toolbox, I was pleased to find plenty of insights from other teams around the world. This post talks about our decisions and related needs!&lt;/p&gt;</description>
     </item>
   </channel>

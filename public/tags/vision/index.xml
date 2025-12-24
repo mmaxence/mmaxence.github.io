@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vision on Product Designer, CDO at buzzvil</title>
-    <link>https://mmaxence.me/tags/vision/</link>
+    <link>http://localhost:1313/tags/vision/</link>
     <description>Recent content in Vision on Product Designer, CDO at buzzvil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2021 15:47:02 +0900</lastBuildDate>
-    <atom:link href="https://mmaxence.me/tags/vision/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Manager @buzzvil</title>
-      <link>https://mmaxence.me/timeline/posts/buzzvil-pm/</link>
+      <link>http://localhost:1313/timeline/posts/buzzvil-pm/</link>
       <pubDate>Fri, 01 Jan 2021 15:47:02 +0900</pubDate>
-      <guid>https://mmaxence.me/timeline/posts/buzzvil-pm/</guid>
+      <guid>http://localhost:1313/timeline/posts/buzzvil-pm/</guid>
       <description>&lt;p&gt;From January 2021, I took on a product Manager role for our supply business. I led a cross-functional team of 10 members and I was in charge of the performance of our supply products interfaces (for App/Web Publishers) until March 2022. This was the first second-degree management opportunity I&amp;rsquo;ve had as this team also counts one PM in charge of specific products. After a little more than one year of kicking off this mission team, we&amp;rsquo;ve recorded several KPI improvements, with most products refactored for greater interconnection, paving the way for further opportunities.&lt;/p&gt;</description>
     </item>
   </channel>
