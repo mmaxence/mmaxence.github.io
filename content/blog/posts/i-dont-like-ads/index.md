@@ -2,6 +2,9 @@
 title: "I Don't Like Ads"
 date: 2025-01-27T10:00:00+09:00
 draft: false
+featured_image: "/blog/posts/i-dont-like-ads/cover.jpg"
+credential: ""
+credentiallink: ""
 tags: ["design", "adtech", "interaction-design", "product-design"]
 categories: ["design"]
 summary: "How treating ads as interaction systems rather than endpoints led to fundamentally different engagement patterns and outcomes at Buzzvil."
@@ -58,6 +61,8 @@ A few concrete cases help make this more tangible.
 
 ## Game UA: Activation After Installation
 
+![Game UA activation flow](/blog/posts/i-dont-like-ads/ua.jpg)
+
 Traditional game user acquisition focuses heavily on installs, then disengages at the point where most users churn. The ad experience stops at the store page. Onboarding, comprehension, and early motivation are left entirely to the game.
 
 Our approach treats installation as the beginning of the experience.
@@ -75,6 +80,8 @@ User acquisition shifts closer to activation. Rewarded missions function as a co
 ## Multi-Mission Brand Campaigns: Sequencing Understanding
 
 From Awareness to Consideration and Conversion
+
+![Multi-mission brand campaign flow](/blog/posts/i-dont-like-ads/brand.jpg)
 
 Brand campaigns often compress too much meaning into a single moment. Awareness, interest, and conversion are expected to happen at once.
 
