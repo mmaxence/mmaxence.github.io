@@ -2,9 +2,6 @@
 title: "I Don't Like Ads"
 date: 2025-01-27T10:00:00+09:00
 draft: false
-featured_image: "/blog/posts/i-dont-like-ads/hero.jpg"
-credential: ""
-credentiallink: ""
 tags: ["design", "adtech", "interaction-design", "product-design"]
 categories: ["design"]
 summary: "How treating ads as interaction systems rather than endpoints led to fundamentally different engagement patterns and outcomes at Buzzvil."
