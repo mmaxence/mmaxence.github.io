@@ -61,7 +61,7 @@ A few concrete cases help make this more tangible.
 
 ## Game UA: Activation After Installation
 
-![Game UA activation flow](/blog/posts/i-dont-like-ads/ua.jpg)
+![Game UA activation flow](/blog/posts/i-dont-like-ads/ua.png)
 
 Traditional game user acquisition focuses heavily on installs, then disengages at the point where most users churn. The ad experience stops at the store page. Onboarding, comprehension, and early motivation are left entirely to the game.
 
@@ -81,7 +81,7 @@ User acquisition shifts closer to activation. Rewarded missions function as a co
 
 From Awareness to Consideration and Conversion
 
-![Multi-mission brand campaign flow](/blog/posts/i-dont-like-ads/brand.jpg)
+![Multi-mission brand campaign flow](/blog/posts/i-dont-like-ads/brands.png)
 
 Brand campaigns often compress too much meaning into a single moment. Awareness, interest, and conversion are expected to happen at once.
 
