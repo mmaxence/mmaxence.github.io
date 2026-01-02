@@ -17,9 +17,9 @@ Early in my career, I wanted to work on what most designers want to work on. Con
 
 It did not take long to realize two things.
 
-First, many designers want those roles, especially early in their careers. Competition is high, and opportunities to influence direction meaningfully are limited.
+First, while these products always leave room for improvement, they already serve their audiences well. The problems tend to be incremental. Optimizations rather than structural shifts. The likelihood of spending years on micro-improvements felt high.
 
-Second, while these products always leave room for improvement, they already serve their audiences well. The problems tend to be incremental. Optimizations rather than structural shifts. The likelihood of spending years on micro-improvements felt high.
+Second, many designers want those roles, especially early in their careers. Competition is high, and opportunities to influence direction meaningfully are limited.
 
 That pushed me to look elsewhere.
 
