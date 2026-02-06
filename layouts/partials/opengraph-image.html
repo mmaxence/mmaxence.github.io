@@ -5,9 +5,17 @@
 */}}
 {{ $featured := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured }}
+  {{/* Convert to absolute URL - handle relative paths from page bundles */}}
   {{ $absoluteURL := $featured }}
-  {{ if not (hasPrefix $featured "http") }}
-    {{ $absoluteURL = $featured | absURL }}
+  {{ if not (hasPrefix $featured "http://") }}
+    {{ if not (hasPrefix $featured "https://") }}
+      {{ if hasPrefix $featured "//" }}
+        {{ $absoluteURL = printf "https:%s" $featured }}
+      {{ else }}
+        {{/* Use absURL which should convert relative to absolute */}}
+        {{ $absoluteURL = $featured | absURL }}
+      {{ end }}
+    {{ end }}
   {{ end }}
   <meta property="og:image" content="{{ $absoluteURL }}">
   <meta name="twitter:card" content="summary_large_image">
