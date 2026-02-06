@@ -1,0 +1,15 @@
+{{/*
+  Outputs Open Graph and Twitter Card image meta tags so shared blog posts
+  show the cover/featured image on SNS. Uses .Params.featured_image (and
+  theme's GetFeaturedImage fallbacks) and ensures absolute URLs.
+*/}}
+{{ $featured := partial "func/GetFeaturedImage.html" . }}
+{{ if $featured }}
+  {{ $absoluteURL := $featured }}
+  {{ if not (hasPrefix $featured "http") }}
+    {{ $absoluteURL = $featured | absURL }}
+  {{ end }}
+  <meta property="og:image" content="{{ $absoluteURL }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ $absoluteURL }}">
+{{ end }}

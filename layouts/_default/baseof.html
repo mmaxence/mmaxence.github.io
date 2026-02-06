@@ -32,6 +32,7 @@
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
+    {{ partial "opengraph-image.html" . }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
   </head>
 
