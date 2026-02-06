@@ -2,19 +2,25 @@
   Outputs Open Graph and Twitter Card image meta tags so shared blog posts
   show the cover/featured image on SNS. Uses .Params.featured_image (and
   theme's GetFeaturedImage fallbacks) and ensures absolute URLs.
+  
+  GetFeaturedImage returns:
+  - Absolute URLs (from urls.AbsURL for static files) - may be protocol-relative // or full https://
+  - Relative URLs (from .RelPermalink for page bundle resources) - starts with /
 */}}
 {{ $featured := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured }}
-  {{/* Convert to absolute URL - handle relative paths from page bundles */}}
   {{ $absoluteURL := $featured }}
-  {{ if not (hasPrefix $featured "http://") }}
-    {{ if not (hasPrefix $featured "https://") }}
-      {{ if hasPrefix $featured "//" }}
-        {{ $absoluteURL = printf "https:%s" $featured }}
-      {{ else }}
-        {{/* Use absURL which should convert relative to absolute */}}
-        {{ $absoluteURL = $featured | absURL }}
-      {{ end }}
+  {{/* Ensure absolute URL with https:// protocol */}}
+  {{ if not (hasPrefix $featured "https://") }}
+    {{ if hasPrefix $featured "//" }}
+      {{/* Protocol-relative URL - convert to https:// */}}
+      {{ $absoluteURL = printf "https:%s" $featured }}
+    {{ else if hasPrefix $featured "/" }}
+      {{/* Relative URL from page bundle - convert to absolute using baseURL */}}
+      {{ $absoluteURL = printf "%s%s" (strings.TrimSuffix "/" .Site.BaseURL) $featured }}
+    {{ else if not (hasPrefix $featured "http://") }}
+      {{/* Fallback: use absURL filter */}}
+      {{ $absoluteURL = $featured | absURL }}
     {{ end }}
   {{ end }}
   <meta property="og:image" content="{{ $absoluteURL }}">
